@@ -1,0 +1,1862 @@
+Corp ID,Corp Name,Schl ID,Schl Name,American Indian,Asian,Black,Hispanic,Multiracial,Native Hawaiian or Other Pacific Islander,White,Free/Reduced price meals,Paid meals,Grand Total
+15,Adams Central Community Schools,13,Adams Central Middle School,,3,2,11,8,,288,81,231,312
+15,Adams Central Community Schools,20,Adams Central Elementary School,1,1,4,34,18,,603,154,507,661
+15,Adams Central Community Schools,21,Adams Central High School,1,1,2,13,2,,351,79,291,370
+25,North Adams Community Schools,29,Bellmont Senior High School,1,4,8,76,21,,537,219,428,647
+25,North Adams Community Schools,33,Bellmont Middle School,,4,9,33,6,2,302,196,160,356
+25,North Adams Community Schools,37,Bellmont Elementary,,5,18,81,27,1,506,375,263,638
+35,South Adams Schools,17,South Adams Middle School,,2,3,38,6,,212,116,145,261
+35,South Adams Schools,23,South Adams High School,,7,3,34,5,,300,119,230,349
+35,South Adams Schools,25,South Adams Elementary School,,5,,68,17,1,537,295,333,628
+125,MSD Southwest Allen County Schls,45,Aboite Elementary School,4,20,10,20,24,,359,81,356,437
+125,MSD Southwest Allen County Schls,46,Whispering Meadow Elementary Sch,2,39,77,35,38,,366,155,402,557
+125,MSD Southwest Allen County Schls,47,Homestead Senior High School,9,112,133,180,117,4,1948,386,2117,2503
+125,MSD Southwest Allen County Schls,63,Summit Middle School,2,26,31,47,29,,703,144,694,838
+125,MSD Southwest Allen County Schls,64,Lafayette Meadow School,,11,24,33,28,,577,113,560,673
+125,MSD Southwest Allen County Schls,67,Woodside Middle School,2,64,114,73,54,5,711,214,809,1023
+125,MSD Southwest Allen County Schls,68,Haverhill Elementary School,,15,36,36,24,,342,101,352,453
+125,MSD Southwest Allen County Schls,71,Deer Ridge Elementary,4,30,14,22,21,,308,30,369,399
+125,MSD Southwest Allen County Schls,72,Covington Elementary School,,35,108,51,55,1,562,185,627,812
+225,Northwest Allen County Schools,69,Arcola School,2,,1,16,13,,167,66,133,199
+225,Northwest Allen County Schools,79,Maple Creek Middle School,,38,28,40,42,,769,133,784,917
+225,Northwest Allen County Schools,87,Hickory Center Elementary School,4,25,14,15,25,,289,92,280,372
+225,Northwest Allen County Schools,89,Huntertown Elementary School,3,52,12,37,36,2,498,242,398,640
+225,Northwest Allen County Schools,90,Carroll Middle School,2,47,29,48,66,,781,267,706,973
+225,Northwest Allen County Schools,91,Carroll High School,3,96,56,119,105,2,2094,447,2028,2475
+225,Northwest Allen County Schools,92,Perry Hill Elementary School,1,21,19,30,39,,501,107,504,611
+225,Northwest Allen County Schools,94,Oak View Elementary School,,31,12,21,23,1,413,45,456,501
+225,Northwest Allen County Schools,95,Cedar Canyon Elementary School,1,44,17,27,21,,507,58,559,617
+225,Northwest Allen County Schools,96,Eel River Elementary School,,31,17,29,44,,445,119,447,566
+235,Fort Wayne Community Schools,100,Allen Co Juvenile Center,,,2,2,,,2,,6,6
+235,Fort Wayne Community Schools,101,North Side High School,1,97,362,272,180,4,631,1064,483,1547
+235,Fort Wayne Community Schools,102,R Nelson Snider High School,6,85,411,258,159,1,910,876,954,1830
+235,Fort Wayne Community Schools,105,South Side High School,1,98,424,486,136,2,268,1036,379,1415
+235,Fort Wayne Community Schools,107,Blackhawk Middle School,2,47,183,101,71,,422,415,411,826
+235,Fort Wayne Community Schools,118,Jeff H Towles Intermediate School,1,14,145,127,59,1,210,303,254,557
+235,Fort Wayne Community Schools,119,Jefferson Middle School,2,21,113,91,68,1,423,373,346,719
+235,Fort Wayne Community Schools,121,Kekionga Middle School,1,32,161,158,73,,148,463,110,573
+235,Fort Wayne Community Schools,125,Lakeside Middle School,,35,134,71,86,1,185,395,117,512
+235,Fort Wayne Community Schools,126,Lane Middle School,4,59,240,163,70,2,199,524,213,737
+235,Fort Wayne Community Schools,127,Memorial Park Middle School,4,19,192,146,42,,192,384,211,595
+235,Fort Wayne Community Schools,128,Miami Middle School,,85,208,107,51,,107,443,115,558
+235,Fort Wayne Community Schools,129,Northwood Middle School,,28,108,137,59,1,252,404,181,585
+235,Fort Wayne Community Schools,133,Portage Middle School,,6,138,116,59,1,142,360,102,462
+235,Fort Wayne Community Schools,134,Weisser Park Elementary School,3,10,184,110,46,,230,331,252,583
+235,Fort Wayne Community Schools,136,Fairfield Elementary School,,29,196,167,64,,77,475,58,533
+235,Fort Wayne Community Schools,137,Merle J Abbett Elementary School,,15,241,203,36,1,28,449,75,524
+235,Fort Wayne Community Schools,141,Adams Elementary School,,13,80,119,30,,43,245,40,285
+235,Fort Wayne Community Schools,149,Bloomingdale Elementary School,,7,71,85,45,,123,292,39,331
+235,Fort Wayne Community Schools,151,Bunche Elementary School,,3,53,30,15,,85,98,88,186
+235,Fort Wayne Community Schools,153,Brentwood Elementary School,1,64,138,47,49,,126,324,101,425
+235,Fort Wayne Community Schools,154,Fred H Croninger Elementary School,2,23,90,33,55,1,432,186,450,636
+235,Fort Wayne Community Schools,157,Forest Park Elementary School,3,65,148,77,70,4,218,436,149,585
+235,Fort Wayne Community Schools,161,Franke Park Elementary School,1,15,32,75,45,,219,295,92,387
+235,Fort Wayne Community Schools,162,Glenwood Park Elementary School,,86,94,55,60,,259,351,203,554
+235,Fort Wayne Community Schools,164,J Wilbur Haley Elementary School,,32,163,83,88,,238,382,222,604
+235,Fort Wayne Community Schools,177,Wayne High School,3,159,435,229,109,1,459,935,460,1395
+235,Fort Wayne Community Schools,178,Harrison Hill Elementary School,,97,159,186,48,1,96,471,116,587
+235,Fort Wayne Community Schools,186,Mabel K Holland Elementary School,,25,44,65,63,,223,271,149,420
+235,Fort Wayne Community Schools,189,Indian Village Elementary School,4,6,100,117,39,,128,284,110,394
+235,Fort Wayne Community Schools,193,John S Irwin Elementary School,,3,145,36,33,,70,184,103,287
+235,Fort Wayne Community Schools,197,Lindley Elementary School,,5,56,112,32,2,85,188,104,292
+235,Fort Wayne Community Schools,205,Maplewood Elementary School,2,20,142,77,55,,192,369,119,488
+235,Fort Wayne Community Schools,209,Willard Shambaugh Elementary Sch,1,5,26,36,28,1,215,188,124,312
+235,Fort Wayne Community Schools,217,Northcrest Elementary School,1,67,134,94,40,,86,321,101,422
+235,Fort Wayne Community Schools,219,Northrop High School,14,118,381,326,165,4,1038,1077,969,2046
+235,Fort Wayne Community Schools,221,Francis M Price Elementary School,,8,34,74,54,,251,264,157,421
+235,Fort Wayne Community Schools,233,Saint Joseph Central School,,12,59,39,36,,254,182,218,400
+235,Fort Wayne Community Schools,239,Robert C Harris Elementary School,,27,62,43,31,,197,196,164,360
+235,Fort Wayne Community Schools,240,Shawnee Middle School,3,43,178,146,75,4,241,478,212,690
+235,Fort Wayne Community Schools,241,Whitney M Young Early Childhood,,3,59,37,16,1,82,100,98,198
+235,Fort Wayne Community Schools,249,Levan R Scott Academy,,127,172,98,20,,23,392,48,440
+235,Fort Wayne Community Schools,253,South Wayne Elementary School,,14,119,118,49,,73,315,58,373
+235,Fort Wayne Community Schools,257,Study Elementary School,1,10,62,89,37,,75,247,27,274
+235,Fort Wayne Community Schools,265,Washington Elementary School,,1,41,48,19,,91,163,37,200
+235,Fort Wayne Community Schools,269,Washington Center Elementary Sch,,23,62,55,45,1,308,312,182,494
+235,Fort Wayne Community Schools,270,Lincoln Elementary School,3,23,151,150,65,3,237,453,179,632
+235,Fort Wayne Community Schools,273,Waynedale Elementary School,,46,96,50,45,,171,289,119,408
+235,Fort Wayne Community Schools,275,Arlington Elementary School,,11,83,54,37,,187,174,198,372
+255,East Allen County Schools,43,Prince Chapman Academy,,385,207,119,38,,45,672,122,794
+255,East Allen County Schools,49,Leo Junior/Senior High School,6,25,29,57,54,1,1227,247,1152,1399
+255,East Allen County Schools,53,Leo Elementary School,,1,15,18,27,,565,130,496,626
+255,East Allen County Schools,81,Heritage Jr/Sr High School,4,158,68,73,35,1,447,414,372,786
+255,East Allen County Schools,83,New Haven Primary School,,4,40,36,36,,346,267,195,462
+255,East Allen County Schools,281,Heritage Elementary School,1,19,57,55,25,,339,273,223,496
+255,East Allen County Schools,285,Woodlan Jr/Sr High School,,11,16,29,20,1,632,180,529,709
+255,East Allen County Schools,291,Cedarville Elementary School,,7,14,35,56,,683,169,626,795
+255,East Allen County Schools,294,Paul Harding Jr High School,,203,124,63,21,,22,360,73,433
+255,East Allen County Schools,297,New Haven Jr/Sr High School,2,123,278,117,88,2,696,766,540,1306
+255,East Allen County Schools,305,New Haven Intermediate School,,8,70,41,47,1,400,343,224,567
+255,East Allen County Schools,310,Southwick Elementary School,,274,167,79,20,,57,503,94,597
+255,East Allen County Schools,318,EACS Early Childhood Preschool,,4,8,4,4,,28,24,24,48
+255,East Allen County Schools,323,Woodlan Elementary School,,3,6,22,18,,493,200,342,542
+255,East Allen County Schools,394,East Allen University,,118,29,47,18,,124,194,142,336
+365,Bartholomew Con School Corp,328,Clifty Creek Elementary School,2,30,16,184,20,,316,377,191,568
+365,Bartholomew Con School Corp,346,CSA Lincoln Campus,,21,7,38,13,,286,97,268,365
+365,Bartholomew Con School Corp,353,Mount Healthy Elementary School,2,5,5,35,11,,381,174,265,439
+365,Bartholomew Con School Corp,354,Richard L Johnson Early Educ Cntr,1,3,7,13,1,,52,33,44,77
+365,Bartholomew Con School Corp,357,Parkside Elementary School,2,111,13,152,29,,451,304,454,758
+365,Bartholomew Con School Corp,363,W D Richards Elementary School,,32,11,119,28,,364,222,332,554
+365,Bartholomew Con School Corp,366,Rockcreek Elementary School,,1,2,17,6,,315,126,215,341
+365,Bartholomew Con School Corp,369,Lillian Schmitt Elementary School,2,10,34,113,63,1,477,489,211,700
+365,Bartholomew Con School Corp,371,L F Smith Elementary,1,21,18,60,31,,334,243,222,465
+365,Bartholomew Con School Corp,375,CSA Fodrea Campus,2,92,9,41,14,,201,129,230,359
+365,Bartholomew Con School Corp,377,Taylorsville Elementary School,,2,11,218,23,,346,427,173,600
+365,Bartholomew Con School Corp,390,Central Middle School,6,53,21,111,36,1,617,380,465,845
+365,Bartholomew Con School Corp,392,Southside Elementary School,3,277,18,110,25,1,471,172,733,905
+365,Bartholomew Con School Corp,395,Northside Middle School,3,46,12,176,37,2,568,373,471,844
+365,Bartholomew Con School Corp,397,Columbus North High School,12,132,45,437,69,,1395,697,1393,2090
+365,Bartholomew Con School Corp,399,Columbus East High School,4,24,41,144,67,,1285,503,1062,1565
+370,Flat Rock-Hawcreek School Corp,409,Hope Elementary School,1,3,5,16,19,,447,235,256,491
+370,Flat Rock-Hawcreek School Corp,410,Hauser Jr-Sr High School,,6,,11,14,3,456,177,313,490
+395,Benton Community School Corp,421,Otterbein Elementary School,,,3,16,1,,251,94,177,271
+395,Benton Community School Corp,433,Boswell Elementary School,1,,1,57,2,,76,103,34,137
+395,Benton Community School Corp,445,Benton Central Jr-Sr High School,2,1,4,75,26,,709,326,491,817
+395,Benton Community School Corp,446,Prairie Crossing Elementary School,,1,3,25,9,,378,227,189,416
+515,Blackford County Schools,485,Montpelier School,,,1,6,4,,154,95,70,165
+515,Blackford County Schools,489,Blackford Jr-Sr High School,,1,2,26,27,,665,334,387,721
+515,Blackford County Schools,494,Blackford Intermediate School,1,1,2,19,13,,319,192,163,355
+515,Blackford County Schools,501,North Side Elementary School,,,2,7,26,1,231,130,137,267
+615,Western Boone Co Com Sch Dist,521,Granville Wells Elementary School,,3,,12,11,,379,125,280,405
+615,Western Boone Co Com Sch Dist,537,Thorntown Elementary School,,,1,15,7,,429,146,306,452
+615,Western Boone Co Com Sch Dist,539,Western Boone Jr-Sr High School,1,1,5,26,12,1,794,275,565,840
+630,Zionsville Community Schools,510,Zionsville West Middle School,2,94,37,83,82,,855,84,1069,1153
+630,Zionsville Community Schools,511,Zionsville Middle School,,38,16,50,47,,1039,47,1143,1190
+630,Zionsville Community Schools,512,Zionsville Community High School,5,118,45,98,106,,1789,121,2040,2161
+630,Zionsville Community Schools,514,Eagle Elementary School,,26,11,29,25,,348,38,401,439
+630,Zionsville Community Schools,517,Zionsville Pleasant View Elem Sch,1,31,5,32,38,2,709,25,793,818
+630,Zionsville Community Schools,541,Union Elementary School,,36,14,28,35,,542,14,641,655
+630,Zionsville Community Schools,542,Stonegate Elementary,1,25,15,20,35,2,396,45,449,494
+630,Zionsville Community Schools,544,Boone Meadow,2,69,20,21,30,1,397,26,514,540
+665,Lebanon Community School Corp,534,Perry Worth Elementary School,,7,25,15,20,,291,64,294,358
+665,Lebanon Community School Corp,553,Lebanon Senior High School,1,15,32,83,38,,848,342,675,1017
+665,Lebanon Community School Corp,557,Lebanon Middle School,,5,21,67,30,,666,299,490,789
+665,Lebanon Community School Corp,561,Central Elementary School,,2,3,19,6,,317,104,243,347
+665,Lebanon Community School Corp,565,Harney Elementary School,1,1,5,29,10,,367,180,233,413
+665,Lebanon Community School Corp,569,Hattie B Stokes Elementary School,,3,9,34,28,,323,268,129,397
+670,Brown County School Corporation,571,Brown County Intermediate School,2,,4,5,4,,237,135,117,252
+670,Brown County School Corporation,573,Brown County High School,4,6,1,16,13,,509,221,328,549
+670,Brown County School Corporation,577,Van Buren Elementary School,,1,,4,3,1,203,81,131,212
+670,Brown County School Corporation,581,Helmsburg Elementary School,,,2,7,4,1,176,84,106,190
+670,Brown County School Corporation,585,Sprunica Elementary School,2,,,4,1,,230,122,115,237
+670,Brown County School Corporation,587,Brown County Junior High,1,1,2,3,5,1,260,133,140,273
+750,Carroll Consolidated School Corp,621,Carroll Senior High School,,2,1,15,7,1,306,116,216,332
+750,Carroll Consolidated School Corp,623,Carroll Junior High School,,,1,8,6,,154,71,98,169
+750,Carroll Consolidated School Corp,629,Carroll Elementary School,,1,5,27,18,,491,290,252,542
+755,Delphi Community School Corp,609,Delphi Community Middle School,1,1,6,39,7,,278,168,164,332
+755,Delphi Community School Corp,637,Delphi Community High School,,,6,46,13,,386,205,246,451
+755,Delphi Community School Corp,641,Delphi Community Elementary School,2,1,6,58,9,,538,329,285,614
+775,Pioneer Regional School Corp,645,Pioneer Jr-Sr High School,2,5,4,29,12,,413,220,245,465
+775,Pioneer Regional School Corp,649,Pioneer Elementary School,2,4,1,23,18,,447,249,246,495
+815,Lewis Cass Schools,689,Lewis Cass High School,1,5,,29,9,,382,160,266,426
+815,Lewis Cass Schools,691,Lewis Cass Junior High School,,4,1,20,12,1,280,130,188,318
+815,Lewis Cass Schools,695,Lewis Cass Elementary School,,7,6,40,34,,505,302,290,592
+875,Logansport Community Sch Corp,701,Logansport Community High School,1,40,42,558,35,,615,664,627,1291
+875,Logansport Community Sch Corp,702,Logansport Junior High School,1,14,14,296,21,,288,359,275,634
+875,Logansport Community Sch Corp,705,Franklin Elementary School,,3,4,158,22,,211,234,164,398
+875,Logansport Community Sch Corp,709,Fairview Elementary School,,6,4,174,13,,170,219,148,367
+875,Logansport Community Sch Corp,711,Landis Elementary School,,31,7,395,35,,335,451,352,803
+875,Logansport Community Sch Corp,713,Columbia Elementary School,,20,19,251,16,,151,340,117,457
+875,Logansport Community Sch Corp,715,Columbia 6th Grade Academy,,9,8,141,12,,154,189,135,324
+935,Borden-Henryville School Corp,765,Henryville Jr & Sr High School,,1,5,12,14,,458,138,352,490
+935,Borden-Henryville School Corp,767,Henryville Elementary School,,4,5,7,29,,608,252,401,653
+935,Borden-Henryville School Corp,813,William W Borden High School,,2,1,8,3,,318,72,260,332
+935,Borden-Henryville School Corp,815,William W Borden Elementary School,,1,2,5,7,,291,106,200,306
+945,Silver Creek School Corporation,777,Silver Creek High School,1,9,22,76,28,4,729,180,689,869
+945,Silver Creek School Corporation,781,Silver Creek Middle School,,10,16,69,33,,546,211,463,674
+945,Silver Creek School Corporation,789,Silver Creek Elementary School,2,10,11,96,42,,660,235,586,821
+945,Silver Creek School Corporation,818,Silver Creek Primary School,1,3,8,37,21,,365,106,329,435
+1000,Clarksville Community School Corp,833,Clarksville Senior High School,1,1,34,41,29,,247,138,215,353
+1000,Clarksville Community School Corp,845,Clarksville Elementary School,,3,36,100,55,,303,270,227,497
+1000,Clarksville Community School Corp,851,Clarksville Middle School,,,25,51,29,,220,164,161,325
+1000,Clarksville Community School Corp,1007,Indiana Gateway Digital Academy,4,11,345,219,136,2,1551,1640,628,2268
+1010,Greater Clark County Schools,755,W E Wilson Elementary,2,9,122,57,78,1,227,256,240,496
+1010,Greater Clark County Schools,761,Thomas Jefferson Elementary School,,4,30,30,46,,226,163,173,336
+1010,Greater Clark County Schools,801,Northaven Elementary School,1,19,90,137,79,12,166,316,188,504
+1010,Greater Clark County Schools,805,Utica Elementary School,3,3,47,16,56,,428,140,413,553
+1010,Greater Clark County Schools,807,New Washington Elementary School,1,,1,8,15,,272,150,147,297
+1010,Greater Clark County Schools,809,New Washington Middle/High School,,1,,7,13,,302,141,182,323
+1010,Greater Clark County Schools,821,Charlestown Senior High School,1,4,28,79,23,,608,302,441,743
+1010,Greater Clark County Schools,825,Jonathan Jennings Elementary Sch,1,3,14,48,44,1,385,244,252,496
+1010,Greater Clark County Schools,829,Pleasant Ridge Elementary School,,1,14,53,46,2,360,223,253,476
+1010,Greater Clark County Schools,849,Jeffersonville High School,8,33,444,345,221,3,1080,1050,1084,2134
+1010,Greater Clark County Schools,853,Parkview Middle School,2,5,172,92,103,4,402,399,381,780
+1010,Greater Clark County Schools,863,Charlestown Middle School,,4,23,62,44,,442,249,326,575
+1010,Greater Clark County Schools,865,Bridgepoint Elementary School,,2,77,40,73,,168,220,140,360
+1010,Greater Clark County Schools,871,Riverside Elementary School,,,64,56,71,,272,253,210,463
+1010,Greater Clark County Schools,874,Franklin Square Elementary School,,,104,35,84,1,141,239,126,365
+1010,Greater Clark County Schools,879,Parkwood Elementary School,,,58,285,51,1,144,334,205,539
+1010,Greater Clark County Schools,883,River Valley Middle School,2,13,192,266,111,5,398,520,467,987
+1010,Greater Clark County Schools,886,Old Corden Porter School,,,6,3,5,,36,32,18,50
+1125,Clay Community Schools,895,Clay City Elementary School,1,1,,11,8,,337,162,196,358
+1125,Clay Community Schools,897,Clay City Jr-Sr High School,2,,,10,3,,364,142,237,379
+1125,Clay Community Schools,901,Jackson Township Elementary School,1,1,,12,12,1,380,149,258,407
+1125,Clay Community Schools,907,Staunton Elementary School,,,,3,14,,274,134,157,291
+1125,Clay Community Schools,923,Van Buren Elementary School,1,,1,1,8,,211,154,68,222
+1125,Clay Community Schools,925,North Clay Middle School,1,3,3,16,27,1,691,413,329,742
+1125,Clay Community Schools,933,Northview High School,,5,8,17,20,,945,436,559,995
+1125,Clay Community Schools,941,East Side Elementary School,,1,,4,3,,202,133,77,210
+1125,Clay Community Schools,942,Forest Park Elementary School,,2,1,6,6,,182,129,68,197
+1125,Clay Community Schools,949,Meridian Street Elementary School,,,1,7,6,,237,148,103,251
+1150,Clinton Central School Corporation,957,Clinton Central Junior-Senior HS,1,,4,22,3,,391,149,272,421
+1150,Clinton Central School Corporation,961,Clinton Central Elementary School,,4,3,26,11,,354,200,198,398
+1160,Clinton Prairie School Corporation,977,Clinton Prairie Jr-Sr High School,,,2,46,8,,488,192,352,544
+1160,Clinton Prairie School Corporation,981,Clinton Prairie Elementary School,3,,2,40,7,,616,295,373,668
+1170,Community Schools of Frankfort,997,Frankfort High School,1,2,1,486,13,1,395,611,288,899
+1170,Community Schools of Frankfort,999,Frankfort Middle School,1,2,5,431,10,2,320,584,187,771
+1170,Community Schools of Frankfort,1014,Blue Ridge Primary Elementary Sch,,2,7,241,11,2,219,342,140,482
+1170,Community Schools of Frankfort,1015,Green Meadows Intermediate Elem,1,1,5,232,14,,176,315,114,429
+1170,Community Schools of Frankfort,1020,Suncrest Elementary School,,,4,286,15,1,265,459,112,571
+1180,Rossville Con School District,1021,Rossville Middle/Senior High Sch,1,3,3,21,10,,464,122,380,502
+1180,Rossville Con School District,1033,Rossville Elementary School,2,1,4,14,10,,399,138,292,430
+1300,Crawford County Community Sch Corp,1037,South Crawford Elementary School,,,,3,2,1,161,93,74,167
+1300,Crawford County Community Sch Corp,1045,West Crawford Elementary School,,,,3,8,,179,137,53,190
+1300,Crawford County Community Sch Corp,1059,Crawford County High School,,,1,6,9,,411,226,201,427
+1300,Crawford County Community Sch Corp,1061,Crawford County Middle School,,,1,4,9,,322,197,139,336
+1300,Crawford County Community Sch Corp,1065,East Crawford Elementary School,,,,1,5,,265,149,122,271
+1315,Barr-Reeve Community Schools Inc,1069,Barr Reeve Middle/High School,,,1,9,4,,463,106,371,477
+1315,Barr-Reeve Community Schools Inc,1075,Barr Reeve Elementary School,,4,2,9,7,,491,126,387,513
+1375,North Daviess Com Schools,1090,North Daviess Elementary School,5,2,1,22,17,1,590,289,349,638
+1375,North Daviess Com Schools,1121,North Daviess Jr-Sr High School,1,1,5,21,10,,452,208,282,490
+1405,Washington Community Schools,1103,Lena Dunn Elementary School,1,2,19,171,10,,150,300,53,353
+1405,Washington Community Schools,1105,Veale Elementary School,,,1,4,,,157,36,126,162
+1405,Washington Community Schools,1123,Washington Junior High School,1,3,18,111,17,,280,267,163,430
+1405,Washington Community Schools,1125,Washington High School,2,7,27,163,19,,510,424,304,728
+1405,Washington Community Schools,1129,North Elementary School,1,1,9,51,15,,293,197,173,370
+1405,Washington Community Schools,1133,Helen Griffith Elementary School,,,25,81,11,,248,276,89,365
+1560,Sunman-Dearborn Com Sch Corp,1189,North Dearborn Elementary School,,3,,9,17,,662,146,545,691
+1560,Sunman-Dearborn Com Sch Corp,1190,Sunman-Dearborn Middle School,,1,3,19,23,,829,204,671,875
+1560,Sunman-Dearborn Com Sch Corp,1193,Bright Elementary School,1,2,1,9,25,,501,107,432,539
+1560,Sunman-Dearborn Com Sch Corp,7211,Sunman Elementary School,,1,,12,4,,303,129,191,320
+1560,Sunman-Dearborn Com Sch Corp,7213,East Central High School,1,7,5,16,35,,1222,253,1033,1286
+1600,South Dearborn Community Sch Corp,1141,Dillsboro Elementary School,2,1,1,2,1,,223,108,122,230
+1600,South Dearborn Community Sch Corp,1165,Manchester Elementary School,,,1,5,2,,184,70,122,192
+1600,South Dearborn Community Sch Corp,1169,Moores Hill Elementary School,,1,,1,4,,129,75,60,135
+1600,South Dearborn Community Sch Corp,1172,South Dearborn Middle School,1,,3,3,12,,337,176,180,356
+1600,South Dearborn Community Sch Corp,1179,South Dearborn High School,2,4,1,10,14,,692,264,459,723
+1600,South Dearborn Community Sch Corp,1197,Aurora Elementary School,1,,3,9,13,,427,246,207,453
+1620,Lawrenceburg Community School Corp,1177,Lawrenceburg High School,,7,6,18,40,,633,241,463,704
+1620,Lawrenceburg Community School Corp,1209,Greendale Middle School,1,3,9,9,32,,424,187,291,478
+1620,Lawrenceburg Community School Corp,1210,Lawrenceburg Primary School,,4,4,15,27,,389,148,291,439
+1620,Lawrenceburg Community School Corp,1217,Central Elementary School,,4,2,16,26,,405,192,261,453
+1655,Decatur County Community Schools,1263,South Decatur Jr-Sr High School,,,1,13,6,,416,209,227,436
+1655,Decatur County Community Schools,1265,South Decatur Elementary School,,,,12,2,,409,246,177,423
+1655,Decatur County Community Schools,1266,North Decatur Elementary School,1,3,,13,13,,486,257,259,516
+1655,Decatur County Community Schools,1267,North Decatur Jr-Sr High School,2,1,1,8,8,,470,199,291,490
+1730,Greensburg Community Schools,1268,Greensburg Community High School,1,4,2,20,23,3,643,268,428,696
+1730,Greensburg Community Schools,1269,Greensburg Community Jr High,2,1,2,20,15,,443,237,246,483
+1730,Greensburg Community Schools,1270,Greensburg Elementary,,6,10,50,29,,883,495,483,978
+1805,DeKalb Co Eastern Com Sch Dist,1317,Eastside Junior-Senior High School,4,1,11,16,2,,586,193,427,620
+1805,DeKalb Co Eastern Com Sch Dist,1321,Butler Elementary School,4,,6,18,5,,349,207,175,382
+1805,DeKalb Co Eastern Com Sch Dist,1335,Riverdale Elementary School,,1,2,4,5,,285,118,179,297
+1820,Garrett-Keyser-Butler Com Sch Corp,1325,Garrett High School,,1,4,26,19,4,533,214,373,587
+1820,Garrett-Keyser-Butler Com Sch Corp,1329,J E Ober Elementary School,2,2,3,15,24,7,635,343,345,688
+1820,Garrett-Keyser-Butler Com Sch Corp,1331,Garrett Middle School,,3,3,14,26,1,397,188,256,444
+1835,DeKalb Co Ctl United Sch Dist,1341,Waterloo Elementary School,,,3,3,7,,178,119,72,191
+1835,DeKalb Co Ctl United Sch Dist,1345,DeKalb High School,1,11,4,40,21,,1008,333,752,1085
+1835,DeKalb Co Ctl United Sch Dist,1346,DeKalb Middle School,,10,3,43,25,1,724,319,487,806
+1835,DeKalb Co Ctl United Sch Dist,1351,James R Watson Elementary School,,1,2,17,17,,491,188,340,528
+1835,DeKalb Co Ctl United Sch Dist,1357,McKenney-Harrison Elementary Sch,,7,2,31,9,,577,288,338,626
+1835,DeKalb Co Ctl United Sch Dist,1359,Country Meadow Elementary School,,,1,6,15,,271,130,163,293
+1875,Delaware Community School Corp,1365,Royerton Elementary School,3,7,9,13,44,1,488,222,343,565
+1875,Delaware Community School Corp,1367,Delta Middle School,2,3,12,15,25,,603,301,359,660
+1875,Delaware Community School Corp,1369,Delta High School,,,22,8,28,,751,304,505,809
+1875,Delaware Community School Corp,1409,Eaton Elementary School,3,1,1,4,10,,293,164,148,312
+1875,Delaware Community School Corp,1520,Albany Elementary School,2,2,,5,7,,272,176,112,288
+1885,Wes-Del Community Schools,1372,Wes-Del Middle/Senior High School,,3,1,23,9,,421,230,227,457
+1885,Wes-Del Community Schools,1412,Wes-Del Preschool,,,,1,,,12,4,9,13
+1885,Wes-Del Community Schools,1413,Wes-Del Elementary School,1,2,1,24,9,,352,241,148,389
+1895,Liberty-Perry Community Sch Corp,1375,Wapahani High School,1,1,7,4,15,,349,152,225,377
+1895,Liberty-Perry Community Sch Corp,1377,Selma Middle School,,,2,1,9,,254,129,137,266
+1895,Liberty-Perry Community Sch Corp,1381,Selma Elementary School,3,,,4,29,,535,304,267,571
+1900,Cowan Community School Corp,1385,Cowan Elementary School,,,5,11,16,,395,231,196,427
+1900,Cowan Community School Corp,1386,Cowan High School,,1,4,13,12,,348,161,217,378
+1910,Yorktown Community Schools,1387,Yorktown Middle School,1,19,37,17,34,2,520,228,402,630
+1910,Yorktown Community Schools,1389,Yorktown High School,,22,39,33,46,,646,234,552,786
+1910,Yorktown Community Schools,1393,Yorktown Elementary School,3,23,18,12,41,1,544,218,424,642
+1910,Yorktown Community Schools,1395,Pleasant View Elementary School,2,22,25,8,41,,539,229,408,637
+1940,Daleville Community Schools,1401,Daleville Jr-Sr High School,,3,4,17,11,2,421,194,264,458
+1940,Daleville Community Schools,1405,Daleville Elementary School,1,1,3,12,26,1,508,320,232,552
+1970,Muncie Community Schools,1421,Muncie Central High School,6,2,319,72,168,1,762,782,548,1330
+1970,Muncie Community Schools,1431,Northside Middle School,1,,127,39,79,2,270,289,229,518
+1970,Muncie Community Schools,1437,Southside Middle School,,,100,26,92,,329,404,143,547
+1970,Muncie Community Schools,1470,Grissom Elementary School,,2,76,7,71,3,293,298,154,452
+1970,Muncie Community Schools,1482,South View Elementary School,,1,97,22,91,,291,353,149,502
+1970,Muncie Community Schools,1485,Longfellow Elementary School,,,148,23,54,4,111,228,112,340
+1970,Muncie Community Schools,1496,North View Elementary School,,6,71,15,54,,200,150,196,346
+1970,Muncie Community Schools,1513,East Washington Academy,1,9,86,24,56,1,318,248,247,495
+1970,Muncie Community Schools,1517,West View Elementary School,,1,42,30,74,,250,165,232,397
+1970,Muncie Community Schools,1524,Youth Opportunity Center,1,,9,6,10,,45,3,68,71
+2040,Northeast Dubois Co Sch Corp,1545,Northeast Dubois Jr/Sr High School,,1,,8,2,1,379,90,301,391
+2040,Northeast Dubois Co Sch Corp,1549,Northeast Dubois Intermediate Scho,1,,,4,,,224,52,177,229
+2040,Northeast Dubois Co Sch Corp,1577,Northeast Dubois Elementary School,1,,,3,4,,211,54,165,219
+2100,Southeast Dubois Co Sch Corp,1563,Pine Ridge Elementary School,,,1,8,3,,222,84,150,234
+2100,Southeast Dubois Co Sch Corp,1581,Ferdinand Elementary School,,,,9,,1,267,60,217,277
+2100,Southeast Dubois Co Sch Corp,1583,Forest Park Jr-Sr High School,,4,1,24,7,,532,120,448,568
+2100,Southeast Dubois Co Sch Corp,1586,Cedar Crest Intermediate School,,1,,9,7,,154,46,125,171
+2110,Southwest Dubois Co Sch Corp,1529,Holland Elementary School,,,1,12,3,,227,64,179,243
+2110,Southwest Dubois Co Sch Corp,1587,Southridge Middle School,,2,,159,5,,252,150,268,418
+2110,Southwest Dubois Co Sch Corp,1588,Southridge High School,,2,4,124,7,,378,147,368,515
+2110,Southwest Dubois Co Sch Corp,1590,Huntingburg Elementary School,,,4,327,13,,351,306,389,695
+2120,Greater Jasper Consolidated Schs,1569,Ireland Elementary School,1,6,2,17,11,,490,71,456,527
+2120,Greater Jasper Consolidated Schs,1575,Jasper Middle School,,11,5,116,19,,546,260,437,697
+2120,Greater Jasper Consolidated Schs,1593,Jasper High School,1,14,4,175,15,,864,307,766,1073
+2120,Greater Jasper Consolidated Schs,1601,Jasper Elementary School,2,11,6,251,26,,621,508,409,917
+2155,Fairfield Community Schools,1613,Fairfield Jr-Sr High School,2,3,9,59,15,,749,206,631,837
+2155,Fairfield Community Schools,1621,Millersburg Elementary- Middle Sch,,,1,7,6,,443,93,364,457
+2155,Fairfield Community Schools,1649,New Paris Elementary School,,2,5,30,11,,379,127,300,427
+2155,Fairfield Community Schools,1652,Benton Elementary School,,,1,39,16,,396,99,353,452
+2260,Baugo Community Schools,1701,Jimtown High School,1,2,15,62,37,,468,197,388,585
+2260,Baugo Community Schools,1703,Jimtown Junior High School,2,2,6,29,29,,240,121,187,308
+2260,Baugo Community Schools,1705,Jimtown Elementary School,2,3,3,56,27,,311,193,209,402
+2260,Baugo Community Schools,1707,Jimtown Intermediate School,3,5,13,52,43,,456,237,335,572
+2270,Concord Community Schools,1713,Concord Junior High School,2,8,62,396,53,1,389,441,470,911
+2270,Concord Community Schools,1715,Concord Community High School,3,17,133,696,91,1,738,712,967,1679
+2270,Concord Community Schools,1718,Concord Intermediate School,,3,59,363,30,1,338,394,400,794
+2270,Concord Community Schools,1721,Concord East Side Elementary Sch,,6,29,199,21,,239,186,308,494
+2270,Concord Community Schools,1723,Concord Ox Bow Elementary School,1,13,13,135,19,,231,168,244,412
+2270,Concord Community Schools,1725,Concord South Side Elementary Sch,,1,73,109,34,,163,219,161,380
+2270,Concord Community Schools,1729,Concord West Side Elem School,,2,55,362,14,1,84,333,185,518
+2275,Middlebury Community Schools,1656,Jefferson Elementary School,,,2,70,11,,296,166,213,379
+2275,Middlebury Community Schools,1657,Northridge Middle School,2,13,18,120,34,2,907,343,753,1096
+2275,Middlebury Community Schools,1697,York Elementary School,,1,2,6,12,,249,102,168,270
+2275,Middlebury Community Schools,1731,Heritage Intermediate School,1,3,4,62,14,,503,198,389,587
+2275,Middlebury Community Schools,1732,Middlebury Elementary School,,1,1,11,10,,201,61,163,224
+2275,Middlebury Community Schools,1733,Northridge High School,3,19,11,157,36,1,1185,357,1055,1412
+2275,Middlebury Community Schools,1734,Orchard View School,1,3,4,22,11,,322,84,279,363
+2275,Middlebury Community Schools,1738,Inspire Digital Learning School,,1,,6,7,,150,2,162,164
+2285,Wa-Nee Community Schools,1669,North Wood Middle School,1,4,10,70,25,1,594,228,477,705
+2285,Wa-Nee Community Schools,1735,Wakarusa Elementary School,2,3,8,49,30,,434,142,384,526
+2285,Wa-Nee Community Schools,1737,North Wood High School,1,5,19,76,31,,759,235,656,891
+2285,Wa-Nee Community Schools,1743,Nappanee Elementary School,,6,3,27,11,,317,144,220,364
+2285,Wa-Nee Community Schools,1747,Woodview Elementary School,,5,3,47,13,,353,152,269,421
+2305,Elkhart Community Schools,1617,Cleveland Elementary School,,11,67,72,53,,366,304,265,569
+2305,Elkhart Community Schools,1673,Osolo Elementary School,,5,19,161,40,2,221,308,140,448
+2305,Elkhart Community Schools,1679,Eastwood Elementary School,,6,16,70,46,,314,183,269,452
+2305,Elkhart Community Schools,1681,Mary Feeser Elementary School,,12,72,107,53,,278,294,228,522
+2305,Elkhart Community Schools,1693,Bristol Elementary School,,,10,91,24,,202,206,121,327
+2305,Elkhart Community Schools,1752,Elkhart Alternative Education,,1,64,42,18,,120,144,101,245
+2305,Elkhart Community Schools,1753,North Side Middle School,,11,105,257,56,,331,403,357,760
+2305,Elkhart Community Schools,1754,Elkhart High School,,44,439,1236,240,1,1302,1609,1653,3262
+2305,Elkhart Community Schools,1761,West Side Middle School,2,11,127,193,57,,263,363,290,653
+2305,Elkhart Community Schools,1763,Pierre Moran Middle School,,5,96,274,30,,137,335,207,542
+2305,Elkhart Community Schools,1765,Beardsley Elementary School,,1,99,190,27,,71,269,119,388
+2305,Elkhart Community Schools,1769,Mary Beck Elementary School,,,104,130,19,,46,247,52,299
+2305,Elkhart Community Schools,1773,Mary Daly Elementary School,1,1,83,183,51,,144,339,124,463
+2305,Elkhart Community Schools,1777,Hawthorne Elementary School,,3,121,326,31,,65,334,212,546
+2305,Elkhart Community Schools,1785,Pinewood Elementary School,1,5,72,200,55,,330,344,319,663
+2305,Elkhart Community Schools,1789,Monger Elementary School,,3,78,220,28,,64,303,90,393
+2305,Elkhart Community Schools,1797,Riverview Elementary School,,6,44,149,42,,173,259,155,414
+2305,Elkhart Community Schools,1801,Roosevelt STEAM Academy,,,168,210,30,,38,304,142,446
+2305,Elkhart Community Schools,1817,Woodland Elementary School,1,7,75,165,59,1,239,334,213,547
+2315,Goshen Community Schools,1629,Goshen Middle School,3,18,38,937,57,,509,865,697,1562
+2315,Goshen Community Schools,1633,Model Elementary School,1,13,19,346,22,,220,353,268,621
+2315,Goshen Community Schools,1641,Waterford Elementary School,,12,14,264,9,,162,234,227,461
+2315,Goshen Community Schools,1821,Goshen High School,1,21,50,1132,75,,737,1048,968,2016
+2315,Goshen Community Schools,1829,Chamberlain Elementary School,1,2,6,172,14,,85,223,57,280
+2315,Goshen Community Schools,1833,Chandler Elementary School,,1,6,158,13,,124,228,74,302
+2315,Goshen Community Schools,1843,Parkside Elementary School,,7,11,146,7,,178,202,147,349
+2315,Goshen Community Schools,1847,Prairie View Elementary School,1,6,9,219,17,,209,252,209,461
+2315,Goshen Community Schools,1849,West Goshen Elementary School,1,2,11,201,16,,127,222,136,358
+2395,Fayette County School Corporation,1869,Everton Elementary School,,,,3,3,,249,164,91,255
+2395,Fayette County School Corporation,1889,Connersville Sr High School,2,5,7,18,29,,973,525,509,1034
+2395,Fayette County School Corporation,1895,Connersville Middle School,1,1,8,4,17,,503,335,199,534
+2395,Fayette County School Corporation,1897,Eastview Elementary School,1,1,2,4,16,,297,191,130,321
+2395,Fayette County School Corporation,1909,Frazee Elementary School,1,2,1,9,15,,303,217,114,331
+2395,Fayette County School Corporation,1913,Grandview Elementary School,,1,3,5,17,,456,261,221,482
+2395,Fayette County School Corporation,1921,Fayette Central Elementary,,,1,6,6,,307,186,134,320
+2400,New Albany-Floyd Co Con Sch,1925,New Albany Senior High School,4,23,282,174,170,2,1204,939,920,1859
+2400,New Albany-Floyd Co Con Sch,1929,Georgetown Elementary School,2,6,3,20,13,2,589,135,500,635
+2400,New Albany-Floyd Co Con Sch,1930,Floyd Central High School,7,52,22,56,54,1,1675,285,1582,1867
+2400,New Albany-Floyd Co Con Sch,1931,Highland Hills Middle School,1,27,17,53,45,2,1540,329,1356,1685
+2400,New Albany-Floyd Co Con Sch,1933,Hazelwood Middle School,3,6,144,73,106,,596,596,332,928
+2400,New Albany-Floyd Co Con Sch,1937,Nathaniel Scribner Middle School,1,14,153,108,89,1,552,464,454,918
+2400,New Albany-Floyd Co Con Sch,1943,Slate Run Elementary School,,4,41,18,59,1,227,228,122,350
+2400,New Albany-Floyd Co Con Sch,1949,Fairmont Elementary School,1,8,53,104,35,,133,252,82,334
+2400,New Albany-Floyd Co Con Sch,1953,Greenville Elementary School,,2,4,13,23,,413,83,372,455
+2400,New Albany-Floyd Co Con Sch,1957,Grant Line Elementary School,,8,34,22,49,1,399,141,372,513
+2400,New Albany-Floyd Co Con Sch,1961,Green Valley Elementary School,1,7,99,37,55,,195,292,102,394
+2400,New Albany-Floyd Co Con Sch,1966,Floyds Knobs Elementary School,,8,3,21,29,,652,100,613,713
+2400,New Albany-Floyd Co Con Sch,1974,Mount Tabor Elementary School,,4,68,19,62,,395,294,254,548
+2400,New Albany-Floyd Co Con Sch,1981,S Ellen Jones Elementary School,,,53,11,32,,130,186,40,226
+2400,New Albany-Floyd Co Con Sch,1994,CA Early Learning Center,,2,5,5,10,,85,44,63,107
+2435,Attica Consolidated School Corp,2053,Attica High School,,,6,14,6,,289,157,158,315
+2435,Attica Consolidated School Corp,2057,Attica Elementary School,,,2,14,5,1,276,172,126,298
+2440,Covington Community School Corp,2005,Covington Community High School,,1,1,15,4,,255,88,188,276
+2440,Covington Community School Corp,2009,Covington Elementary School,1,2,3,17,8,,321,125,227,352
+2440,Covington Community School Corp,2013,Covington Middle School,,1,,10,11,,177,66,133,199
+2455,Southeast Fountain School Corp,2021,Southeast Fountain Elementary,,,1,36,14,1,523,292,283,575
+2455,Southeast Fountain School Corp,2022,Fountain Central High School,1,,,36,6,,406,205,244,449
+2475,Franklin County Community Sch Corp,2082,Laurel School,,,1,1,1,,247,182,68,250
+2475,Franklin County Community Sch Corp,2083,Franklin County High,,2,2,4,9,,715,311,421,732
+2475,Franklin County Community Sch Corp,2123,Franklin County Middle School,1,3,1,3,,,411,196,223,419
+2475,Franklin County Community Sch Corp,2125,Brookville Elementary School,,1,2,3,2,1,437,209,237,446
+2475,Franklin County Community Sch Corp,2127,Mount Carmel School,,,,,1,,222,82,141,223
+2645,Rochester Community School Corp,2173,Rochester Community High School,2,2,4,25,20,,464,255,262,517
+2645,Rochester Community School Corp,2177,Rochester Community Middle School,1,2,,20,10,,377,223,187,410
+2645,Rochester Community School Corp,2181,Columbia Elementary School,3,2,1,22,20,,415,237,226,463
+2645,Rochester Community School Corp,2185,George M Riddle Elementary School,,,2,24,14,,321,192,169,361
+2650,Caston School Corporation,2157,Caston Elementary School,,,,11,10,,293,179,135,314
+2650,Caston School Corporation,2159,Caston Jr-Sr High School,,,1,29,7,,330,162,205,367
+2725,East Gibson School Corporation,2189,Barton Township Elementary,3,,,1,5,,80,42,47,89
+2725,East Gibson School Corporation,2194,Waldo J Wood Memorial JHS,1,,,3,3,,101,45,63,108
+2725,East Gibson School Corporation,2201,Francisco Elementary School,,1,,2,1,,75,42,37,79
+2725,East Gibson School Corporation,2233,Waldo J Wood Memorial High,,,1,2,7,,235,89,156,245
+2725,East Gibson School Corporation,2237,Oakland City Elementary School,,,,7,14,,254,157,118,275
+2735,North Gibson School Corporation,2223,Princeton Comm Intermediate School,,2,12,18,35,1,337,226,179,405
+2735,North Gibson School Corporation,2225,Princeton Community Middle,1,6,24,20,43,,407,239,262,501
+2735,North Gibson School Corporation,2249,Princeton Community High School,,12,22,20,55,1,508,270,348,618
+2735,North Gibson School Corporation,2257,Princeton Comm Primary School,,2,21,19,42,,360,251,193,444
+2765,South Gibson School Corporation,2205,Haubstadt Community School,,3,2,8,4,,347,37,327,364
+2765,South Gibson School Corporation,2211,Gibson Southern High School,,5,1,19,13,,692,118,612,730
+2765,South Gibson School Corporation,2214,Fort Branch Community School,,,2,8,24,5,503,145,397,542
+2765,South Gibson School Corporation,2241,Owensville Community School,,2,1,13,14,,382,152,260,412
+2815,Eastbrook Community Sch Corp,2263,Eastbrook South Elementary,1,2,3,15,21,,414,179,277,456
+2815,Eastbrook Community Sch Corp,2264,Eastbrook North Elementary,,1,4,13,17,1,341,189,188,377
+2815,Eastbrook Community Sch Corp,2291,Early Childhood Center,,2,,2,,,36,14,26,40
+2815,Eastbrook Community Sch Corp,2293,Eastbrook High School,,1,4,25,9,,432,146,325,471
+2815,Eastbrook Community Sch Corp,2299,Eastbrook Junior High School,,1,3,12,8,,268,117,175,292
+2825,Madison-Grant United School Corp,2321,Madison-Grant Jr./Sr. High School,1,3,6,16,10,,499,205,330,535
+2825,Madison-Grant United School Corp,2329,Park Elementary School,2,,,6,10,,270,146,142,288
+2825,Madison-Grant United School Corp,5037,Summitville School,1,,3,2,7,,237,152,98,250
+2855,Mississinewa Community School Corp,2333,Mississinewa High School,4,5,12,33,61,,649,405,359,764
+2855,Mississinewa Community School Corp,2335,R J Baskett Middle School,,4,20,43,40,,462,350,219,569
+2855,Mississinewa Community School Corp,2344,Westview Elementary School,1,3,7,33,49,,395,321,167,488
+2855,Mississinewa Community School Corp,2346,Northview Elementary School,,3,17,30,69,,508,415,212,627
+2865,Marion Community Schools,2350,Justice Thurgood Marshall Intrmd,1,5,99,87,92,,269,422,131,553
+2865,Marion Community Schools,2351,Marion High School,2,16,225,127,138,,537,638,407,1045
+2865,Marion Community Schools,2357,John L McCulloch Junior High Sch,,5,110,88,95,,255,407,146,553
+2865,Marion Community Schools,2369,Allen Elementary School,2,1,49,77,73,,184,317,69,386
+2865,Marion Community Schools,2393,John W Kendall Elem School,1,5,51,54,56,,188,266,89,355
+2865,Marion Community Schools,2405,Riverview Elementary School,,3,51,63,53,,209,258,121,379
+2865,Marion Community Schools,2409,Frances Slocum Elem School,,2,158,41,62,,139,324,78,402
+2920,Bloomfield School District,2417,Bloomfield Elementary School,,2,3,8,5,,420,185,253,438
+2920,Bloomfield School District,2419,Bloomfield Jr-Sr High School,1,3,1,14,3,,353,142,233,375
+2940,Eastern Greene Schools,2433,Eastern Greene Elementary School,1,,4,11,9,,416,198,243,441
+2940,Eastern Greene Schools,2435,Eastern Greene High School,1,2,1,4,6,,294,137,171,308
+2940,Eastern Greene Schools,2436,Eastern Greene Middle School,1,2,1,8,10,,350,162,210,372
+2950,Linton-Stockton School Corporation,2437,Linton-Stockton High School,2,1,2,12,5,,403,183,242,425
+2950,Linton-Stockton School Corporation,2438,Linton-Stockton Middle School,,2,1,14,2,,265,139,145,284
+2950,Linton-Stockton School Corporation,2441,Linton-Stockton Elementary,,3,4,14,7,,614,332,310,642
+2960,MSD Shakamak Schools,2445,Shakamak Jr-Sr High School,1,,,4,1,,310,138,178,316
+2960,MSD Shakamak Schools,2449,Shakamak Elementary School,,,,7,7,,320,188,146,334
+2980,White River Valley School District,2429,White River Valley High School,,2,5,16,8,2,206,113,126,239
+2980,White River Valley School District,2457,White River Valley Middle School,,1,2,11,1,,225,144,96,240
+2980,White River Valley School District,2460,White River Valley Elementary Sch,,,,22,4,,285,186,125,311
+3005,Hamilton Southeastern Schools,2466,Brooks School Elementary,,67,61,61,54,2,504,105,644,749
+3005,Hamilton Southeastern Schools,2468,New Britton Elementary School,2,99,27,73,38,2,441,121,561,682
+3005,Hamilton Southeastern Schools,2469,Fishers Elementary School,1,25,32,28,35,,278,56,343,399
+3005,Hamilton Southeastern Schools,2470,Cumberland Road Elem School,,43,62,42,45,,363,136,419,555
+3005,Hamilton Southeastern Schools,2471,Hoosier Road Elementary School,2,76,31,50,24,,416,79,520,599
+3005,Hamilton Southeastern Schools,2473,Fall Creek Elementary School,1,33,23,32,38,,442,41,528,569
+3005,Hamilton Southeastern Schools,2474,Geist Elementary School,2,44,39,31,37,,478,30,601,631
+3005,Hamilton Southeastern Schools,2475,Lantern Road Elementary School,1,54,29,32,30,,412,56,502,558
+3005,Hamilton Southeastern Schools,2476,Fishers Junior High School,2,64,114,93,55,,616,217,727,944
+3005,Hamilton Southeastern Schools,2479,Sand Creek Intermediate School,1,79,82,80,65,,564,195,676,871
+3005,Hamilton Southeastern Schools,2481,Harrison Parkway Elementary School,,28,47,56,61,,395,131,456,587
+3005,Hamilton Southeastern Schools,2482,Sand Creek Elementary,3,55,73,72,47,2,434,139,547,686
+3005,Hamilton Southeastern Schools,2483,Thorpe Creek Elementary,,69,47,58,40,,454,97,571,668
+3005,Hamilton Southeastern Schools,2484,Southeastern Elementary School,2,109,50,58,57,1,534,44,767,811
+3005,Hamilton Southeastern Schools,2485,Fall Creek Intermediate School,3,68,48,42,57,,701,89,830,919
+3005,Hamilton Southeastern Schools,2486,Fall Creek Junior High,1,62,57,52,53,,778,80,923,1003
+3005,Hamilton Southeastern Schools,2487,Fishers High School,12,245,296,311,197,1,2627,657,3032,3689
+3005,Hamilton Southeastern Schools,2489,Hamilton SE Int and Jr High Sch,4,107,97,104,70,2,815,123,1076,1199
+3005,Hamilton Southeastern Schools,2490,Riverside Junior High,,68,72,99,36,,707,169,813,982
+3005,Hamilton Southeastern Schools,2497,Durbin Elementary School,2,11,24,22,19,,244,65,257,322
+3005,Hamilton Southeastern Schools,2499,Hamilton Southeastern HS,6,265,307,223,151,1,2452,461,2944,3405
+3005,Hamilton Southeastern Schools,2500,Riverside Intermediate School,3,79,81,81,63,1,624,171,761,932
+3025,Hamilton Heights School Corp,2477,Hamilton Heights High School,7,4,10,34,7,,704,201,565,766
+3025,Hamilton Heights School Corp,2478,Hamilton Heights Elementary School,,1,2,22,28,,803,247,609,856
+3025,Hamilton Heights School Corp,2501,Hamilton Heights Middle School,,2,8,29,12,,618,218,451,669
+3030,Westfield-Washington Schools,2491,Westfield Middle School,3,32,64,130,59,,997,215,1070,1285
+3030,Westfield-Washington Schools,2492,Shamrock Springs Elementary School,5,18,10,21,27,,486,28,539,567
+3030,Westfield-Washington Schools,2493,Westfield High School,1,73,85,227,116,,2025,344,2183,2527
+3030,Westfield-Washington Schools,2494,Carey Ridge Elementary School,,14,36,57,28,,455,77,513,590
+3030,Westfield-Washington Schools,2495,Washington Woods Elementary School,,17,19,77,40,1,403,132,425,557
+3030,Westfield-Washington Schools,2496,Oak Trace Elementary School,1,12,16,14,29,,462,40,494,534
+3030,Westfield-Washington Schools,2498,Monon Trail Elementary School,2,12,41,55,40,,363,131,382,513
+3030,Westfield-Washington Schools,2503,Westfield Intermediate School,5,35,50,92,61,1,1054,204,1094,1298
+3030,Westfield-Washington Schools,2504,Maple Glen Elementary,1,25,20,42,31,,453,71,501,572
+3055,Sheridan Community Schools,2463,Sheridan High School,,,2,14,6,,316,127,211,338
+3055,Sheridan Community Schools,2465,Sheridan Elementary School,1,3,1,25,24,,412,180,286,466
+3055,Sheridan Community Schools,6780,Sheridan Middle School,,,,18,5,,210,95,138,233
+3060,Carmel Clay Schools,2505,Carmel High School,3,775,204,196,346,17,3873,561,4853,5414
+3060,Carmel Clay Schools,2506,Clay Middle School,,153,32,52,73,1,1003,145,1169,1314
+3060,Carmel Clay Schools,2507,Woodbrook Elementary School,1,34,16,7,37,,368,27,436,463
+3060,Carmel Clay Schools,2508,Cherry Tree Elementary School,,31,13,46,47,,588,90,635,725
+3060,Carmel Clay Schools,2509,Carmel Elementary School,1,14,15,15,43,,361,66,383,449
+3060,Carmel Clay Schools,2510,College Wood Elementary School,,258,28,11,52,1,398,29,719,748
+3060,Carmel Clay Schools,2511,Carmel Middle School,4,130,60,65,90,3,970,209,1113,1322
+3060,Carmel Clay Schools,2512,Smoky Row Elementary School,3,106,25,15,56,,480,33,652,685
+3060,Carmel Clay Schools,2513,Orchard Park Elementary School,,111,42,36,62,,393,198,446,644
+3060,Carmel Clay Schools,2515,Prairie Trace Elementary School,3,123,14,18,41,,416,60,555,615
+3060,Carmel Clay Schools,2516,Mohawk Trails Elementary School,,17,5,6,37,1,526,51,541,592
+3060,Carmel Clay Schools,2518,Forest Dale Elementary School,,54,22,43,43,2,477,140,501,641
+3060,Carmel Clay Schools,2520,Creekside Middle School,4,341,49,33,87,,752,59,1207,1266
+3060,Carmel Clay Schools,2522,Towne Meadow Elementary School,,116,30,14,56,,474,49,641,690
+3060,Carmel Clay Schools,2526,West Clay Elementary School,3,238,20,18,59,,489,18,809,827
+3070,Noblesville Schools,2517,Noblesville High School,5,85,103,214,104,7,2598,641,2475,3116
+3070,Noblesville Schools,2521,Noblesville East Middle School,,39,71,96,42,1,855,316,788,1104
+3070,Noblesville Schools,2523,Hinkle Creek Elementary School,,12,22,43,33,2,718,125,705,830
+3070,Noblesville Schools,2529,North Elementary School,3,8,23,38,26,3,402,167,336,503
+3070,Noblesville Schools,2533,Stony Creek Elementary School,1,15,28,54,23,2,567,159,531,690
+3070,Noblesville Schools,2537,Noble Crossing Elementary School,1,24,34,63,32,1,643,141,657,798
+3070,Noblesville Schools,2538,Hazel Dell Elementary School,,12,16,60,11,2,648,117,632,749
+3070,Noblesville Schools,2539,Promise Road Elementary,,48,55,63,36,,462,165,499,664
+3070,Noblesville Schools,2542,Noblesville West Middle School,5,18,47,105,42,1,1235,300,1153,1453
+3070,Noblesville Schools,2547,White River Elementary School,4,16,39,53,8,2,490,202,410,612
+3115,Southern Hancock Co Com Sch Corp,2543,New Palestine Intermediate School,1,6,5,24,20,,515,155,416,571
+3115,Southern Hancock Co Com Sch Corp,2563,Brandywine Elementary School,2,1,3,12,6,1,226,82,169,251
+3115,Southern Hancock Co Com Sch Corp,2564,New Palestine Elementary School,,3,5,12,11,,552,112,471,583
+3115,Southern Hancock Co Com Sch Corp,2565,New Palestine High School,4,12,5,33,32,2,1080,263,905,1168
+3115,Southern Hancock Co Com Sch Corp,2566,New Palestine Jr High School,3,3,1,27,16,,562,157,455,612
+3115,Southern Hancock Co Com Sch Corp,2567,Sugar Creek Elementary Sch,3,2,5,25,12,1,495,161,382,543
+3125,Greenfield-Central Com Schools,2577,Maxwell Intermediate School,,8,1,18,18,,442,175,312,487
+3125,Greenfield-Central Com Schools,2579,Greenfield Central Junior High Sch,1,9,8,22,25,,638,255,448,703
+3125,Greenfield-Central Com Schools,2581,Eden Elementary School,,1,,7,7,,157,46,126,172
+3125,Greenfield-Central Com Schools,2588,JB Stephens Elementary School,,2,2,18,37,,429,142,346,488
+3125,Greenfield-Central Com Schools,2593,Greenfield Intermediate School,2,1,2,14,29,1,445,231,263,494
+3125,Greenfield-Central Com Schools,2595,Greenfield-Central High School,3,10,7,48,44,,1333,420,1025,1445
+3125,Greenfield-Central Com Schools,2597,Harris Elementary School,1,2,3,3,18,1,256,126,158,284
+3125,Greenfield-Central Com Schools,2609,Weston Elementary School,,1,8,6,15,,293,128,195,323
+3135,Mt Vernon Community School Corp,2558,Fortville Elementary School,2,6,21,34,47,,592,186,516,702
+3135,Mt Vernon Community School Corp,2559,Mt Vernon Middle School,1,9,85,34,62,1,779,232,739,971
+3135,Mt Vernon Community School Corp,2561,Mt Comfort Elementary School,2,6,81,40,53,,423,189,416,605
+3135,Mt Vernon Community School Corp,2568,Mt Vernon Early Learning Academy,,,3,5,7,,90,15,90,105
+3135,Mt Vernon Community School Corp,2569,Mt Vernon High School,3,21,119,69,77,,1083,303,1069,1372
+3135,Mt Vernon Community School Corp,2570,McCordsville Elementary School,1,16,55,52,44,2,495,139,526,665
+3145,Eastern Hancock Co Com Sch Corp,2582,Eastern Hancock Middle School,,,1,5,2,,255,86,177,263
+3145,Eastern Hancock Co Com Sch Corp,2585,Eastern Hancock High School,2,,,7,5,,381,113,282,395
+3145,Eastern Hancock Co Com Sch Corp,2586,Eastern Hancock Elementary School,,,1,18,10,,464,164,329,493
+3160,Lanesville Community School Corp,2611,Lanesville Elementary School,,4,1,11,6,,348,91,279,370
+3160,Lanesville Community School Corp,2613,Lanesville Jr-Sr HS,,2,,7,5,,338,66,286,352
+3180,North Harrison Com School Corp,2621,Morgan Elementary School,2,,4,4,6,,366,170,212,382
+3180,North Harrison Com School Corp,2625,North Harrison Middle School,2,2,2,11,14,,442,210,263,473
+3180,North Harrison Com School Corp,2629,North Harrison High School,,3,5,19,19,,643,250,439,689
+3180,North Harrison Com School Corp,2633,North Harrison Elementary School,,2,4,13,13,,537,246,323,569
+3190,South Harrison Com Schools,2640,Corydon Central High School,1,2,4,42,40,,639,294,434,728
+3190,South Harrison Com Schools,2643,Corydon Central Jr High School,,,,16,28,,340,169,215,384
+3190,South Harrison Com Schools,2645,Corydon Elementary School,1,5,2,48,32,,559,323,324,647
+3190,South Harrison Com Schools,2649,New Middletown Elementary School,,,,,7,,90,44,53,97
+3190,South Harrison Com Schools,2653,Heth-Washington Elementary School,1,,,7,10,,115,97,36,133
+3190,South Harrison Com Schools,2663,Corydon Intermediate School,1,3,3,18,24,,398,215,232,447
+3190,South Harrison Com Schools,2667,South Central Elementary,,,1,4,12,,290,147,160,307
+3190,South Harrison Com Schools,2670,South Central Jr & Sr High School,,1,2,8,9,,301,126,195,321
+3295,North West Hendricks Schools,2682,Tri-West Middle School,2,,8,9,17,,428,95,369,464
+3295,North West Hendricks Schools,2684,Pittsboro Primary School,,4,10,9,13,,301,64,273,337
+3295,North West Hendricks Schools,2685,North Salem Elementary School,,,,3,3,,207,58,155,213
+3295,North West Hendricks Schools,2725,Pittsboro Elementary School,1,2,4,5,8,1,279,63,237,300
+3295,North West Hendricks Schools,2731,Tri-West Senior High School,2,4,1,9,13,3,550,96,486,582
+3305,Brownsburg Community School Corp,2706,Brown Elementary School,,7,57,43,38,,424,134,435,569
+3305,Brownsburg Community School Corp,2707,Brownsburg Early Childhood Center,2,3,17,9,5,,69,30,75,105
+3305,Brownsburg Community School Corp,2709,Brownsburg High School,3,87,397,204,145,7,2043,684,2202,2886
+3305,Brownsburg Community School Corp,2711,Eagle Elementary School,,18,70,42,28,,403,109,452,561
+3305,Brownsburg Community School Corp,2713,Brownsburg West Middle School,1,27,108,70,55,1,701,248,715,963
+3305,Brownsburg Community School Corp,2714,Reagan Elementary School,,17,77,38,51,,370,150,403,553
+3305,Brownsburg Community School Corp,2718,Delaware Trail Elementary School,,10,50,36,33,,395,130,394,524
+3305,Brownsburg Community School Corp,2720,Brownsburg East Middle School,2,41,241,88,82,,907,353,1008,1361
+3305,Brownsburg Community School Corp,2723,White Lick Elementary School,1,9,70,38,29,,386,114,419,533
+3305,Brownsburg Community School Corp,2727,Cardinal Elementary School,1,48,141,72,75,,574,273,638,911
+3305,Brownsburg Community School Corp,2744,Lincoln Elementary School,,15,75,31,27,4,359,136,375,511
+3315,Avon Community School Corp,2726,River Birch Elementary School,,25,74,56,49,1,577,223,559,782
+3315,Avon Community School Corp,2728,Avon Intermediate School East,,33,146,85,62,1,472,280,519,799
+3315,Avon Community School Corp,2729,Avon Intermediate School West,1,43,132,84,37,,465,290,472,762
+3315,Avon Community School Corp,2730,Avon Middle School North,1,40,155,90,53,,484,276,547,823
+3315,Avon Community School Corp,2733,Maple Elementary School,1,39,103,44,44,,178,178,231,409
+3315,Avon Community School Corp,2734,White Oak Elementary School,2,11,56,49,28,,218,156,208,364
+3315,Avon Community School Corp,2735,Sycamore Elementary School,1,24,107,36,38,,275,146,335,481
+3315,Avon Community School Corp,2736,Avon Middle School South,1,44,127,83,60,1,464,255,525,780
+3315,Avon Community School Corp,2737,Avon High School,5,191,553,332,160,1,1959,940,2261,3201
+3315,Avon Community School Corp,2738,Cedar Elementary School,,36,132,64,53,,416,272,429,701
+3315,Avon Community School Corp,2739,Pine Tree Elementary School,,17,60,49,30,,240,145,251,396
+3315,Avon Community School Corp,2740,Hickory Elementary School,,38,79,42,35,,278,167,305,472
+3325,Danville Community School Corp,2721,North Elementary School,,4,9,23,18,1,507,190,372,562
+3325,Danville Community School Corp,2741,Danville Community High School,2,3,14,11,27,,685,177,565,742
+3325,Danville Community School Corp,2743,Danville Middle School,3,7,13,42,19,,701,250,535,785
+3325,Danville Community School Corp,2745,South Elementary School,4,4,7,11,11,,329,135,231,366
+3330,Plainfield Community School Corp,2748,Clarks Creek Elementary,,36,85,67,53,,680,286,635,921
+3330,Plainfield Community School Corp,2749,Plainfield High School,,69,70,104,68,1,1443,404,1351,1755
+3330,Plainfield Community School Corp,2750,Plainfield Community Middle School,,44,62,76,57,,1105,371,973,1344
+3330,Plainfield Community School Corp,2751,Central Elementary School,,13,23,20,28,,461,136,409,545
+3330,Plainfield Community School Corp,2753,Little Quakers Academy,,3,2,7,12,,139,30,133,163
+3330,Plainfield Community School Corp,2761,Van Buren Elementary School,,5,4,25,20,,478,166,366,532
+3330,Plainfield Community School Corp,2763,Brentwood Elementary School,,5,39,35,37,,308,164,260,424
+3330,Plainfield Community School Corp,3331,Pride Academy,,,1,1,,,8,4,6,10
+3335,Mill Creek Community Sch Corp,2672,Little Cadets Preschool,,,,1,,,52,12,41,53
+3335,Mill Creek Community Sch Corp,2675,Mill Creek East Elementary,,9,4,5,7,,305,114,216,330
+3335,Mill Creek Community Sch Corp,2677,Mill Creek West Elementary,,,,4,7,,255,81,185,266
+3335,Mill Creek Community Sch Corp,2687,Cascade Middle School,1,10,4,10,2,,363,111,279,390
+3335,Mill Creek Community Sch Corp,2692,Cascade Senior High School,2,7,3,11,11,,462,118,378,496
+3405,Blue River Valley Schools,2801,Blue River Valley Jr-Sr High Sch,1,5,,6,6,,276,95,199,294
+3405,Blue River Valley Schools,2803,Blue River Valley Elementary Sch,,,,5,11,1,308,141,184,325
+3415,South Henry School Corp,2773,Tri Junior-Senior High School,,,,8,10,,419,170,267,437
+3415,South Henry School Corp,2777,Tri-Elementary School,,1,2,9,6,,269,147,140,287
+3435,Shenandoah School Corporation,2815,Shenandoah Elementary School,1,,2,15,23,,553,237,357,594
+3435,Shenandoah School Corporation,2817,Shenandoah High School,,1,2,8,13,,394,116,302,418
+3435,Shenandoah School Corporation,2819,Shenandoah Middle School,,,1,8,5,,310,122,202,324
+3445,New Castle Community School Corp,2825,New Castle High School,,5,8,35,40,1,821,428,482,910
+3445,New Castle Community School Corp,2829,New Castle Middle School,,3,12,20,23,,391,253,196,449
+3445,New Castle Community School Corp,2832,Eastwood Elementary School,,,13,27,23,,260,252,71,323
+3445,New Castle Community School Corp,2847,Parker Elementary School,,3,5,16,27,,270,236,85,321
+3445,New Castle Community School Corp,2849,James Whitcomb Riley Elem School,,7,5,6,7,,249,102,172,274
+3445,New Castle Community School Corp,2853,Sunnyside Elementary School,,,1,3,3,,74,58,23,81
+3445,New Castle Community School Corp,2861,Westwood Elementary School,,1,1,6,21,,265,88,206,294
+3445,New Castle Community School Corp,2865,Wilbur Wright Elementary School,1,1,5,15,18,,259,221,78,299
+3455,C A Beard Memorial School Corp,2869,Knightstown High School,2,4,,2,9,,337,170,184,354
+3455,C A Beard Memorial School Corp,2870,Knightstown Intermediate School,1,,1,11,14,,347,224,150,374
+3455,C A Beard Memorial School Corp,2887,Knightstown Elementary School,,1,5,4,11,,328,182,167,349
+3460,Taylor Community School Corp,2894,Taylor High School,,7,36,23,45,,236,180,167,347
+3460,Taylor Community School Corp,2895,Taylor Elementary School,,4,74,31,72,,343,343,181,524
+3460,Taylor Community School Corp,2896,Taylor Middle School,1,3,44,28,63,,256,244,151,395
+3470,Northwestern School Corp,2897,Northwestern Senior High School,,2,6,39,29,,521,139,458,597
+3470,Northwestern School Corp,2904,Northwestern Elementary School,1,3,11,10,24,,594,145,498,643
+3470,Northwestern School Corp,2905,Howard Elementary School,,1,7,8,18,,254,148,140,288
+3470,Northwestern School Corp,2907,Northwestern Middle School,,,6,14,14,,259,73,220,293
+3480,Eastern Howard School Corporation,2909,Eastern Elementary School,,2,8,17,24,,621,266,406,672
+3480,Eastern Howard School Corporation,2914,Eastern Middle School,3,3,3,14,8,,349,142,238,380
+3480,Eastern Howard School Corporation,2919,Eastern High School,3,1,4,12,19,,431,161,309,470
+3490,Western School Corporation,2921,Western High School,2,14,29,21,40,1,719,200,626,826
+3490,Western School Corporation,2922,Western Middle School,2,14,21,19,33,,531,192,428,620
+3490,Western School Corporation,2923,Western Intermediate School,1,12,19,25,31,,497,198,387,585
+3490,Western School Corporation,2935,Western Primary School,1,10,16,28,42,,461,196,362,558
+3500,Kokomo School Corporation,2943,Sycamore Elementary School,1,7,116,17,81,,164,294,92,386
+3500,Kokomo School Corporation,2945,Bon Air Elementary School,2,,59,26,31,,150,223,45,268
+3500,Kokomo School Corporation,2947,Boulevard Elementary School,1,1,58,35,60,,257,248,164,412
+3500,Kokomo School Corporation,2951,Bon Air Middle School,,1,50,12,26,,108,176,21,197
+3500,Kokomo School Corporation,2955,Central Middle School,,5,95,39,72,,324,316,219,535
+3500,Kokomo School Corporation,2961,Elwood Haynes Elementary School,2,3,151,39,92,,305,513,79,592
+3500,Kokomo School Corporation,2963,Maple Crest Middle School,,2,77,38,51,,238,298,108,406
+3500,Kokomo School Corporation,2969,Lafayette Park Elementary School,,1,90,21,55,,257,311,113,424
+3500,Kokomo School Corporation,2993,Pettit Park School,,,36,13,48,,171,232,36,268
+3500,Kokomo School Corporation,3005,Wallace Elementary School,1,9,41,35,62,,234,198,184,382
+3500,Kokomo School Corporation,3013,Kokomo High School,8,29,293,119,180,,1146,875,900,1775
+3625,Huntington Co Com Sch Corp,3021,Andrews Elementary School,1,1,,9,7,,293,129,182,311
+3625,Huntington Co Com Sch Corp,3025,Riverview School,2,,1,20,7,,534,278,286,564
+3625,Huntington Co Com Sch Corp,3029,Roanoke Elementary School,,1,1,11,8,,405,108,318,426
+3625,Huntington Co Com Sch Corp,3035,Salamonie School,,,2,12,7,1,259,125,156,281
+3625,Huntington Co Com Sch Corp,3061,Crestview Middle School,3,1,4,20,20,1,573,290,332,622
+3625,Huntington Co Com Sch Corp,3065,Huntington North High School,2,8,4,68,36,1,1359,542,936,1478
+3625,Huntington Co Com Sch Corp,3077,Flint Springs Elementary,1,6,7,19,15,1,406,248,207,455
+3625,Huntington Co Com Sch Corp,3078,Huntington Schools Preschool,,,,,,,67,31,36,67
+3625,Huntington Co Com Sch Corp,3081,Lincoln Elementary School,2,,6,20,16,,307,261,90,351
+3625,Huntington Co Com Sch Corp,3086,Horace Mann Elementary,1,,1,22,13,,385,256,166,422
+3640,Medora Community School Corp,3093,Medora Jr & Sr High School,5,,,2,4,,89,100,,100
+3640,Medora Community School Corp,3095,Medora STEM Academy,,,,,1,,70,70,1,71
+3675,Seymour Community Schools,3105,Cortland Elementary School,,,,1,7,,135,49,94,143
+3675,Seymour Community Schools,3133,Seymour Senior High School,2,21,9,490,35,2,979,721,817,1538
+3675,Seymour Community Schools,3135,Margaret R Brown Elementary School,,4,18,435,15,,207,459,220,679
+3675,Seymour Community Schools,3138,Seymour Middle School,1,12,12,458,41,1,678,721,482,1203
+3675,Seymour Community Schools,3141,Emerson Elementary School,,5,4,46,16,,252,134,189,323
+3675,Seymour Community Schools,3153,Seymour-Jackson Elementary School,,11,7,318,12,,309,398,259,657
+3675,Seymour Community Schools,3157,Seymour-Redding Elementary School,2,13,9,183,23,2,412,384,260,644
+3695,Brownstown Cnt Com Sch Corp,3107,Brownstown Central Middle School,2,2,,10,9,,321,128,216,344
+3695,Brownstown Cnt Com Sch Corp,3126,Brownstown Central High School,1,1,,10,3,,497,159,353,512
+3695,Brownstown Cnt Com Sch Corp,3129,Brownstown Elementary School,1,,1,15,17,,598,293,339,632
+3710,Crothersville Community Schools,3121,Crothersville Jr-Sr High School,1,3,3,6,5,,206,109,115,224
+3710,Crothersville Community Schools,3122,Crothersville Elementary School,,,,15,3,,214,153,79,232
+3785,Kankakee Valley School Corp,3181,Kankakee Valley High School,4,3,1,107,10,,896,368,653,1021
+3785,Kankakee Valley School Corp,3183,Kankakee Valley Middle School,2,4,2,93,9,1,645,306,450,756
+3785,Kankakee Valley School Corp,3184,DeMotte Elementary School,,2,2,116,11,,464,268,327,595
+3785,Kankakee Valley School Corp,3197,Wheatfield Elementary School,,1,,31,6,,316,179,175,354
+3785,Kankakee Valley School Corp,3198,Kankakee Valley Intermediate Sch,,5,1,71,6,,421,210,294,504
+3815,Rensselaer Central School Corp,3201,Rensselaer Central High School,1,3,,72,11,,409,183,313,496
+3815,Rensselaer Central School Corp,3205,Van Rensselaer Elementary School,1,1,3,39,9,,257,150,160,310
+3815,Rensselaer Central School Corp,3213,Rensselaer Central Primary School,2,2,1,40,5,,259,142,167,309
+3815,Rensselaer Central School Corp,3221,Rensselaer Middle School,1,2,1,50,6,,304,160,204,364
+3945,Jay School Corporation,3239,Jay County Jr/Sr High School,1,3,3,119,19,,1201,591,755,1346
+3945,Jay School Corporation,3241,Bloomfield Elementary School,,,2,6,4,,257,96,173,269
+3945,Jay School Corporation,3247,Redkey Elementary School,,,,,9,,217,123,103,226
+3945,Jay School Corporation,3273,East Jay Elementary,,9,3,56,9,,449,274,252,526
+3945,Jay School Corporation,3287,East Elementary School,,1,2,36,4,,372,204,211,415
+3945,Jay School Corporation,3289,Westlawn Elementary School,,,1,10,8,,219,160,78,238
+3995,Madison Consolidated Schools,3301,Deputy Elementary School,,,,,,,120,88,32,120
+3995,Madison Consolidated Schools,3309,Madison Consolidated High School,1,11,11,34,23,2,696,304,474,778
+3995,Madison Consolidated Schools,3313,Madison Consolidated Jr High Sch,1,9,14,42,35,1,712,395,419,814
+3995,Madison Consolidated Schools,3321,Rykers' Ridge Elementary School,2,1,2,5,10,,184,120,84,204
+3995,Madison Consolidated Schools,3329,Lydia Middleton Elementary School,,2,2,16,18,,268,117,189,306
+3995,Madison Consolidated Schools,3333,Anderson Elementary School,1,2,5,23,22,1,366,253,167,420
+3995,Madison Consolidated Schools,3358,E.O. Muncie Jr/Sr High School,,,4,4,5,,87,66,34,100
+4000,Southwestern-Jefferson Co Con,3337,Southwestern High School,,3,2,16,14,1,342,175,203,378
+4000,Southwestern-Jefferson Co Con,3341,Southwestern Elementary School,2,2,11,48,13,2,569,390,257,647
+4000,Southwestern-Jefferson Co Con,3343,Southwestern Middle School,,1,,19,7,1,277,164,141,305
+4015,Jennings County School Corporation,3345,Jennings County High School,2,1,2,86,28,4,1040,569,594,1163
+4015,Jennings County School Corporation,3349,Sand Creek Elementary School,1,,2,74,6,2,296,273,108,381
+4015,Jennings County School Corporation,3357,Scipio Elementary School,,,,14,9,,276,175,124,299
+4015,Jennings County School Corporation,3361,Graham Creek Elementary School,,,1,6,4,,229,137,103,240
+4015,Jennings County School Corporation,3385,Hayden Elementary School,,1,2,12,3,,279,168,129,297
+4015,Jennings County School Corporation,3389,Brush Creek Elementary School,,1,2,10,4,,313,197,133,330
+4015,Jennings County School Corporation,3393,Jennings County Middle School,2,1,1,49,14,,579,350,296,646
+4015,Jennings County School Corporation,3397,North Vernon Elementary School,1,,6,38,22,,552,387,232,619
+4145,Clark-Pleasant Community Sch Corp,3401,Clark Elementary School,1,182,35,33,32,2,311,280,316,596
+4145,Clark-Pleasant Community Sch Corp,3421,Whiteland Community High School,6,193,86,134,107,3,1483,803,1209,2012
+4145,Clark-Pleasant Community Sch Corp,3422,Grassy Creek Elementary School,1,150,72,56,60,4,549,407,485,892
+4145,Clark-Pleasant Community Sch Corp,3423,Sawmill Woods Elementary School,,9,8,14,7,,90,55,73,128
+4145,Clark-Pleasant Community Sch Corp,3425,Whiteland Elementary School,,10,3,27,15,,377,192,240,432
+4145,Clark-Pleasant Community Sch Corp,3427,Clark Pleasant Middle School,1,186,93,103,112,1,1200,828,868,1696
+4145,Clark-Pleasant Community Sch Corp,3429,Break-O-Day Elementary School,2,14,12,23,23,,351,229,196,425
+4145,Clark-Pleasant Community Sch Corp,3430,Pleasant Crossing Elementary,1,39,33,68,44,,543,378,350,728
+4205,Center Grove Community School Corp,3434,Sugar Grove Elementary School,,29,60,32,45,1,638,184,621,805
+4205,Center Grove Community School Corp,3435,Center Grove Elementary School,,66,14,29,27,,620,62,694,756
+4205,Center Grove Community School Corp,3437,Center Grove High School,7,121,82,133,74,1,2206,427,2197,2624
+4205,Center Grove Community School Corp,3438,Walnut Grove Elementary School,2,17,5,21,19,1,554,86,533,619
+4205,Center Grove Community School Corp,3439,Maple Grove Elementary School,,90,38,31,33,,551,138,605,743
+4205,Center Grove Community School Corp,3440,North Grove Elementary School,2,64,12,49,28,,457,172,440,612
+4205,Center Grove Community School Corp,3441,Center Grove Middle School Central,,80,30,51,27,2,945,150,985,1135
+4205,Center Grove Community School Corp,3443,Center Grove Middle School North,,38,33,52,42,,835,240,760,1000
+4205,Center Grove Community School Corp,3444,Pleasant Grove Elementary School,,15,15,18,27,,590,178,487,665
+4215,Edinburgh Community School Corp,3447,Edinburgh Community High School,,,,10,7,,213,138,92,230
+4215,Edinburgh Community School Corp,3449,Edinburgh Comm Middle School,,1,1,21,9,,161,133,60,193
+4215,Edinburgh Community School Corp,3452,East Side Elementary School,,1,1,45,9,,364,290,130,420
+4225,Franklin Community School Corp,3413,Needham Elementary School,,4,7,9,19,,289,127,201,328
+4225,Franklin Community School Corp,3433,Union Elementary School,,1,,,4,,119,29,95,124
+4225,Franklin Community School Corp,3445,Franklin Community High School,3,22,28,96,67,2,1364,521,1061,1582
+4225,Franklin Community School Corp,3457,Franklin Community Middle School,2,6,17,53,38,2,682,321,479,800
+4225,Franklin Community School Corp,3458,Custer Baker Intermediate School,1,7,11,54,47,1,622,322,421,743
+4225,Franklin Community School Corp,3461,Northwood Elementary School,,2,19,40,29,4,348,258,184,442
+4225,Franklin Community School Corp,3465,Webb Elementary School,,2,2,10,20,,242,131,145,276
+4225,Franklin Community School Corp,3467,Creekside Elementary School,1,1,6,30,27,3,548,256,360,616
+4245,Greenwood Community Sch Corp,3473,Greenwood Community High Sch,2,34,50,118,60,,955,476,743,1219
+4245,Greenwood Community Sch Corp,3475,Greenwood Middle School,,34,47,89,68,1,719,480,478,958
+4245,Greenwood Community Sch Corp,3477,Greenwood Northeast Elementary Sch,,27,24,43,46,,257,282,115,397
+4245,Greenwood Community Sch Corp,3479,Westwood Elementary School,,26,15,33,41,1,368,162,322,484
+4245,Greenwood Community Sch Corp,3481,V O Isom Central Elem School,1,9,18,39,28,,287,259,123,382
+4245,Greenwood Community Sch Corp,3483,Southwest Elementary School,,28,31,57,25,,393,256,278,534
+4255,Nineveh-Hensley-Jackson United,3409,Indian Creek Elementary School,1,2,2,14,8,,436,157,306,463
+4255,Nineveh-Hensley-Jackson United,3411,Indian Creek Intermediate School,,3,3,9,11,,405,141,290,431
+4255,Nineveh-Hensley-Jackson United,3418,Indian Creek Middle School,,,2,13,6,,413,162,272,434
+4255,Nineveh-Hensley-Jackson United,3419,Indian Creek Sr High School,,4,2,10,7,,562,166,419,585
+4315,North Knox School Corp,3521,North Knox Primary School,,,3,12,6,,254,152,123,275
+4315,North Knox School Corp,3537,North Knox Jr-Sr High School,,,,27,6,,579,339,273,612
+4315,North Knox School Corp,3545,North Knox Intermediate,1,,4,21,5,,345,215,161,376
+4325,South Knox School Corp,3489,South Knox Elementary School,,,2,7,9,,643,250,411,661
+4325,South Knox School Corp,3490,South Knox Middle-High School,,,1,7,11,,564,167,416,583
+4335,Vincennes Community School Corp,3509,Benjamin Franklin Elementary Sch,,8,3,9,24,,426,181,289,470
+4335,Vincennes Community School Corp,3553,Lincoln High School,,9,16,35,31,,532,307,316,623
+4335,Vincennes Community School Corp,3557,George Rogers Clark School,,4,15,19,25,,513,317,259,576
+4335,Vincennes Community School Corp,3573,James Whitcomb Riley Elem Sch,,4,1,5,11,1,148,129,41,170
+4335,Vincennes Community School Corp,3577,Tecumseh-Harrison Elementary Sch,1,6,21,24,16,,301,250,119,369
+4335,Vincennes Community School Corp,3581,Francis Vigo Elementary School,1,1,12,11,15,,294,201,133,334
+4335,Vincennes Community School Corp,4319,Washington Learning Academy,2,1,8,8,6,,162,120,67,187
+4345,Wawasee Community School Corp,3625,North Webster Elementary School,1,1,5,17,7,,329,169,191,360
+4345,Wawasee Community School Corp,3630,Wawasee Middle School,,1,6,48,14,,449,243,275,518
+4345,Wawasee Community School Corp,3635,Milford School,1,2,3,66,13,2,410,256,241,497
+4345,Wawasee Community School Corp,3637,Syracuse Elementary School,1,2,7,46,7,1,448,255,257,512
+4345,Wawasee Community School Corp,3639,Wawasee High School,5,4,5,106,25,1,803,363,586,949
+4415,Warsaw Community Schools,3589,Claypool Elementary School,,,5,59,7,,203,175,99,274
+4415,Warsaw Community Schools,3607,Lakeview Middle School,2,8,13,159,16,,340,286,252,538
+4415,Warsaw Community Schools,3608,Eisenhower Elementary School,1,8,13,61,17,,353,157,296,453
+4415,Warsaw Community Schools,3610,Harrison Elementary School,,30,15,140,8,,298,254,237,491
+4415,Warsaw Community Schools,3613,Leesburg Elementary School,1,,2,154,12,,295,274,190,464
+4415,Warsaw Community Schools,3647,Warsaw Community High School,3,29,39,481,62,1,1452,843,1224,2067
+4415,Warsaw Community Schools,3653,Edgewood Middle School,,8,10,99,25,,448,230,360,590
+4415,Warsaw Community Schools,3661,Jefferson Elementary School,1,3,14,93,13,1,307,216,216,432
+4415,Warsaw Community Schools,3665,Lincoln Elementary School,1,15,10,111,17,,319,238,235,473
+4415,Warsaw Community Schools,3673,Madison Elementary School,,13,6,93,13,,376,210,291,501
+4415,Warsaw Community Schools,3677,Washington Elementary School,1,24,9,75,14,,391,211,303,514
+4445,Tippecanoe Valley School Corp,2139,Akron Elementary School,,1,2,79,3,,298,205,178,383
+4445,Tippecanoe Valley School Corp,3602,Tippecanoe Valley High School,1,2,1,80,12,,475,285,286,571
+4445,Tippecanoe Valley School Corp,3603,Mentone Elementary School,,,,52,5,,369,244,182,426
+4445,Tippecanoe Valley School Corp,3619,Tippecanoe Valley Middle School,,1,,91,6,,319,232,185,417
+4455,Whitko Community School Corp,3642,Pierceton Elementary School,,2,1,24,7,,345,205,174,379
+4455,Whitko Community School Corp,9173,South Whitley Elementary School,,1,2,4,3,,274,117,167,284
+4455,Whitko Community School Corp,9191,Whitko Jr/Sr High School,2,4,8,29,5,,555,211,392,603
+4515,Prairie Heights Community Sch Corp,3686,Prairie Heights Elementary School,2,,2,19,5,,439,194,273,467
+4515,Prairie Heights Community Sch Corp,3688,Prairie Heights Middle School,3,,2,24,11,,406,216,230,446
+4515,Prairie Heights Community Sch Corp,3690,Prairie Heights Sr High School,2,2,4,19,11,,379,124,293,417
+4525,Westview School Corporation,3697,Westview Jr-Sr High School,,5,3,39,10,1,674,203,529,732
+4525,Westview School Corporation,3698,Topeka Elementary School,,2,,10,5,,269,107,179,286
+4525,Westview School Corporation,3702,Westview Elementary School,,,,7,3,,360,98,272,370
+4525,Westview School Corporation,3704,Meadowview Elementary School,1,,1,7,6,1,377,79,314,393
+4525,Westview School Corporation,3714,Shipshewana-Scott Elementary Sch,,1,1,11,3,,347,78,285,363
+4535,Lakeland School Corporation,3730,Lakeland Jr/Sr High School,3,5,4,188,31,,624,353,502,855
+4535,Lakeland School Corporation,3732,Lakeland Primary School,,1,1,65,15,,226,166,142,308
+4535,Lakeland School Corporation,3739,Lakeland Intermediate School,,3,2,89,18,,340,220,232,452
+4535,Lakeland School Corporation,3742,Wolcott Mills Elementary School,,,,1,,,16,5,12,17
+4535,Lakeland School Corporation,3746,Lima-Brighton Elementary,1,,,,,,10,4,7,11
+4580,Hanover Community School Corp,3781,Jane Ball Elementary School,,3,5,75,17,,381,146,335,481
+4580,Hanover Community School Corp,3782,Lincoln Elementary School,,4,22,84,17,,334,56,405,461
+4580,Hanover Community School Corp,3784,Hanover Central Middle School,2,11,34,133,30,,603,167,646,813
+4580,Hanover Community School Corp,3785,Hanover Central High School,4,10,22,90,29,,593,130,618,748
+4590,River Forest Community Sch Corp,3791,River Forest High School,2,1,61,201,32,,204,344,157,501
+4590,River Forest Community Sch Corp,3797,Henry S Evans Elementary School,,,39,150,27,,145,299,62,361
+4590,River Forest Community Sch Corp,3801,River Forest Middle School,2,3,34,184,28,,139,290,100,390
+4590,River Forest Community Sch Corp,3805,John I Meister Elementary School,1,4,17,168,23,1,119,245,88,333
+4600,Merrillville Community School Corp,3809,Merrillville High School,4,15,1326,381,101,,195,1197,825,2022
+4600,Merrillville Community School Corp,3811,Pierce Middle School,1,7,641,180,43,1,109,611,371,982
+4600,Merrillville Community School Corp,3813,Merrillville Intermediate School,,10,574,189,53,,89,633,282,915
+4600,Merrillville Community School Corp,3821,Henry P Fieler Elementary School,1,3,307,99,32,2,38,380,102,482
+4600,Merrillville Community School Corp,3822,Homer Iddings Elementary School,,5,277,109,29,,66,292,194,486
+4600,Merrillville Community School Corp,3826,Edgar L Miller Elementary School,,1,203,37,19,,13,217,56,273
+4600,Merrillville Community School Corp,3827,John Wood Elementary School,,4,111,78,27,,91,157,154,311
+4600,Merrillville Community School Corp,3829,Jonas E Salk Elementary School,,3,287,126,43,,94,358,195,553
+4615,Lake Central School Corporation,3831,Michael Grimmer Middle School,,32,72,148,36,,472,215,545,760
+4615,Lake Central School Corporation,3833,Lake Central High School,15,108,251,566,94,,2239,724,2549,3273
+4615,Lake Central School Corporation,3837,Kolling Elementary School,1,6,24,109,23,,512,94,581,675
+4615,Lake Central School Corporation,3838,Hal E Clark Middle School,2,11,67,175,28,,774,220,837,1057
+4615,Lake Central School Corporation,3839,George Bibich Elementary School,2,6,15,121,13,1,361,105,414,519
+4615,Lake Central School Corporation,3840,James H Watson Elementary School,,14,40,119,30,1,319,115,408,523
+4615,Lake Central School Corporation,3841,Kahler Middle School,5,29,57,225,25,,610,246,705,951
+4615,Lake Central School Corporation,3843,Protsman Elementary School,2,30,35,145,30,,354,170,426,596
+4615,Lake Central School Corporation,4349,Homan Elementary School,,17,49,119,20,6,314,188,337,525
+4615,Lake Central School Corporation,4351,Peifer Elementary School,,11,35,106,25,1,272,153,297,450
+4645,Tri-Creek School Corporation,3753,Oak Hill Elementary School,2,1,2,55,15,,432,154,353,507
+4645,Tri-Creek School Corporation,3845,Lake Prairie Elementary School,1,2,1,42,3,,332,84,297,381
+4645,Tri-Creek School Corporation,3848,Three Creeks Elem School,2,4,1,46,6,,417,146,330,476
+4645,Tri-Creek School Corporation,3851,Lowell Middle School,3,2,7,91,16,,592,205,506,711
+4645,Tri-Creek School Corporation,3865,Lowell Senior High School,1,5,9,116,24,,938,279,814,1093
+4650,Lake Ridge New Tech Schools,3869,Calumet New Tech High School,1,,289,139,35,,197,547,114,661
+4650,Lake Ridge New Tech Schools,3885,Longfellow New Tech Elementary Sch,1,,94,147,32,,199,432,41,473
+4650,Lake Ridge New Tech Schools,3893,Lake Ridge New Tech Middle School,,2,134,140,46,,188,420,90,510
+4660,Crown Point Community School Corp,3761,Robert Taft Middle School,1,31,24,147,31,,866,241,859,1100
+4660,Crown Point Community School Corp,3769,Douglas MacArthur Elem School,,4,1,47,19,,363,148,286,434
+4660,Crown Point Community School Corp,3773,Dwight D Eisenhower Elem School,,17,14,83,15,,484,66,547,613
+4660,Crown Point Community School Corp,3854,Winfield Elementary School,,10,19,86,16,,336,77,390,467
+4660,Crown Point Community School Corp,3901,Crown Point High School,8,82,104,400,94,1,2251,570,2370,2940
+4660,Crown Point Community School Corp,3903,Lake Street Elementary School,,16,12,91,20,,515,94,560,654
+4660,Crown Point Community School Corp,3905,Solon Robinson Elementary School,2,23,16,93,27,,393,192,362,554
+4660,Crown Point Community School Corp,3907,Jerry Ross Elementary School,2,15,20,90,12,,402,103,438,541
+4660,Crown Point Community School Corp,3913,Timothy Ball Elementary School,1,20,12,91,15,,369,147,361,508
+4660,Crown Point Community School Corp,3915,Colonel John Wheeler Middle School,1,20,42,166,26,,687,218,724,942
+4670,School City of East Chicago,3924,East Chicago Central High School,,,471,591,23,,19,880,224,1104
+4670,School City of East Chicago,3937,Carrie Gosch PK Center,,,89,74,5,,2,132,38,170
+4670,School City of East Chicago,3941,Benjamin Harrison Elementary Sch,,,115,263,5,,18,331,70,401
+4670,School City of East Chicago,3945,Abraham Lincoln Elementary School,1,,259,64,8,,7,303,36,339
+4670,School City of East Chicago,3953,William McKinley Elementary School,2,,186,322,13,,15,462,76,538
+4670,School City of East Chicago,3961,George Washington Elementary Sch,,,330,185,17,,10,450,92,542
+4670,School City of East Chicago,3963,Joseph Block Middle School,2,1,267,265,16,,10,470,91,561
+4680,Lake Station Community Schools,3965,Thomas A Edison Jr-Sr HS,,,96,270,26,,290,479,203,682
+4680,Lake Station Community Schools,3973,Alexander Hamilton Elementary Sch,1,,24,113,13,,85,201,35,236
+4680,Lake Station Community Schools,3975,Virgil I Bailey Elementary School,,,24,107,22,,106,211,48,259
+4690,Gary Community School Corp,4053,Banneker Elementary at Marquette,1,,360,19,11,,5,396,,396
+4690,Gary Community School Corp,4057,Mary M Bethune Early Child Dev Ctr,1,,285,3,4,,,293,,293
+4690,Gary Community School Corp,4061,Beveridge Elementary School,,,357,13,6,,2,378,,378
+4690,Gary Community School Corp,4086,Frankie Woods McCullough Academy,,,434,22,9,,3,468,,468
+4690,Gary Community School Corp,4105,Bailly Middle School,,,455,26,23,,9,513,,513
+4690,Gary Community School Corp,4155,Glen Park Acad for Excel in Lrn,,,454,31,17,,16,518,,518
+4690,Gary Community School Corp,4163,West Side Leadership Academy,1,,1084,37,59,,12,1193,,1193
+4690,Gary Community School Corp,4169,Daniel Hale Williams Elem Sch,,1,516,22,11,1,2,553,,553
+4690,Gary Community School Corp,4178,Gary Middle School,,,422,15,17,,4,458,,458
+4700,Griffith Public Schools,4171,Beiriger Elementary School,,4,91,120,22,,203,209,231,440
+4700,Griffith Public Schools,4173,Griffith High School,1,2,142,181,21,,320,295,372,667
+4700,Griffith Public Schools,4177,Griffith Middle School,2,5,114,132,25,,220,235,263,498
+4700,Griffith Public Schools,4189,Elsie Wadsworth Elementary School,,5,78,120,20,,189,195,217,412
+4710,School City of Hammond,4411,George Rogers Clark Md/HS,4,5,136,914,34,,161,994,260,1254
+4710,School City of Hammond,4413,Donald E Gavit Middle/High School,1,2,603,599,61,2,222,1159,331,1490
+4710,School City of Hammond,4415,Hammond High School,1,1,443,385,34,,27,702,189,891
+4710,School City of Hammond,4417,Morton Senior High School,1,2,496,497,58,,186,919,321,1240
+4710,School City of Hammond,4422,Joseph Hess Elementary School,1,1,239,233,31,,80,471,114,585
+4710,School City of Hammond,4425,Henry W Eggers Middle School,,1,376,316,30,,43,642,124,766
+4710,School City of Hammond,4433,Charles N Scott Middle School,1,1,302,361,37,1,95,644,154,798
+4710,School City of Hammond,4449,Thomas A Edison Elementary School,,,170,295,29,1,87,463,119,582
+4710,School City of Hammond,4451,Benjamin Franklin Elementary Sch,1,,21,179,12,,46,186,73,259
+4710,School City of Hammond,4453,Warren G Harding Elementary School,,,153,292,41,,96,463,119,582
+4710,School City of Hammond,4455,Washington Irving Elementary Sch,3,,126,491,44,,64,608,120,728
+4710,School City of Hammond,4457,Thomas Jefferson Elementary School,,2,184,190,17,,78,326,145,471
+4710,School City of Hammond,4459,Kenwood Elementary School,,1,137,74,21,,23,182,74,256
+4710,School City of Hammond,4463,Abraham Lincoln Elementary School,,2,76,341,22,,65,439,67,506
+4710,School City of Hammond,4465,Maywood Elementary School,2,,380,163,27,1,12,521,64,585
+4710,School City of Hammond,4469,Morton Elementary School,,3,145,222,23,1,67,367,94,461
+4710,School City of Hammond,4479,Lew Wallace Elementary School,,1,155,162,19,,24,316,45,361
+4710,School City of Hammond,4484,Frank O'Bannon Elementary School,,3,243,163,16,,64,427,62,489
+4720,School Town of Highland,4281,Highland High School,,9,81,361,32,,578,376,685,1061
+4720,School Town of Highland,4283,Highland Middle School,1,12,72,225,21,,353,277,407,684
+4720,School Town of Highland,4285,Judith Morton Johnston Elementary,,2,35,153,6,,185,181,200,381
+4720,School Town of Highland,4290,Mildred Merkley Elementary School,,7,22,95,6,,147,136,141,277
+4720,School Town of Highland,4301,Southridge Elementary School,1,8,24,114,11,,246,151,253,404
+4720,School Town of Highland,4303,Allen J Warren Elementary School,,9,61,97,7,,106,117,163,280
+4730,School City of Hobart,4305,Hobart High School,6,5,101,343,29,,781,582,683,1265
+4730,School City of Hobart,4309,Hobart Middle School,1,11,73,237,31,1,598,477,475,952
+4730,School City of Hobart,4311,Early Learning Center-George Earle,2,4,31,75,11,,183,151,155,306
+4730,School City of Hobart,4317,Liberty Elementary School,1,7,61,98,7,,272,213,233,446
+4730,School City of Hobart,4325,Veterans Elementary School at Mund,2,2,40,91,22,,361,310,208,518
+4730,School City of Hobart,4327,Joan Martin Elementary School,1,4,30,110,20,,315,197,283,480
+4740,School Town of Munster,4332,Munster High School,3,110,162,407,78,,828,309,1279,1588
+4740,School Town of Munster,4333,Wilbur Wright Middle School,1,68,84,250,49,,451,185,718,903
+4740,School Town of Munster,4337,James B Eads Elementary School,1,39,48,155,27,,243,140,373,513
+4740,School Town of Munster,4341,Ernest R Elliott Elementary School,,5,34,136,22,,256,102,351,453
+4740,School Town of Munster,4343,Frank H Hammond Elementary School,2,66,43,147,29,,375,68,594,662
+4760,School City of Whiting,4353,Whiting High School,,3,20,348,10,,105,301,185,486
+4760,School City of Whiting,4356,Whiting Middle School,,1,15,205,2,,46,184,85,269
+4760,School City of Whiting,4361,Nathan Hale Elementary School,,,11,329,13,,74,270,157,427
+4805,New Prairie United School Corp,4679,Prairie View Elementary School,1,,,12,11,,278,129,173,302
+4805,New Prairie United School Corp,4689,New Prairie High School,,3,6,94,37,,837,294,683,977
+4805,New Prairie United School Corp,4693,Rolling Prairie Elementary School,,,3,71,16,,323,211,202,413
+4805,New Prairie United School Corp,7345,New Prairie Middle School,3,4,4,59,21,,607,248,450,698
+4805,New Prairie United School Corp,7349,Olive Township Elementary School,,,3,22,16,,423,126,338,464
+4860,MSD of New Durham Township,4699,Westville Elementary School,,,6,22,27,,400,158,297,455
+4860,MSD of New Durham Township,4701,Westville High School,1,4,7,22,25,,353,129,283,412
+4915,Tri-Township Cons School Corp,4692,LaCrosse School,,,1,1,,,104,33,73,106
+4915,Tri-Township Cons School Corp,4696,Wanatah School,,,1,15,8,,211,97,138,235
+4925,Michigan City Area Schools,4373,Coolspring Elementary School,,4,112,21,19,,134,208,82,290
+4925,Michigan City Area Schools,4713,Springfield Elementary School,,3,73,30,32,,190,279,49,328
+4925,Michigan City Area Schools,4788,Martin T Krueger Middle School,1,1,173,49,39,,142,338,67,405
+4925,Michigan City Area Schools,4789,Barker Middle School,,2,138,48,37,,193,312,106,418
+4925,Michigan City Area Schools,4795,Michigan City High School,2,10,559,159,166,,664,1162,398,1560
+4925,Michigan City Area Schools,4805,Edgewood Elementary School,,5,147,31,28,2,145,283,75,358
+4925,Michigan City Area Schools,4811,Lake Hills Elementary School,2,,228,45,74,,84,399,34,433
+4925,Michigan City Area Schools,4821,Joy Elementary School,1,2,133,38,49,,179,318,84,402
+4925,Michigan City Area Schools,4825,Knapp Elementary School,,3,91,47,40,,184,298,67,365
+4925,Michigan City Area Schools,4833,Marsh Elementary School,,,121,40,33,,135,287,42,329
+4925,Michigan City Area Schools,6829,Pine Elementary School,,2,146,45,44,,192,373,56,429
+4940,South Central Com School Corp,4734,South Central Elementary School,1,2,3,37,11,,395,138,311,449
+4940,South Central Com School Corp,4737,South Central Jr-Sr High School,2,1,1,42,10,,425,134,347,481
+4945,LaPorte Community School Corp,4707,Indian Trail Elementary School,1,2,5,42,21,,223,172,122,294
+4945,LaPorte Community School Corp,4717,Kesling Intermediate School,,4,29,150,75,1,664,477,446,923
+4945,LaPorte Community School Corp,4721,Kingsford Heights Elementary Sch,,,3,9,12,2,135,104,57,161
+4945,LaPorte Community School Corp,4727,Kingsbury Elementary School,1,1,9,26,6,,246,97,192,289
+4945,LaPorte Community School Corp,4741,LaPorte High School,1,9,61,283,77,,1342,766,1007,1773
+4945,LaPorte Community School Corp,4742,LaPorte Middle School,2,3,31,153,67,1,740,564,433,997
+4945,LaPorte Community School Corp,4749,Hailmann Elementary School,,1,4,102,31,,205,226,117,343
+4945,LaPorte Community School Corp,4753,F Willard Crichfield Elementary,1,2,5,36,24,3,385,137,319,456
+4945,LaPorte Community School Corp,4757,Lincoln Elementary School,,,12,65,21,,220,173,145,318
+4945,LaPorte Community School Corp,4767,Riley Elementary School,,3,11,32,31,,217,193,101,294
+4945,LaPorte Community School Corp,4773,Handley Elementary School,,4,5,66,30,,247,234,118,352
+5075,North Lawrence Com Schools,4864,Needmore Elementary School,1,5,1,12,11,,282,134,178,312
+5075,North Lawrence Com Schools,4885,Oolitic School,,1,3,10,14,3,525,266,290,556
+5075,North Lawrence Com Schools,4889,Shawswick Elementary School,,5,2,17,11,,457,249,243,492
+5075,North Lawrence Com Schools,4905,Bedford Middle School,1,1,3,17,15,,477,280,234,514
+5075,North Lawrence Com Schools,4909,Lincoln Elementary School,,1,2,10,18,,335,237,129,366
+5075,North Lawrence Com Schools,4911,Bedford-North Lawrence High School,,10,5,39,36,,1382,631,841,1472
+5075,North Lawrence Com Schools,4932,Parkview Elementary School,,4,5,26,23,1,569,336,292,628
+5085,Mitchell Community Schools,4861,Burris Elementary School,1,2,,14,5,,311,207,126,333
+5085,Mitchell Community Schools,4863,Hatfield Elementary School,,1,2,11,7,,323,185,159,344
+5085,Mitchell Community Schools,4924,Mitchell Jr High School,1,1,,12,13,1,343,212,159,371
+5085,Mitchell Community Schools,4925,Mitchell High School,1,3,,10,12,2,424,184,268,452
+5245,Frankton-Lapel Community Schools,5005,Frankton Jr-Sr High School,,1,5,31,37,1,681,300,456,756
+5245,Frankton-Lapel Community Schools,5009,Frankton Elementary School,,1,7,40,35,,738,396,425,821
+5245,Frankton-Lapel Community Schools,5011,Lapel Sr High School,,3,5,12,13,,435,106,362,468
+5245,Frankton-Lapel Community Schools,5012,Lapel Middle School,,1,7,4,15,,302,97,232,329
+5245,Frankton-Lapel Community Schools,5025,Lapel Elementary School,,1,2,7,19,,646,199,476,675
+5255,South Madison Com Sch Corp,4935,East Elementary School,,1,4,20,17,1,704,268,479,747
+5255,South Madison Com Sch Corp,5053,Pendleton Heights High School,2,15,37,32,34,1,1273,398,996,1394
+5255,South Madison Com Sch Corp,5057,Pendleton Heights Middle School,,7,6,29,30,,613,200,485,685
+5255,South Madison Com Sch Corp,5061,Pendleton Elementary School,2,5,6,26,23,,773,239,596,835
+5255,South Madison Com Sch Corp,5064,Maple Ridge Elementary School,1,8,19,50,51,,598,270,457,727
+5265,Alexandria Community School Corp,5041,Alexandria-Monroe High School,,3,3,45,18,,694,362,401,763
+5265,Alexandria Community School Corp,5065,Alexandria Monroe Elementary Schoo,,2,2,66,43,,706,466,353,819
+5265,Alexandria Community School Corp,5069,Alexandria Monroe Academy and Cent,,,,,,,8,1,7,8
+5275,Anderson Community School Corp,4906,COMPASS Alternative School,,,27,7,10,,36,63,17,80
+5275,Anderson Community School Corp,4945,Anderson High School,,6,399,277,134,,970,1220,566,1786
+5275,Anderson Community School Corp,4953,Edgewood Elementary School,,,66,22,19,,96,133,70,203
+5275,Anderson Community School Corp,4967,Anderson Intermediate School,2,2,240,152,124,,505,804,221,1025
+5275,Anderson Community School Corp,4977,Tenth Street Elementary School,,3,90,50,62,,326,424,107,531
+5275,Anderson Community School Corp,5023,Southview Preschool Center,,1,19,23,15,,109,,167,167
+5275,Anderson Community School Corp,5033,Valley Grove Elementary School,,,76,38,46,,241,310,91,401
+5275,Anderson Community School Corp,5076,Highland Middle School,1,,214,157,105,,526,733,270,1003
+5275,Anderson Community School Corp,5102,Eastside Elementary School,,6,93,38,54,,321,379,133,512
+5275,Anderson Community School Corp,5142,Anderson Elementary School,,,108,183,34,,93,361,57,418
+5275,Anderson Community School Corp,5146,Erskine Elementary School,,1,90,48,62,,229,344,86,430
+5280,Elwood Community School Corp,5149,Elwood Jr-Sr High School,2,3,1,37,12,,564,349,270,619
+5280,Elwood Community School Corp,5151,Elwood Intermediate School,1,3,3,43,14,1,358,254,169,423
+5280,Elwood Community School Corp,5157,Elwood Elementary School,,,3,25,14,,356,229,169,398
+5300,MSD Decatur Township,5177,Decatur Central High School,4,14,334,292,92,,1082,961,857,1818
+5300,MSD Decatur Township,5178,Gold Academy,3,3,128,80,40,,375,399,230,629
+5300,MSD Decatur Township,5179,Blue Academy,4,3,160,105,61,,361,442,252,694
+5300,MSD Decatur Township,5181,Decatur Middle School,,13,195,148,84,2,676,657,461,1118
+5300,MSD Decatur Township,5185,Stephen Decatur Elementary School,2,3,82,75,27,1,270,339,121,460
+5300,MSD Decatur Township,5187,Valley Mills Elementary School,1,3,84,69,46,1,410,407,207,614
+5300,MSD Decatur Township,5188,Decatur Twp School for Excellence,1,,25,11,19,,162,142,76,218
+5300,MSD Decatur Township,5189,West Newton Elementary School,3,5,135,61,35,1,341,298,283,581
+5300,MSD Decatur Township,5192,Liberty Early Elementary School,,4,122,65,61,,393,324,321,645
+5310,Franklin Township Com Sch Corp,5193,Franklin Central High School,8,248,297,286,177,3,2045,1182,1882,3064
+5310,Franklin Township Com Sch Corp,5194,South Creek Elementary,2,37,105,52,35,,358,250,339,589
+5310,Franklin Township Com Sch Corp,5195,Franklin Central Junior High,3,149,173,150,114,3,1088,730,950,1680
+5310,Franklin Township Com Sch Corp,5198,Thompson Crossing Elementary Sch,2,80,52,59,47,1,382,320,303,623
+5310,Franklin Township Com Sch Corp,5200,Mary Adams Elementary School,1,107,19,31,33,,328,204,315,519
+5310,Franklin Township Com Sch Corp,5201,Acton Elementary School,1,26,48,30,52,1,372,214,316,530
+5310,Franklin Township Com Sch Corp,5202,Arlington Elementary School,3,58,69,67,37,,258,320,172,492
+5310,Franklin Township Com Sch Corp,5205,Bunker Hill Elementary School,2,136,18,34,20,1,270,183,298,481
+5310,Franklin Township Com Sch Corp,5207,Lillie Idella Kitley Intermediate,,103,122,69,78,4,829,473,732,1205
+5310,Franklin Township Com Sch Corp,5210,Edgewood Intermediate School,,156,109,134,73,1,708,586,595,1181
+5310,Franklin Township Com Sch Corp,5317,Wanamaker Early Learning Center,,16,11,12,20,,164,60,163,223
+5330,MSD Lawrence Township,5275,Lawrence Central High School,4,25,1170,563,139,1,377,1461,818,2279
+5330,MSD Lawrence Township,5276,Lawrence North High School,,38,1191,694,179,3,649,1486,1268,2754
+5330,MSD Lawrence Township,5277,Belzer Middle School,,9,586,310,81,,146,822,310,1132
+5330,MSD Lawrence Township,5281,Brook Park Elementary School,1,3,392,108,31,,41,497,79,576
+5330,MSD Lawrence Township,5283,Mary Evelyn Castle Elementary Sch,,13,264,169,49,,182,395,282,677
+5330,MSD Lawrence Township,5284,Early Learning Center,1,10,433,245,105,1,272,636,431,1067
+5330,MSD Lawrence Township,5285,Crestview Elementary School,1,10,307,79,43,,142,391,191,582
+5330,MSD Lawrence Township,5287,Amy Beverland Elementary,,10,226,52,83,,337,247,461,708
+5330,MSD Lawrence Township,5289,Harrison Hill Elementary School,,2,307,278,48,,75,580,130,710
+5330,MSD Lawrence Township,5291,Fall Creek Valley Middle School,1,14,602,405,75,,293,890,500,1390
+5330,MSD Lawrence Township,5293,Indian Creek Elementary School,,,287,309,32,,90,538,180,718
+5330,MSD Lawrence Township,5294,Forest Glen Elementary School,,8,110,387,55,1,211,350,422,772
+5330,MSD Lawrence Township,5295,Winding Ridge Elementary School,,4,483,55,54,,31,510,117,627
+5330,MSD Lawrence Township,5296,Oaklandon Elementary School,,5,233,67,69,,145,350,169,519
+5330,MSD Lawrence Township,5298,Skiles Test Elementary School,,1,267,138,34,1,61,330,172,502
+5330,MSD Lawrence Township,5299,Sunnyside Elementary School,,2,160,434,35,1,38,515,155,670
+5340,Perry Township Schools,5307,Perry Meridian High School,2,572,167,315,106,1,1208,1387,984,2371
+5340,Perry Township Schools,5309,Southport High School,1,456,216,505,118,,1030,1610,716,2326
+5340,Perry Township Schools,5310,Southport 6th Grade Academy,1,169,58,157,30,,245,505,155,660
+5340,Perry Township Schools,5312,Perry Meridian 6th Grade Academy,1,220,48,70,29,,300,441,227,668
+5340,Perry Township Schools,5315,Southport Middle School,1,238,134,264,73,2,478,861,329,1190
+5340,Perry Township Schools,5319,Perry Meridian Middle School,,366,103,182,68,,570,842,447,1289
+5340,Perry Township Schools,5321,William Henry Burkhart Elementary,,372,41,94,18,2,168,567,128,695
+5340,Perry Township Schools,5322,Mary Bryan Elementary School,2,497,41,85,40,,335,734,266,1000
+5340,Perry Township Schools,5325,Clinton Young Elementary School,2,77,104,305,48,,230,664,102,766
+5340,Perry Township Schools,5333,Glenns Valley Elementary School,2,292,66,58,50,,312,555,225,780
+5340,Perry Township Schools,5337,Abraham Lincoln Elementary School,,354,116,120,60,,277,762,165,927
+5340,Perry Township Schools,5338,Douglas MacArthur Elementary Sch,,461,49,37,35,,299,618,263,881
+5340,Perry Township Schools,5345,Homecroft Elementary School,1,85,69,155,33,1,267,465,146,611
+5340,Perry Township Schools,5347,Southport Elementary School,,438,43,58,20,,165,598,126,724
+5340,Perry Township Schools,5351,Winchester Village Elementary,,223,119,147,35,1,124,576,73,649
+5340,Perry Township Schools,5366,Jeremiah Gray Elementary School,,127,38,79,30,1,273,362,186,548
+5340,Perry Township Schools,5372,Rosa Parks Elementary School,,256,36,46,54,,358,403,347,750
+5350,MSD Pike Township,5349,Fishback Creek Public Academy,,18,243,54,34,,121,232,238,470
+5350,MSD Pike Township,5352,Deer Run Elementary,,11,307,176,30,,20,410,134,544
+5350,MSD Pike Township,5353,Pike High School,1,64,2013,879,162,2,271,2049,1343,3392
+5350,MSD Pike Township,5354,College Park Elementary School,,17,252,156,24,,21,361,109,470
+5350,MSD Pike Township,5355,Lincoln Middle School,,9,531,230,44,,52,637,229,866
+5350,MSD Pike Township,5356,Guion Creek Middle School,,19,581,346,41,,25,739,273,1012
+5350,MSD Pike Township,5357,Central Elementary School,,6,428,132,25,,26,456,161,617
+5350,MSD Pike Township,5358,Eagle Creek Elementary School,,5,337,58,33,,58,281,210,491
+5350,MSD Pike Township,5359,Eastbrook Elementary School,,5,322,149,29,,32,389,148,537
+5350,MSD Pike Township,5360,Guion Creek Elementary School,,13,392,164,37,,43,455,194,649
+5350,MSD Pike Township,5363,Snacks Crossing Elementary School,,2,364,147,33,,30,436,140,576
+5350,MSD Pike Township,5378,New Augusta Public Academy - South,,9,324,61,27,,21,279,163,442
+5350,MSD Pike Township,5380,New Augusta Public Academy - North,,14,557,99,60,,123,462,391,853
+5360,MSD Warren Township,5361,Warren Central High School,5,21,2011,642,269,4,738,2252,1438,3690
+5360,MSD Warren Township,5364,Creston Intermediate & Middle Schl,3,13,751,194,102,2,183,793,455,1248
+5360,MSD Warren Township,5367,Stonybrook Intermediate & Middle,,7,780,254,82,,96,834,385,1219
+5360,MSD Warren Township,5368,Raymond Park Intermediate & Middle,2,5,495,215,81,,354,770,382,1152
+5360,MSD Warren Township,5369,Eastridge Elementary School,1,3,212,65,39,1,71,239,153,392
+5360,MSD Warren Township,5370,Hawthorne Elementary School,,,126,83,26,,101,218,118,336
+5360,MSD Warren Township,5373,Grassy Creek Elementary School,1,5,242,50,56,,86,239,201,440
+5360,MSD Warren Township,5375,Lakeside Elementary School,,2,381,69,38,,50,346,194,540
+5360,MSD Warren Township,5377,Lowell Elementary School,,3,120,72,52,,209,282,174,456
+5360,MSD Warren Township,5386,Pleasant Run Elementary School,2,,259,170,42,,60,349,184,533
+5360,MSD Warren Township,5389,Sunny Heights Elementary School,1,,316,80,26,1,21,279,166,445
+5360,MSD Warren Township,5391,Brookview Elementary School,,1,341,56,32,,53,294,189,483
+5360,MSD Warren Township,5395,Warren Early Childhood Center,,1,89,34,25,,50,79,120,199
+5360,MSD Warren Township,5397,Liberty Park Elementary School,1,2,241,65,51,,119,275,204,479
+5370,MSD Washington Township,5403,Allisonville Elementary School,1,9,217,72,30,,349,247,431,678
+5370,MSD Washington Township,5406,Crooked Creek Elementary School,,12,217,86,41,1,111,243,225,468
+5370,MSD Washington Township,5407,Clearwater Elementary School,,6,208,74,51,1,303,275,368,643
+5370,MSD Washington Township,5408,Willow Lake Elementary School,,48,367,147,27,,91,501,179,680
+5370,MSD Washington Township,5418,Greenbriar Elementary School,,16,314,87,29,,76,363,159,522
+5370,MSD Washington Township,5427,Nora Elementary School,,38,137,205,21,,89,355,135,490
+5370,MSD Washington Township,5430,Spring Mill Elementary School,,8,268,98,29,,86,362,127,489
+5370,MSD Washington Township,5434,Hilltop School,,4,38,20,6,,20,,88,88
+5370,MSD Washington Township,5436,Fox Hill Elementary School,1,22,187,192,31,,146,358,221,579
+5370,MSD Washington Township,5442,Eastwood Middle School,2,31,274,136,57,1,309,378,432,810
+5370,MSD Washington Township,5445,Northview Middle School,,32,431,175,49,,207,537,357,894
+5370,MSD Washington Township,5448,Westlane Middle School,,28,371,218,50,,126,483,310,793
+5370,MSD Washington Township,5451,North Central High School,7,140,1435,712,237,,1223,1749,2005,3754
+5375,MSD Wayne Township,5213,Ben Davis High School,4,17,1262,987,172,3,835,2038,1242,3280
+5375,MSD Wayne Township,5219,Ben Davis Ninth Grade Center,1,8,510,437,75,1,305,884,453,1337
+5375,MSD Wayne Township,5221,Chapel Hill 7th & 8th Grade Center,,4,674,347,74,,246,891,454,1345
+5375,MSD Wayne Township,5222,Lynhurst 7th & 8th Grade Center,2,8,305,459,71,,371,894,322,1216
+5375,MSD Wayne Township,5223,Maplewood Elementary School,,2,86,316,38,,312,593,161,754
+5375,MSD Wayne Township,5227,Chapel Glen Elementary School,1,3,416,156,80,1,239,657,239,896
+5375,MSD Wayne Township,5241,Garden City Elementary School,2,3,212,367,29,,107,519,201,720
+5375,MSD Wayne Township,5257,McClelland Elementary School,3,13,266,250,56,3,206,579,218,797
+5375,MSD Wayne Township,5261,Rhoades Elementary School,2,2,174,280,46,1,195,547,153,700
+5375,MSD Wayne Township,5265,Robey Elementary School,,5,292,123,57,1,312,406,384,790
+5375,MSD Wayne Township,5267,North Wayne Elementary School,1,4,474,198,41,2,30,506,244,750
+5375,MSD Wayne Township,5270,Stout Field Elementary School,3,1,82,202,39,1,410,570,168,738
+5375,MSD Wayne Township,5271,Sanders School,,,23,4,7,,30,38,26,64
+5375,MSD Wayne Township,5273,Westlake Elementary School,2,1,376,200,26,1,79,476,209,685
+5375,MSD Wayne Township,5274,Chapelwood Elementary School,5,11,506,202,59,,111,644,250,894
+5375,MSD Wayne Township,5288,Achieve Virtual Education Academy,,2,69,32,17,,218,37,301,338
+5375,MSD Wayne Township,5446,Bridgeport Elementary School,4,10,321,182,58,1,181,479,278,757
+5375,MSD Wayne Township,5447,Ben Davis University High School,,4,133,154,13,,108,266,146,412
+5380,Beech Grove City Schools,5449,Beech Grove Sr High School,,8,126,124,82,,665,583,422,1005
+5380,Beech Grove City Schools,5453,Beech Grove Middle School,,2,65,58,44,,317,293,193,486
+5380,Beech Grove City Schools,5457,Central Elementary School,1,6,52,43,37,,279,250,168,418
+5380,Beech Grove City Schools,5461,South Grove Intermediate School,1,5,89,58,67,,446,407,259,666
+5380,Beech Grove City Schools,5463,Hornet Park Elementary School,,5,52,47,52,,276,220,212,432
+5385,Indianapolis Public Schools,108,Impact Academy,,1,49,13,17,,87,8,159,167
+5385,Indianapolis Public Schools,109,Thrival Academy,,,31,4,3,,3,35,6,41
+5385,Indianapolis Public Schools,5462,Arsenal Technical High School,,17,899,904,93,,190,1453,650,2103
+5385,Indianapolis Public Schools,5466,Arlington Community Middle School,,,320,70,16,,29,326,109,435
+5385,Indianapolis Public Schools,5467,HW Longfellow Med/STEM Magnet Midl,,1,153,207,15,,76,329,123,452
+5385,Indianapolis Public Schools,5474,Crispus Attucks High School,1,3,646,428,38,,41,865,292,1157
+5385,Indianapolis Public Schools,5481,Emmerich Manual High School,1,6,126,69,34,1,177,311,103,414
+5385,Indianapolis Public Schools,5492,Shortridge High School,,10,497,328,61,2,179,699,378,1077
+5385,Indianapolis Public Schools,5498,Cold Spring School,,4,242,61,31,,65,271,132,403
+5385,Indianapolis Public Schools,5515,Thomas D Gregg School 15,,,209,217,28,,57,393,118,511
+5385,Indianapolis Public Schools,5516,Northwest Community Middle School,,,223,135,15,,11,276,108,384
+5385,Indianapolis Public Schools,5531,James A Garfield School 31,,,60,66,22,,136,220,64,284
+5385,Indianapolis Public Schools,5534,Eleanor Skillen School 34,,,50,72,25,,148,241,54,295
+5385,Indianapolis Public Schools,5538,Center for Inquiry School 70,2,5,107,42,29,,276,124,337,461
+5385,Indianapolis Public Schools,5539,William McKinley School 39,1,,85,139,23,,167,311,104,415
+5385,Indianapolis Public Schools,5543,James Whitcomb Riley School 43,,4,287,35,28,1,25,305,75,380
+5385,Indianapolis Public Schools,5544,Riverside School 44,,1,10,16,3,,7,1,36,37
+5385,Indianapolis Public Schools,5546,Daniel Webster School 46,1,,81,128,38,1,144,293,100,393
+5385,Indianapolis Public Schools,5549,William Penn School 49,5,,76,297,41,,174,414,179,593
+5385,Indianapolis Public Schools,5551,James Russell Lowell School 51,,,161,96,6,,14,217,60,277
+5385,Indianapolis Public Schools,5554,Brookside School 54,,,219,90,27,,52,319,69,388
+5385,Indianapolis Public Schools,5555,IPS/Butler Lab at Eliza Blaker 55,1,,148,55,36,,179,204,215,419
+5385,Indianapolis Public Schools,5556,Francis W Parker School 56,,,239,38,18,1,50,257,89,346
+5385,Indianapolis Public Schools,5557,George W Julian School 57,,,39,44,12,,88,126,57,183
+5385,Indianapolis Public Schools,5558,Ralph Waldo Emerson School 58,,2,119,63,14,1,43,190,52,242
+5385,Indianapolis Public Schools,5560,IPS/Butler Lab at William Bell 60,1,7,175,53,43,,306,200,385,585
+5385,Indianapolis Public Schools,5565,Raymond F Brandes School 65,,21,32,52,18,,73,166,30,196
+5385,Indianapolis Public Schools,5570,Edison School of the Arts 47,,1,329,147,36,1,74,421,167,588
+5385,Indianapolis Public Schools,5574,Theodore Potter School 74,,,31,200,13,,32,183,93,276
+5385,Indianapolis Public Schools,5577,Merle Sidener Gifted Academy,,6,71,63,35,,177,128,224,352
+5385,Indianapolis Public Schools,5579,Carl Wilde School 79,1,8,193,360,13,,34,469,140,609
+5385,Indianapolis Public Schools,5582,Christian Park School 82,,,61,61,32,,129,216,67,283
+5385,Indianapolis Public Schools,5583,Floro Torrence School 83,,,153,54,4,,5,170,46,216
+5385,Indianapolis Public Schools,5587,George Washington Carver School 87,,2,139,136,27,,99,218,185,403
+5385,Indianapolis Public Schools,5588,Anna Brochhausen School 88,1,1,189,36,18,,35,226,54,280
+5385,Indianapolis Public Schools,5590,Ernie Pyle School 90,,,106,156,12,,24,227,71,298
+5385,Indianapolis Public Schools,5591,Rousseau McClellan School 91,2,3,154,92,50,,286,237,350,587
+5385,Indianapolis Public Schools,5596,Meredith Nicholson School 96,,,51,291,4,,2,229,119,348
+5385,Indianapolis Public Schools,5601,H L Harshman Middle School,,4,168,336,12,,45,433,132,565
+5385,Indianapolis Public Schools,5602,Francis Bellamy Pre-School Center,,,37,27,2,,6,55,17,72
+5385,Indianapolis Public Schools,5605,Charles Warren Fairbanks Sch 105,,,151,142,3,,10,205,101,306
+5385,Indianapolis Public Schools,5606,Robert Lee Frost School 106,,1,224,54,19,,4,232,70,302
+5385,Indianapolis Public Schools,5607,Lew Wallace School 107,1,25,252,223,17,,17,355,180,535
+5385,Indianapolis Public Schools,5609,Jonathan Jennings School 109,,,124,148,6,,9,192,95,287
+5385,Indianapolis Public Schools,5614,Paul I Miller School 114,,,139,47,12,,67,220,45,265
+5385,Indianapolis Public Schools,5619,George S Buck School 94,,,172,97,9,,22,208,92,300
+5385,Indianapolis Public Schools,5623,Arlington Woods School 99,1,,243,65,7,,16,264,68,332
+5385,Indianapolis Public Schools,5635,Center For Inquiry School 2,1,15,49,40,38,,295,107,331,438
+5385,Indianapolis Public Schools,5644,George Washington High School,2,1,417,247,28,,103,525,273,798
+5385,Indianapolis Public Schools,5659,Center for Inquiry School 84,2,11,21,13,29,2,372,26,424,450
+5385,Indianapolis Public Schools,5662,Clarence Farrington School 61,,,201,267,15,,28,364,147,511
+5385,Indianapolis Public Schools,5668,Center for Inquiry School 27,,5,167,90,32,1,198,225,268,493
+5385,Indianapolis Public Schools,5674,Frederick Douglass School 19,3,,106,176,32,,81,307,91,398
+5400,School Town of Speedway,5889,Speedway Junior High School,,17,80,50,15,,129,148,143,291
+5400,School Town of Speedway,5891,Speedway Senior High School,1,31,115,86,33,,262,234,294,528
+5400,School Town of Speedway,5893,James A Allison Elementary Sch 3,,18,129,59,10,1,70,176,111,287
+5400,School Town of Speedway,5897,Carl G Fisher Elementary School 1,,2,19,17,16,,105,56,103,159
+5400,School Town of Speedway,5901,Arthur C Newby Elementary School 2,,2,90,27,17,,99,135,100,235
+5400,School Town of Speedway,5905,Frank H Wheeler Elementary Sch 4,1,21,91,105,26,1,96,235,106,341
+5455,Culver Community Schools Corp,5245,Culver Community Middle/High Sch,,,,40,18,,367,223,202,425
+5455,Culver Community Schools Corp,5928,Culver Elementary School,,4,5,33,14,,277,187,146,333
+5470,Argos Community Schools,5936,Argos Community Elementary,,1,1,20,4,,242,150,118,268
+5470,Argos Community Schools,5937,Argos Comm Jr-Sr High School,,,3,16,7,,321,162,185,347
+5480,Bremen Public Schools,5941,Bremen Senior High School,,2,3,135,4,,363,173,334,507
+5480,Bremen Public Schools,5943,Bremen Elementary/Middle School,,5,5,277,22,,643,440,512,952
+5485,Plymouth Community School Corp,5933,Menominee Elementary School,,2,5,70,14,1,262,194,160,354
+5485,Plymouth Community School Corp,5945,Plymouth High School,2,11,10,319,28,,725,505,590,1095
+5485,Plymouth Community School Corp,5949,Lincoln Junior High School,2,9,5,127,17,,402,268,294,562
+5485,Plymouth Community School Corp,5956,Riverside Intermediate,,4,6,137,4,,354,277,228,505
+5485,Plymouth Community School Corp,5961,Jefferson Elementary School,1,2,2,98,8,,173,196,88,284
+5485,Plymouth Community School Corp,5965,Washington Discovery Academy,,,1,92,10,,165,161,107,268
+5485,Plymouth Community School Corp,5969,Webster Elementary School,,1,3,120,16,,223,207,156,363
+5495,Triton School Corporation,5922,Triton Elementary School,1,4,4,32,7,1,428,232,245,477
+5495,Triton School Corporation,5923,Triton Jr-Sr High School,,2,,23,10,,370,153,252,405
+5520,Shoals Community School Corp,5985,Shoals Community High School,,1,,1,3,,204,118,91,209
+5520,Shoals Community School Corp,5989,Shoals Community Elementary School,,,,2,4,,265,173,98,271
+5520,Shoals Community School Corp,5991,Shoals Middle School,1,,,1,8,,129,88,51,139
+5525,Loogootee Community Sch Corp,5997,Loogootee Elementary School,,,1,5,11,,272,105,184,289
+5525,Loogootee Community Sch Corp,6001,Loogootee Middle School,,2,1,4,3,,209,85,134,219
+5525,Loogootee Community Sch Corp,6003,Loogootee High School,,1,,4,3,,244,94,158,252
+5615,Maconaquah School Corp,6012,Pipe Creek Elementary School,,2,6,30,23,,306,223,144,367
+5615,Maconaquah School Corp,6032,Maconaquah High School,,3,13,44,35,,561,319,337,656
+5615,Maconaquah School Corp,6033,Maconaquah Middle School,3,1,10,31,42,,431,304,214,518
+5615,Maconaquah School Corp,6035,Maconaquah Elementary School,3,1,12,46,50,,438,358,192,550
+5620,North Miami Community Schools,6049,North Miami Middle/High School,2,1,1,17,13,,388,162,260,422
+5620,North Miami Community Schools,6051,North Miami Elementary School,10,2,3,22,14,,387,207,231,438
+5625,Oak Hill United School Corp,2305,Oak Hill Junior High School,,1,3,19,13,,256,115,177,292
+5625,Oak Hill United School Corp,2306,Swayzee Elementary School,,,2,16,12,,227,105,152,257
+5625,Oak Hill United School Corp,6069,Oak Hill High School,,,6,39,24,,452,173,348,521
+5625,Oak Hill United School Corp,6073,Converse Elementary School,,1,2,16,17,,335,154,217,371
+5625,Oak Hill United School Corp,6081,Sweetser Elementary School,,,2,13,5,,213,98,135,233
+5635,Peru Community Schools,6085,Peru High School,9,4,16,29,32,2,570,292,370,662
+5635,Peru Community Schools,6089,Peru Junior High School,2,,15,21,21,,244,165,138,303
+5635,Peru Community Schools,6093,Blair Pointe Upper Elementary,3,,15,20,37,,478,277,276,553
+5635,Peru Community Schools,6097,Elmwood Primary Learning Center,4,2,14,13,30,,371,233,201,434
+5705,Richland-Bean Blossom C S C,6144,Edgewood Early Childhood Center,,,1,1,2,,57,13,48,61
+5705,Richland-Bean Blossom C S C,6146,Edgewood High School,2,3,5,28,26,3,698,225,540,765
+5705,Richland-Bean Blossom C S C,6147,Edgewood Junior High School,4,2,2,26,34,1,565,221,413,634
+5705,Richland-Bean Blossom C S C,6151,Edgewood Primary School,1,3,9,17,33,2,539,212,392,604
+5705,Richland-Bean Blossom C S C,6153,Edgewood Intermediate School,,1,8,26,31,,533,215,384,599
+5740,Monroe County Community Sch Corp,6123,Unionville Elementary School,,,2,7,10,,212,68,163,231
+5740,Monroe County Community Sch Corp,6134,Lakeview Elementary School,,2,,8,26,,360,128,268,396
+5740,Monroe County Community Sch Corp,6157,Grandview Elementary School,,1,14,39,24,2,354,210,224,434
+5740,Monroe County Community Sch Corp,6162,Highland Park Elementary School,2,8,46,18,33,,250,203,154,357
+5740,Monroe County Community Sch Corp,6164,Summit Elementary School,3,18,55,77,63,1,395,269,343,612
+5740,Monroe County Community Sch Corp,6166,Bloomington High School South,2,88,64,90,92,1,1341,420,1258,1678
+5740,Monroe County Community Sch Corp,6168,Bloomington High School North,4,64,113,101,126,1,1176,472,1113,1585
+5740,Monroe County Community Sch Corp,6170,Tri-North Middle School,,39,47,41,39,,402,223,345,568
+5740,Monroe County Community Sch Corp,6172,Lora L Batchelor Middle School,2,7,35,33,36,,375,211,277,488
+5740,Monroe County Community Sch Corp,6173,Binford Elementary School,2,48,18,22,29,,362,86,395,481
+5740,Monroe County Community Sch Corp,6181,Arlington Heights Elementary Sch,,6,33,15,35,,190,143,136,279
+5740,Monroe County Community Sch Corp,6187,Childs Elementary School,,57,15,16,40,,370,45,453,498
+5740,Monroe County Community Sch Corp,6189,Clear Creek Elementary School,,1,11,11,26,,316,162,203,365
+5740,Monroe County Community Sch Corp,6197,Fairview Elementary School,1,1,54,30,46,,153,244,41,285
+5740,Monroe County Community Sch Corp,6199,Hoosier Hills Childcare Center,,,,,,,3,2,1,3
+5740,Monroe County Community Sch Corp,6202,The Acad of Sci & Entrepreneurship,,3,2,4,10,1,85,29,76,105
+5740,Monroe County Community Sch Corp,6213,Marlin Elementary School,,1,2,3,5,1,179,44,147,191
+5740,Monroe County Community Sch Corp,6217,Rogers Elementary School,,33,12,16,18,,251,61,269,330
+5740,Monroe County Community Sch Corp,6220,Bloomington Graduation School,,,7,4,5,,59,52,23,75
+5740,Monroe County Community Sch Corp,6223,Jackson Creek Middle School,1,28,22,43,34,,455,152,431,583
+5740,Monroe County Community Sch Corp,6225,Templeton Elementary School,3,9,38,38,37,1,274,236,164,400
+5740,Monroe County Community Sch Corp,6226,University Elementary School,1,85,37,43,46,,317,169,360,529
+5740,Monroe County Community Sch Corp,6312,Early Learning Center,,,1,,,,9,2,8,10
+5835,North Montgomery Com Sch Corp,6240,Pleasant Hill Elementary School,1,4,2,10,2,,275,91,203,294
+5835,North Montgomery Com Sch Corp,6243,Lester B Sommer Elementary School,1,,1,34,10,,270,131,185,316
+5835,North Montgomery Com Sch Corp,6244,North Montgomery Middle School,4,1,4,25,10,1,378,141,282,423
+5835,North Montgomery Com Sch Corp,6246,Sugar Creek Elementary School,,1,1,13,4,,258,97,180,277
+5835,North Montgomery Com Sch Corp,6271,North Montgomery High School,1,9,,19,16,,476,169,352,521
+5845,South Montgomery Com Sch Corp,6233,Ladoga Elementary School,,,1,9,12,,160,79,103,182
+5845,South Montgomery Com Sch Corp,6257,Southmont Sr High School,,1,1,15,10,,461,161,327,488
+5845,South Montgomery Com Sch Corp,6258,Walnut Elementary School,,,1,1,5,,174,72,109,181
+5845,South Montgomery Com Sch Corp,6261,Southmont Jr High School,1,2,1,20,15,,320,132,227,359
+5845,South Montgomery Com Sch Corp,6269,New Market Elementary School,,1,7,17,8,,404,147,290,437
+5855,Crawfordsville Community Schools,6277,Crawfordsville Sr High School,1,12,15,121,29,,498,373,303,676
+5855,Crawfordsville Community Schools,6281,Crawfordsville Middle School,1,8,14,122,12,,435,364,228,592
+5855,Crawfordsville Community Schools,6289,Mollie B Hoover Elementary School,,4,10,75,4,,291,241,143,384
+5855,Crawfordsville Community Schools,6293,Laura Hose Elementary School,2,,14,86,13,1,283,278,121,399
+5855,Crawfordsville Community Schools,6301,Meredith Nicholson Elementary Sch,,3,11,73,3,1,286,241,136,377
+5855,Crawfordsville Community Schools,6305,Anna Willson School,1,2,2,27,5,,81,76,42,118
+5900,Monroe-Gregg School District,6315,Monrovia Middle School,2,,4,9,9,,335,141,218,359
+5900,Monroe-Gregg School District,6321,Monrovia High School,,,9,18,7,,485,163,356,519
+5900,Monroe-Gregg School District,6323,Monrovia Elementary School,,,12,10,13,,554,235,354,589
+5910,Eminence Community School Corp,6325,Eminence Jr-Sr High School,,,2,4,2,,173,75,106,181
+5910,Eminence Community School Corp,6327,Eminence Elementary School,1,,,3,4,,156,85,79,164
+5925,MSD Martinsville Schools,6309,Green Township Elementary School,,3,,3,3,,135,52,92,144
+5925,MSD Martinsville Schools,6329,Martinsville High School,6,15,8,22,24,2,1215,511,781,1292
+5925,MSD Martinsville Schools,6332,John R. Wooden Middle School,1,1,4,14,9,,628,295,362,657
+5925,MSD Martinsville Schools,6334,Bell Intermediate Academy,,3,4,10,14,,539,278,292,570
+5925,MSD Martinsville Schools,6337,Brooklyn STEM Academy,,,1,4,2,,156,72,91,163
+5925,MSD Martinsville Schools,6341,Centerton Elementary School,,,1,4,2,,124,48,83,131
+5925,MSD Martinsville Schools,6344,South Elementary School of Communi,,,2,12,7,,198,128,91,219
+5925,MSD Martinsville Schools,6349,Charles L Smith Fine Arts Academy,,,,13,13,,341,222,145,367
+5925,MSD Martinsville Schools,6357,Paragon Elementary School,,,,4,6,,144,93,61,154
+5925,MSD Martinsville Schools,6361,Poston Road Elementary School,2,2,1,4,7,,234,148,102,250
+5930,Mooresville Con School Corp,6369,Mooresville High School,5,10,8,30,41,,1247,415,926,1341
+5930,Mooresville Con School Corp,6373,Paul Hadley Middle School,3,4,3,17,26,,674,267,460,727
+5930,Mooresville Con School Corp,6375,Neil Armstrong Elementary School,1,5,4,15,16,1,486,261,267,528
+5930,Mooresville Con School Corp,6381,Newby Memorial Elementary School,1,1,,10,16,,302,180,150,330
+5930,Mooresville Con School Corp,6385,North Madison Elementary School,,2,8,18,20,,548,244,352,596
+5930,Mooresville Con School Corp,6387,Northwood Elementary School,1,3,1,9,17,1,445,226,251,477
+5930,Mooresville Con School Corp,6393,Waverly Elementary School,,1,6,8,12,,311,122,216,338
+5945,North Newton School Corp,6397,Morocco Elementary School,,,1,16,7,,119,81,62,143
+5945,North Newton School Corp,6405,Lake Village Elementary School,,2,,9,2,2,149,71,93,164
+5945,North Newton School Corp,6409,Lincoln Elementary School,1,,1,43,2,,226,174,99,273
+5945,North Newton School Corp,6411,North Newton Jr-Sr High School,4,,,48,9,,488,248,301,549
+5995,South Newton School Corp,6417,South Newton Senior High School,,,4,31,2,,201,126,112,238
+5995,South Newton School Corp,6431,South Newton Elementary School,,,2,52,4,2,343,244,159,403
+5995,South Newton School Corp,6433,South Newton Middle School,,,,24,5,,165,115,79,194
+6055,Central Noble Com School Corp,6442,Central Noble Primary School,,,1,9,11,,235,85,171,256
+6055,Central Noble Com School Corp,6453,Central Noble Junior Senior HS,,5,1,13,8,,706,258,475,733
+6055,Central Noble Com School Corp,6454,Central Noble Elementary School,1,,2,9,9,,240,109,152,261
+6060,East Noble School Corporation,6457,Avilla Elementary School,,,2,12,4,,401,166,253,419
+6060,East Noble School Corporation,6458,East Noble High School,1,14,4,71,21,1,989,456,645,1101
+6060,East Noble School Corporation,6461,East Noble Middle School,1,1,3,45,15,,726,395,396,791
+6060,East Noble School Corporation,6465,Rome City Elementary School,,,2,4,3,,221,161,69,230
+6060,East Noble School Corporation,6477,North Side Elementary School,,1,2,19,15,,255,195,97,292
+6060,East Noble School Corporation,6478,South Side Elementary School,1,3,4,42,8,,251,205,104,309
+6060,East Noble School Corporation,6485,Wayne Center Elem School,2,2,3,15,4,,312,145,193,338
+6065,West Noble School Corporation,6489,West Noble High School,,1,1,361,6,,310,314,365,679
+6065,West Noble School Corporation,6491,West Noble Primary School,1,1,,204,1,,152,204,155,359
+6065,West Noble School Corporation,6509,West Noble Middle School,,5,2,377,6,,345,395,340,735
+6065,West Noble School Corporation,6510,West Noble Elementary School,,,1,239,3,,193,260,176,436
+6080,Rising Sun-Ohio Co Com,6511,Ohio County Elementary School,,3,3,4,9,,359,186,192,378
+6080,Rising Sun-Ohio Co Com,6512,Ohio County Middle School,,,1,,3,,175,74,105,179
+6080,Rising Sun-Ohio Co Com,6513,Rising Sun High School,,3,,3,4,,248,91,167,258
+6145,Orleans Community Schools,6573,Orleans Jr-Sr High School,,1,1,1,8,,386,198,199,397
+6145,Orleans Community Schools,6577,Orleans Elementary School,,,2,2,9,,454,257,210,467
+6155,Paoli Community School Corp,6581,Paoli Jr & Sr High School,1,3,2,17,14,,557,293,301,594
+6155,Paoli Community School Corp,6587,Throop Elementary School,1,3,7,11,16,1,610,378,271,649
+6160,Springs Valley Com School Corp,6589,Springs Valley Comm High School,1,1,17,16,28,,399,215,247,462
+6160,Springs Valley Com School Corp,6591,Springs Valley Elementary School,3,3,9,14,14,,340,214,169,383
+6195,Spencer-Owen Community Schools,6597,Owen Valley Middle School,1,2,1,4,8,,336,164,188,352
+6195,Spencer-Owen Community Schools,6601,Patricksburg Elementary School,1,,,,8,,123,92,40,132
+6195,Spencer-Owen Community Schools,6605,Gosport Elementary School,,1,,1,8,,124,78,56,134
+6195,Spencer-Owen Community Schools,6613,Owen Valley Community High School,3,6,3,10,9,,633,274,390,664
+6195,Spencer-Owen Community Schools,6617,Spencer Elementary School,,3,1,10,14,,556,292,292,584
+6195,Spencer-Owen Community Schools,6619,McCormick's Creek Elementary Sch,2,,1,6,9,,330,166,182,348
+6260,Southwest Parke Com Sch Corp,6621,Rosedale Elementary School,1,,,2,3,,304,116,194,310
+6260,Southwest Parke Com Sch Corp,6627,Riverton Parke Jr-Sr High School,,,4,26,3,,432,237,228,465
+6260,Southwest Parke Com Sch Corp,6629,Montezuma Elementary School,,1,,19,8,1,223,160,92,252
+6325,Perry Central Com Schools Corp,6705,Perry Central Elementary School,1,1,1,4,15,,669,257,434,691
+6325,Perry Central Com Schools Corp,6708,Perry Central Jr-Sr High School,,2,2,9,13,,552,191,387,578
+6340,Cannelton City Schools,6733,Cannelton Elementary & High School,,1,2,9,19,,233,187,77,264
+6350,Tell City-Troy Twp School Corp,6741,Tell City Jr-Sr High School,3,9,1,10,22,,592,284,353,637
+6350,Tell City-Troy Twp School Corp,6745,William Tell Elementary School,1,13,7,15,26,,680,372,370,742
+6375,North Central Parke Comm Schl Corp,6645,Rockville Elementary School,,,6,16,11,,300,205,128,333
+6375,North Central Parke Comm Schl Corp,6647,Turkey Run Elementary School,2,,,3,5,,242,150,102,252
+6375,North Central Parke Comm Schl Corp,6652,Parke Heritage Middle School,1,,,5,5,,240,146,105,251
+6375,North Central Parke Comm Schl Corp,6654,Parke Heritage High School,,,1,6,12,,332,186,165,351
+6445,Pike County School Corp,6763,Pike Central High School,1,2,3,8,10,,504,213,315,528
+6445,Pike County School Corp,6768,Pike Central Middle School,1,,1,8,8,,371,163,226,389
+6445,Pike County School Corp,6808,Winslow Elementary School,,1,,1,12,,271,150,135,285
+6445,Pike County School Corp,6809,Petersburg Elementary School,1,,,11,13,,440,244,221,465
+6460,MSD Boone Township,6813,Hebron High School,1,4,6,41,6,,299,114,243,357
+6460,MSD Boone Township,6814,Hebron Middle School,1,1,5,35,7,,219,98,170,268
+6460,MSD Boone Township,6815,Hebron Elementary School,1,,9,52,11,,373,206,240,446
+6470,Duneland School Corporation,6811,Porter County Education Services,,1,1,3,,,11,7,9,16
+6470,Duneland School Corporation,6817,Jackson Elementary School,,3,2,46,7,,267,52,273,325
+6470,Duneland School Corporation,6819,Brummitt Elementary School,,2,5,36,15,,286,73,271,344
+6470,Duneland School Corporation,6821,Liberty Intermediate School,,2,3,68,7,,266,73,273,346
+6470,Duneland School Corporation,6823,Liberty Elementary School,,2,6,80,24,,363,138,337,475
+6470,Duneland School Corporation,6925,Chesterton Senior High School,4,24,41,270,70,1,1674,482,1602,2084
+6470,Duneland School Corporation,6927,Westchester Intermediate School,,7,20,74,23,1,392,151,366,517
+6470,Duneland School Corporation,6928,Bailly Elementary School,,2,17,64,20,,311,122,292,414
+6470,Duneland School Corporation,6930,Chesterton Middle School,1,6,28,124,33,1,739,242,690,932
+6470,Duneland School Corporation,6941,Newton Yost Elementary School,,3,7,58,16,2,305,134,257,391
+6510,East Porter County School Corp,6811,Porter County Education Services,,,,1,,,5,3,3,6
+6510,East Porter County School Corp,6825,Morgan Township Middle/High School,,3,3,25,6,,387,41,383,424
+6510,East Porter County School Corp,6828,Morgan Township Elementary School,,2,2,38,8,,328,35,343,378
+6510,East Porter County School Corp,6833,Kouts Middle/High School,,,3,26,9,,390,83,345,428
+6510,East Porter County School Corp,6835,Kouts Elementary School,1,1,3,17,1,1,283,68,239,307
+6510,East Porter County School Corp,6849,Washington Twp Middle/High School,1,7,6,59,7,,387,128,339,467
+6510,East Porter County School Corp,6852,Washington Twp Elementary School,4,3,4,51,11,,336,102,307,409
+6520,Porter Township School Corp,6811,Porter County Education Services,,,,,,,3,,3,3
+6520,Porter Township School Corp,6837,Boone Grove Elementary School,,1,2,29,4,,162,59,139,198
+6520,Porter Township School Corp,6838,Boone Grove High School,1,,13,55,11,,421,112,389,501
+6520,Porter Township School Corp,6839,Boone Grove Middle School,,1,10,49,4,,254,75,243,318
+6520,Porter Township School Corp,6840,Porter Lakes Elementary School,,3,5,65,16,1,359,113,336,449
+6530,Union Township School Corp,6811,Porter County Education Services,,,,,,,3,3,,3
+6530,Union Township School Corp,6841,Wheeler High School,4,1,11,56,10,,403,118,367,485
+6530,Union Township School Corp,6843,Union Township Middle School,,1,9,49,7,,275,77,264,341
+6530,Union Township School Corp,6845,Union Center Elementary School,,,4,56,9,,303,75,297,372
+6530,Union Township School Corp,6846,John Simatovich Elementary School,1,1,10,29,8,,185,104,130,234
+6550,Portage Township Schools,6811,Porter County Education Services,,1,5,3,4,,24,19,18,37
+6550,Portage Township Schools,6853,Portage High School,9,22,364,563,126,,1230,1294,1020,2314
+6550,Portage Township Schools,6857,Wallace Aylesworth Elementary,1,3,68,115,32,,222,280,161,441
+6550,Portage Township Schools,6859,William Fegely Middle School,2,6,100,177,37,,359,411,270,681
+6550,Portage Township Schools,6861,Crisman Elementary School,,2,58,130,30,,210,252,178,430
+6550,Portage Township Schools,6865,Central Elementary School,,1,55,153,34,,216,310,149,459
+6550,Portage Township Schools,6869,Ethel R Jones Elementary School,,1,25,94,12,,163,153,142,295
+6550,Portage Township Schools,6871,Willowcreek Middle School,,4,169,273,36,,578,583,477,1060
+6550,Portage Township Schools,6874,Rowena Kyle Elementary School,1,2,68,148,18,,230,229,238,467
+6550,Portage Township Schools,6876,Paul Saylor Elementary School,,1,57,66,14,,151,206,83,289
+6550,Portage Township Schools,6877,George L Myers Elementary School,1,,33,100,30,,168,210,122,332
+6550,Portage Township Schools,6879,South Haven Elementary School,1,4,23,46,13,,191,163,115,278
+6560,Valparaiso Community Schools,6811,Porter County Education Services,,,3,6,1,,20,15,15,30
+6560,Valparaiso Community Schools,6881,Valparaiso High School,1,51,83,246,82,2,1582,524,1523,2047
+6560,Valparaiso Community Schools,6885,Benjamin Franklin Middle School,,20,24,98,28,1,641,187,625,812
+6560,Valparaiso Community Schools,6887,Thomas Jefferson Middle School,,13,37,115,31,,441,268,369,637
+6560,Valparaiso Community Schools,6888,Thomas Jefferson Elementary School,,6,13,41,20,,185,114,151,265
+6560,Valparaiso Community Schools,6891,Central Elementary School,,1,7,29,9,,91,65,72,137
+6560,Valparaiso Community Schools,6893,Flint Lake Elementary School,,5,36,55,26,,318,196,244,440
+6560,Valparaiso Community Schools,6897,Cooks Corners Elementary School,,13,9,50,13,,384,93,376,469
+6560,Valparaiso Community Schools,6903,Heavilin Elementary School,1,8,11,59,21,,397,59,438,497
+6560,Valparaiso Community Schools,6913,Memorial Elementary School,1,7,5,55,23,,375,117,349,466
+6560,Valparaiso Community Schools,6917,Northview Elementary School,,2,7,24,3,,184,58,162,220
+6560,Valparaiso Community Schools,6921,Parkview Elementary School,,6,23,53,10,,149,116,125,241
+6590,MSD Mount Vernon,6949,Mount Vernon High School,1,1,11,21,25,,577,213,423,636
+6590,MSD Mount Vernon,6953,Mount Vernon Jr High School,1,1,12,21,18,,384,167,270,437
+6590,MSD Mount Vernon,6961,West Elementary School,1,1,22,11,20,,320,242,133,375
+6590,MSD Mount Vernon,6965,Farmersville Elementary School,,,,6,5,1,237,75,174,249
+6590,MSD Mount Vernon,6969,Marrs Elementary School,,6,2,3,7,,282,86,214,300
+6600,MSD North Posey Co Schools,6973,North Posey Junior High School,,,2,8,5,,207,62,160,222
+6600,MSD North Posey Co Schools,6975,North Posey High School,,3,3,7,14,,394,106,315,421
+6600,MSD North Posey Co Schools,6985,North Elementary School,,,5,10,15,,368,144,254,398
+6600,MSD North Posey Co Schools,6989,South Terrace Elementary,,3,1,2,12,,390,97,311,408
+6620,Eastern Pulaski Community Sch Corp,6994,Eastern Pulaski Elementary School,2,1,3,15,20,,478,256,263,519
+6620,Eastern Pulaski Community Sch Corp,6996,Winamac Community Middle School,,1,2,11,3,,262,138,141,279
+6620,Eastern Pulaski Community Sch Corp,6997,Winamac Community High School,,2,4,20,8,,315,144,205,349
+6630,West Central School Corp,7025,West Central Senior High School,4,1,,14,5,1,201,112,114,226
+6630,West Central School Corp,7027,West Central Elementary School,1,1,,18,14,,300,197,137,334
+6630,West Central School Corp,7031,West Central Middle School,,,,10,1,1,96,52,56,108
+6705,South Putnam Community Schools,7055,Central Elementary School,,,,9,10,1,310,156,174,330
+6705,South Putnam Community Schools,7056,South Putnam Middle School,,,1,2,8,1,231,111,132,243
+6705,South Putnam Community Schools,7057,Fillmore Elementary School,,,2,6,5,,127,60,80,140
+6705,South Putnam Community Schools,7071,South Putnam High School,,,,6,5,1,348,140,220,360
+6715,North Putnam Community Schools,7041,Bainbridge Elementary School,,,1,7,8,,344,175,185,360
+6715,North Putnam Community Schools,7045,Roachdale Elementary School,,,1,5,2,,187,105,90,195
+6715,North Putnam Community Schools,7049,North Putnam Middle School,,,1,5,7,,299,138,174,312
+6715,North Putnam Community Schools,7061,North Putnam Sr High School,2,1,1,3,8,,407,175,247,422
+6750,Cloverdale Community Schools,7077,Cloverdale High School,1,,,8,11,,290,129,181,310
+6750,Cloverdale Community Schools,7082,Cloverdale Elementary School,,,,14,19,,383,228,188,416
+6750,Cloverdale Community Schools,7085,Cloverdale Middle School,,,1,3,17,,294,175,140,315
+6755,Greencastle Community School Corp,7089,Greencastle Senior High School,1,5,3,16,15,,444,211,273,484
+6755,Greencastle Community School Corp,7093,Greencastle Middle School,,5,4,11,15,,376,215,196,411
+6755,Greencastle Community School Corp,7102,Tzouanakis Intermediate School,,7,2,10,11,,370,205,195,400
+6755,Greencastle Community School Corp,7105,Martha J Ridpath Elementary School,,,5,4,4,,193,113,93,206
+6755,Greencastle Community School Corp,7107,Deer Meadow Primary School,1,,1,1,2,,231,109,127,236
+6795,Union School Corporation,7117,Union Elementary School,,1,1,2,3,,137,76,68,144
+6795,Union School Corporation,7119,Union Junior & High School,1,,,6,8,,134,86,63,149
+6795,Union School Corporation,7122,Indiana Digital Elementary,11,25,507,247,201,2,1881,2243,631,2874
+6795,Union School Corporation,7131,Indiana Digital JR and High School,7,15,412,286,187,2,2044,2192,761,2953
+6795,Union School Corporation,7142,Indiana Digital Alternative School,1,2,43,21,8,,163,187,51,238
+6805,Randolph Southern School Corp,7113,Randolph Southern Elementary Sch,1,,1,10,10,,218,143,97,240
+6805,Randolph Southern School Corp,7121,Randolph Southern Jr-Sr High Sch,,1,2,7,6,,207,105,118,223
+6820,Monroe Central School Corp,7151,Monroe Central Jr-Sr High School,4,2,4,11,9,,451,201,280,481
+6820,Monroe Central School Corp,7152,Monroe Central Elementary School,2,,5,6,24,,578,235,380,615
+6825,Randolph Central School Corp,7125,Winchester Community High School,,3,3,15,5,,361,184,203,387
+6825,Randolph Central School Corp,7129,Lee L Driver Middle School,,,1,19,8,,305,160,173,333
+6825,Randolph Central School Corp,7133,O R Baker Elementary School,1,1,,11,15,,256,143,141,284
+6825,Randolph Central School Corp,7145,Willard Elementary School,,1,,8,13,,192,126,88,214
+6825,Randolph Central School Corp,7146,Deerfield Elementary School,,,,4,4,,147,82,73,155
+6835,Randolph Eastern School Corp,7161,Union City Community Jr/Sr High,1,,7,111,13,,270,222,180,402
+6835,Randolph Eastern School Corp,7164,North Side Elementary School,,,,176,20,,326,357,165,522
+6865,South Ripley Com Sch Corp,7174,South Ripley Junior High School,,,,3,3,,187,114,79,193
+6865,South Ripley Com Sch Corp,7178,South Ripley Elementary School,3,3,3,9,10,,527,302,253,555
+6865,South Ripley Com Sch Corp,7182,South Ripley High School,3,,,9,7,,348,185,182,367
+6895,Batesville Community School Corp,7217,Batesville High School,1,7,2,34,8,,647,147,552,699
+6895,Batesville Community School Corp,7218,Batesville Primary School,2,12,1,17,16,,463,144,367,511
+6895,Batesville Community School Corp,7219,Batesville Middle School,1,7,1,31,8,,451,143,356,499
+6895,Batesville Community School Corp,7229,Batesville Intermediate School,,13,1,14,15,,415,152,306,458
+6900,Jac-Cen-Del Community Sch Corp,7193,Jac-Cen-Del MS/HS,2,2,2,2,8,,387,160,243,403
+6900,Jac-Cen-Del Community Sch Corp,7203,Jac-Cen-Del Elementary School,,,1,2,4,,371,194,184,378
+6910,Milan Community Schools,7205,Milan High School,,1,,2,10,,304,124,193,317
+6910,Milan Community Schools,7207,Milan Middle School,,1,,2,3,,165,78,93,171
+6910,Milan Community Schools,7209,Milan Elementary School,,,,2,10,,338,195,155,350
+6910,Milan Community Schools,7212,Milan Intermediate School,,1,,1,2,,139,64,79,143
+6995,Rush County Schools,7233,Milroy Elementary School,1,,1,4,4,,138,77,71,148
+6995,Rush County Schools,7253,Arlington Elementary School,1,,,1,2,,155,84,75,159
+6995,Rush County Schools,7271,Rushville Elementary School East,2,,4,9,13,,272,188,112,300
+6995,Rush County Schools,7272,Rushville Elementary School West,,6,2,8,10,,319,213,132,345
+6995,Rush County Schools,7285,Rushville Consolidated High School,2,2,6,17,16,,635,359,319,678
+6995,Rush County Schools,7290,Benjamin Rush Middle School,,1,2,6,10,,311,182,148,330
+7150,John Glenn School Corporation,5916,Harold C Urey Middle School,1,,1,23,14,,289,130,198,328
+7150,John Glenn School Corporation,7453,John Glenn High School,3,2,4,43,18,,569,227,412,639
+7150,John Glenn School Corporation,7456,North Liberty School,,,4,22,22,,436,191,293,484
+7150,John Glenn School Corporation,7457,Walkerton Elementary School,1,,11,26,13,,523,265,309,574
+7175,Penn-Harris-Madison School Corp,7323,Walt Disney Elementary School,2,40,124,56,51,,224,242,255,497
+7175,Penn-Harris-Madison School Corp,7324,Prairie Vista Elementary School,3,35,11,34,24,,404,74,437,511
+7175,Penn-Harris-Madison School Corp,7329,Mary Frank Harris Elementary Sch,,29,13,20,33,,365,70,390,460
+7175,Penn-Harris-Madison School Corp,7334,Schmucker Middle School,6,37,88,88,47,,760,283,743,1026
+7175,Penn-Harris-Madison School Corp,7336,Virgil I Grissom Middle School,3,11,53,66,38,,538,250,459,709
+7175,Penn-Harris-Madison School Corp,7341,Madison Elementary School,,,2,3,7,,123,36,99,135
+7175,Penn-Harris-Madison School Corp,7353,Penn High School,21,222,408,275,166,10,2775,716,3161,3877
+7175,Penn-Harris-Madison School Corp,7361,Elm Road Elementary School,1,12,22,45,38,3,347,135,333,468
+7175,Penn-Harris-Madison School Corp,7365,Elsie Rogers Elementary School,2,11,10,20,29,,272,97,247,344
+7175,Penn-Harris-Madison School Corp,7372,Discovery Middle School,,117,23,40,48,,646,111,763,874
+7175,Penn-Harris-Madison School Corp,7377,Moran Elementary School,2,14,7,28,28,,352,135,296,431
+7175,Penn-Harris-Madison School Corp,7379,Bittersweet Elementary School,1,3,15,17,38,1,424,111,388,499
+7175,Penn-Harris-Madison School Corp,7383,Horizon Elementary School,1,12,17,37,49,2,541,87,572,659
+7175,Penn-Harris-Madison School Corp,7386,Meadow's Edge Elementary School,1,8,54,27,49,,265,151,253,404
+7175,Penn-Harris-Madison School Corp,7390,Northpoint Elementary School,1,141,13,21,42,,376,50,544,594
+7200,School City of Mishawaka,7459,Fred J Hums Elementary School,3,1,14,22,19,,261,112,208,320
+7200,School City of Mishawaka,7461,Mishawaka High School,6,7,169,130,113,1,1092,795,723,1518
+7200,School City of Mishawaka,7465,John J Young Middle School,3,4,80,90,101,,526,520,284,804
+7200,School City of Mishawaka,7467,Oaklawn Campus Program,,,11,6,4,,55,75,1,76
+7200,School City of Mishawaka,7469,Battell Elementary School,2,3,36,24,29,,180,183,91,274
+7200,School City of Mishawaka,7473,Beiger Elementary School,1,5,37,41,33,1,376,270,224,494
+7200,School City of Mishawaka,7478,Liberty Elementary School,4,1,65,39,75,1,251,294,142,436
+7200,School City of Mishawaka,7481,Emmons Elementary School,,,79,69,67,,226,331,110,441
+7200,School City of Mishawaka,7485,Lasalle Elementary School,2,5,77,58,62,,272,367,109,476
+7200,School City of Mishawaka,7499,Twin Branch Elementary School,,1,12,35,30,,232,155,155,310
+7205,South Bend Community School Corp,7248,South Bend Virtual School,1,,18,12,6,,31,25,43,68
+7205,South Bend Community School Corp,7313,Hay Elementary School,2,,82,80,56,,75,208,87,295
+7205,South Bend Community School Corp,7417,Warren Elementary School,,,67,65,19,,75,138,88,226
+7205,South Bend Community School Corp,7421,Clay High School,7,8,340,101,76,,326,539,319,858
+7205,South Bend Community School Corp,7425,Clay International Academy,3,5,122,67,56,,219,293,179,472
+7205,South Bend Community School Corp,7435,Darden Elementary School,,6,141,38,59,,167,238,173,411
+7205,South Bend Community School Corp,7441,Swanson Traditional School,,4,86,26,34,,211,141,220,361
+7205,South Bend Community School Corp,7505,Adams High School,4,43,500,522,184,2,694,1120,829,1949
+7205,South Bend Community School Corp,7510,Jackson Middle School,3,1,214,149,70,,149,474,112,586
+7205,South Bend Community School Corp,7512,LaSalle Academy,1,14,122,151,38,,187,306,207,513
+7205,South Bend Community School Corp,7513,Riley High School,3,9,365,279,112,,365,721,412,1133
+7205,South Bend Community School Corp,7517,Washington High School,,4,402,256,73,,70,644,161,805
+7205,South Bend Community School Corp,7533,Coquillard Elementary School,,2,173,52,25,,24,204,72,276
+7205,South Bend Community School Corp,7534,Rise Up Academy at Eggleston,,1,116,44,17,,24,143,59,202
+7205,South Bend Community School Corp,7537,Edison Middle School,1,7,252,69,39,,97,361,104,465
+7205,South Bend Community School Corp,7545,Harrison Elementary School,1,1,249,298,37,1,33,434,186,620
+7205,South Bend Community School Corp,7546,Marshall Traditional School,,1,76,54,52,,182,192,173,365
+7205,South Bend Community School Corp,7549,Jefferson Traditional School,,10,190,78,62,1,206,338,209,547
+7205,South Bend Community School Corp,7555,Kennedy Academy,3,7,182,152,53,,222,307,312,619
+7205,South Bend Community School Corp,7557,Lafayette Early Childhood Center,,,109,27,17,,15,35,133,168
+7205,South Bend Community School Corp,7559,Dickinson Fine Arts Academy,1,2,337,196,50,,85,546,125,671
+7205,South Bend Community School Corp,7561,Lincoln Elementary School,2,,194,122,60,2,76,321,135,456
+7205,South Bend Community School Corp,7569,McKinley Elementary School,1,8,150,186,32,,62,321,118,439
+7205,South Bend Community School Corp,7573,Madison S.T.E.A.M. Academy,,2,298,172,54,1,64,489,102,591
+7205,South Bend Community School Corp,7577,Marquette Montessori Academy,,4,233,44,72,,184,308,229,537
+7205,South Bend Community School Corp,7585,Monroe Elementary School,,1,163,59,60,,67,257,93,350
+7205,South Bend Community School Corp,7588,Wilson Elementary School,,1,127,143,29,,77,298,79,377
+7205,South Bend Community School Corp,7593,Muessel Elementary School,1,,209,44,29,,30,222,91,313
+7205,South Bend Community School Corp,7597,Navarre Middle School,1,,217,213,34,,66,450,81,531
+7205,South Bend Community School Corp,7601,Nuner Fine Arts Academy,4,1,191,45,68,,176,315,170,485
+7205,South Bend Community School Corp,7605,South Bend SNAP,,,50,35,36,,80,2,199,201
+7205,South Bend Community School Corp,7617,Studebaker Center,,3,52,42,26,,62,36,149,185
+7205,South Bend Community School Corp,7621,Tarkington Elementary School,1,3,96,28,29,,58,131,84,215
+7205,South Bend Community School Corp,7632,Juvenile Justice Center,,,7,1,2,,2,7,5,12
+7215,Union-North United School Corp,7399,LaVille Jr-Sr High School,,1,10,37,21,,553,297,325,622
+7215,Union-North United School Corp,7400,LaVille Elementary School,1,6,7,22,26,,576,334,304,638
+7230,Scott County School District 1,7629,Austin High School,1,3,1,11,6,,341,188,175,363
+7230,Scott County School District 1,7630,Austin Elementary School,2,1,1,5,17,,502,332,196,528
+7230,Scott County School District 1,7631,Austin Middle School,3,,4,9,9,,282,174,133,307
+7255,Scott County School District 2,7633,Johnson Elementary School,,,,13,5,,229,174,73,247
+7255,Scott County School District 2,7637,Lexington Elementary School,,,,6,5,1,221,133,100,233
+7255,Scott County School District 2,7641,Scottsburg Senior High School,2,4,1,26,14,3,734,390,394,784
+7255,Scott County School District 2,7645,Scottsburg Middle School,1,1,4,25,13,,559,357,246,603
+7255,Scott County School District 2,7649,Scottsburg Elem School,2,1,3,21,16,,463,353,153,506
+7255,Scott County School District 2,7653,Vienna-Finley Elementary School,,1,2,4,7,,299,147,166,313
+7285,Shelby Eastern Schools,7661,Morristown Jr-Sr High School,,2,2,5,3,1,304,114,203,317
+7285,Shelby Eastern Schools,7663,Morristown Elementary School,,,2,6,4,,287,140,159,299
+7285,Shelby Eastern Schools,7665,Waldron Jr-Sr High School,,1,,7,,,272,129,151,280
+7285,Shelby Eastern Schools,7667,Waldron Elementary School,,1,1,4,3,,261,124,146,270
+7350,Northwestern Con School Corp,7689,Triton Central High School,2,2,11,14,5,,429,135,328,463
+7350,Northwestern Con School Corp,7691,Triton Central Elementary School,2,,5,18,14,1,535,208,367,575
+7350,Northwestern Con School Corp,7697,Triton Central Middle School,,5,7,15,14,1,432,168,306,474
+7360,Southwestern Con Sch Shelby Co,7701,Southwestern High School,,,,15,1,,255,87,184,271
+7360,Southwestern Con Sch Shelby Co,7703,Southwestern Elementary School,,2,,10,4,,267,113,170,283
+7365,Shelbyville Central Schools,7671,Especially Kidz Health & Rehab Cnt,,1,21,7,3,,16,42,6,48
+7365,Shelbyville Central Schools,7717,Shelbyville Sr High School,1,22,29,177,53,1,854,537,600,1137
+7365,Shelbyville Central Schools,7721,Shelbyville Middle School,3,8,13,180,33,,673,524,386,910
+7365,Shelbyville Central Schools,7723,Golden Bear Preschool,,10,1,30,13,1,239,105,189,294
+7365,Shelbyville Central Schools,7725,Coulston Elementary School,,15,4,122,13,,310,279,185,464
+7365,Shelbyville Central Schools,7729,Thomas A Hendricks Elementary Sch,1,2,10,71,23,,437,334,210,544
+7365,Shelbyville Central Schools,7733,William F Loper Elementary School,,6,12,72,30,1,512,319,314,633
+7385,North Spencer County Sch Corp,7751,Chrisney Elementary School,1,,2,1,3,,227,104,130,234
+7385,North Spencer County Sch Corp,7753,David Turnham Education Center,1,,2,71,5,,204,137,146,283
+7385,North Spencer County Sch Corp,7755,Nancy Hanks Elementary School,,1,,1,2,,248,52,200,252
+7385,North Spencer County Sch Corp,7759,Heritage Hills High School,1,4,4,52,8,,502,176,395,571
+7385,North Spencer County Sch Corp,7761,Heritage Hills Middle School,5,3,,28,6,,308,117,233,350
+7385,North Spencer County Sch Corp,7767,Lincoln Trail Elementary School,,2,5,7,5,,362,107,274,381
+7445,South Spencer County Sch Corp,7789,Luce Elementary School,,,,1,4,,195,72,128,200
+7445,South Spencer County Sch Corp,7795,South Spencer High School,1,1,6,13,17,,348,149,237,386
+7445,South Spencer County Sch Corp,7797,South Spencer Middle School,1,,2,7,9,,237,110,146,256
+7445,South Spencer County Sch Corp,7803,Rockport-Ohio Elementary School,1,,4,8,11,,294,169,149,318
+7495,Oregon-Davis School Corp,7818,Oregon-Davis Elementary School,,,1,8,8,,241,167,91,258
+7495,Oregon-Davis School Corp,7831,Oregon-Davis Jr-Sr High School,1,,1,12,7,,214,130,105,235
+7515,North Judson-San Pierre Sch Corp,7849,N Judson-San Pierre Jr Sr High Sch,5,1,2,30,4,1,431,221,253,474
+7515,North Judson-San Pierre Sch Corp,7851,North Judson-San Pierre Elem Sch,,2,,20,7,1,449,243,236,479
+7525,Knox Community School Corp,7833,Knox Community High School,5,,2,31,10,,541,340,249,589
+7525,Knox Community School Corp,7837,Knox Community Middle School,1,,2,27,7,,488,316,209,525
+7525,Knox Community School Corp,7845,Knox Community Elementary School,3,,1,33,9,,605,355,296,651
+7605,Fremont Community Schools,7877,Fremont High School,,1,1,7,5,,270,83,201,284
+7605,Fremont Community Schools,7881,Fremont Elementary School,2,1,,5,13,,355,173,203,376
+7605,Fremont Community Schools,7884,Fremont Middle School,,1,,6,5,1,288,122,179,301
+7610,Hamilton Community Schools,7885,Hamilton Community High School,2,2,,6,2,,163,78,97,175
+7610,Hamilton Community Schools,7889,Hamilton Community Elementary Sch,,,,3,,,154,66,91,157
+7615,MSD Steuben County,7893,Angola High School,3,8,4,104,15,,688,288,534,822
+7615,MSD Steuben County,7895,Angola Middle School,2,4,4,77,31,,525,300,343,643
+7615,MSD Steuben County,7897,Carlin Park Elementary School,,8,,43,12,,203,176,90,266
+7615,MSD Steuben County,7899,Ryan Park Elementary School,,1,,21,14,,343,132,247,379
+7615,MSD Steuben County,7901,Hendry Park Elementary School,2,1,4,50,11,,283,201,150,351
+7615,MSD Steuben County,7905,Pleasant Lake Elementary School,1,,,4,1,,116,57,65,122
+7645,Northeast School Corp,7917,North Central Jr/Sr High School,2,,5,4,8,,375,184,210,394
+7645,Northeast School Corp,7921,Northeast North Elementary School,,,,3,1,,214,141,77,218
+7645,Northeast School Corp,7941,Northeast East Elementary School,,,,1,4,,166,100,71,171
+7715,Southwest School Corporation,7953,Carlisle Elementary School,,1,,8,3,,165,114,63,177
+7715,Southwest School Corporation,7954,Carlisle Middle School,,,,6,,,74,52,28,80
+7715,Southwest School Corporation,7957,Sullivan High School,1,2,5,9,12,,485,205,309,514
+7715,Southwest School Corporation,7961,Sullivan Middle School,1,,2,7,9,,273,123,169,292
+7715,Southwest School Corporation,7965,Sullivan Elementary School,1,2,1,5,18,,665,308,384,692
+7775,Switzerland County School Corp,7985,Jefferson-Craig Elementary School,,,2,11,10,,376,213,186,399
+7775,Switzerland County School Corp,7987,Switzerland Co Middle School,,,2,7,3,,242,129,125,254
+7775,Switzerland County School Corp,7993,Switzerland Co Senior High School,,1,4,5,11,,386,204,203,407
+7775,Switzerland County School Corp,7994,Switzerland Co Elementary School,,,6,4,9,,381,242,158,400
+7855,Lafayette School Corporation,8015,Oakland High School,,,10,6,2,,44,44,18,62
+7855,Lafayette School Corporation,8069,Jefferson High School,7,14,350,647,123,3,922,1275,791,2066
+7855,Lafayette School Corporation,8073,Lafayette Sunnyside Intermediate,2,2,234,339,87,3,461,819,309,1128
+7855,Lafayette School Corporation,8077,Lafayette Tecumseh Jr High School,1,6,230,340,75,1,512,835,330,1165
+7855,Lafayette School Corporation,8089,Edgelea Elementary School,,5,37,106,26,,300,264,210,474
+7855,Lafayette School Corporation,8091,Glen Acres Elementary School,,3,115,165,13,,184,338,142,480
+7855,Lafayette School Corporation,8103,Miami Elementary School,,3,189,105,41,2,131,391,80,471
+7855,Lafayette School Corporation,8104,Thomas Miller Elementary School,,1,122,54,52,,149,316,62,378
+7855,Lafayette School Corporation,8105,Murdock Elementary School,3,,68,49,24,,84,179,49,228
+7855,Lafayette School Corporation,8108,Oakland Elementary School,2,,33,47,22,,132,172,64,236
+7855,Lafayette School Corporation,8117,Vinton Elementary School,4,,64,122,44,,208,357,85,442
+7855,Lafayette School Corporation,8119,Amelia Earhart Elementary School,,2,77,100,40,,206,268,157,425
+7855,Lafayette School Corporation,8125,Greater Lafayette Area SE,1,6,24,34,19,,142,1,225,226
+7865,Tippecanoe School Corp,8003,McCutcheon High School,2,19,121,354,64,,1245,677,1128,1805
+7865,Tippecanoe School Corp,8005,Mayflower Mill Elementary School,3,4,154,84,39,,339,345,278,623
+7865,Tippecanoe School Corp,8006,Wyandotte Elementary,,25,21,82,25,1,357,133,378,511
+7865,Tippecanoe School Corp,8007,Hershey Elementary School,,2,3,36,22,,515,106,472,578
+7865,Tippecanoe School Corp,8009,Mintonye Elementary School,3,2,4,34,20,,433,129,367,496
+7865,Tippecanoe School Corp,8017,Dayton Elementary School,,1,13,44,13,,297,170,198,368
+7865,Tippecanoe School Corp,8019,Burnett Creek Elementary School,,54,42,105,45,,451,194,503,697
+7865,Tippecanoe School Corp,8021,Wea Ridge Elementary School,2,4,79,101,23,,357,260,306,566
+7865,Tippecanoe School Corp,8024,Battle Ground Elementary School,,8,20,52,29,,511,213,407,620
+7865,Tippecanoe School Corp,8025,Battle Ground Middle School,2,22,34,102,41,2,584,258,529,787
+7865,Tippecanoe School Corp,8026,Wainwright Middle School,,2,6,33,10,1,229,114,167,281
+7865,Tippecanoe School Corp,8029,William Henry Harrison High School,3,39,90,248,90,,1580,547,1503,2050
+7865,Tippecanoe School Corp,8033,East Tipp Middle School,1,13,5,58,34,1,427,122,417,539
+7865,Tippecanoe School Corp,8035,James Cole Elementary School,,2,3,20,2,,243,96,174,270
+7865,Tippecanoe School Corp,8041,Klondike Middle School,1,25,44,59,16,,287,155,277,432
+7865,Tippecanoe School Corp,8042,Klondike Elementary School,1,85,75,149,57,1,612,391,589,980
+7865,Tippecanoe School Corp,8045,Southwestern Middle School,,4,49,42,20,,378,180,313,493
+7865,Tippecanoe School Corp,8049,Wea Ridge Middle School,1,9,62,185,45,1,417,334,386,720
+7865,Tippecanoe School Corp,8111,Woodland Elementary School,,10,62,175,33,,368,294,354,648
+7875,West Lafayette Com School Corp,8129,West Lafayette Jr/Sr High School,,235,77,70,64,,656,169,933,1102
+7875,West Lafayette Com School Corp,8135,West Lafayette Intermediate School,1,127,35,34,34,,294,101,424,525
+7875,West Lafayette Com School Corp,8138,West Lafayette Elementary School,2,150,78,47,56,1,355,148,541,689
+7935,Tri-Central Community Schools,8154,Tri Central Elementary,,7,1,23,17,,304,157,195,352
+7935,Tri-Central Community Schools,8155,Tri Central Middle-High School,1,1,,32,19,,369,186,236,422
+7945,Tipton Community School Corp,8163,Tipton Elementary School,1,2,4,30,19,,534,275,315,590
+7945,Tipton Community School Corp,8167,Tipton Middle School,1,5,1,13,17,2,326,154,211,365
+7945,Tipton Community School Corp,8177,Tipton High School,1,4,2,21,12,1,440,173,308,481
+7950,Union Co/Clg Corner Joint Sch Dist,8193,Union County High School,,2,2,6,6,2,416,184,250,434
+7950,Union Co/Clg Corner Joint Sch Dist,8206,Union County Middle School,1,1,2,7,8,1,263,154,129,283
+7950,Union Co/Clg Corner Joint Sch Dist,8209,Liberty Elementary School,1,,2,3,10,,300,186,130,316
+7950,Union Co/Clg Corner Joint Sch Dist,8213,College Corner Union Elem School,,,2,4,11,1,264,137,145,282
+7995,Evansville Vanderburgh School Corp,8225,Cynthia Heights Elementary School,,1,4,10,25,,416,174,282,456
+7995,Evansville Vanderburgh School Corp,8229,Scott Elementary School,3,13,4,3,27,,466,77,439,516
+7995,Evansville Vanderburgh School Corp,8230,North Junior High School,,24,39,28,59,7,627,266,518,784
+7995,Evansville Vanderburgh School Corp,8231,Oak Hill Elementary,1,11,15,11,28,,482,131,417,548
+7995,Evansville Vanderburgh School Corp,8237,Benjamin Bosse High School,1,3,243,57,80,27,220,431,200,631
+7995,Evansville Vanderburgh School Corp,8241,Central High School,,5,76,45,61,1,752,416,524,940
+7995,Evansville Vanderburgh School Corp,8242,McCutchanville Elementary School,1,28,15,14,37,2,727,129,695,824
+7995,Evansville Vanderburgh School Corp,8245,Francis Joseph Reitz High School,1,10,46,27,60,1,956,414,687,1101
+7995,Evansville Vanderburgh School Corp,8251,Lincoln School,,,80,18,21,4,51,150,24,174
+7995,Evansville Vanderburgh School Corp,8253,North High School,5,35,92,59,97,9,1158,443,1012,1455
+7995,Evansville Vanderburgh School Corp,8261,Caze Elementary School,1,3,137,27,32,14,102,255,61,316
+7995,Evansville Vanderburgh School Corp,8265,Cedar Hall Community School,,,91,29,66,,291,410,67,477
+7995,Evansville Vanderburgh School Corp,8270,Academy for Innovative Studies,2,,133,11,47,,170,266,97,363
+7995,Evansville Vanderburgh School Corp,8271,Harwood Career Prep High School,12,44,799,181,412,40,1927,2212,1203,3415
+7995,Evansville Vanderburgh School Corp,8285,Delaware Elementary School,1,,68,26,45,10,179,281,48,329
+7995,Evansville Vanderburgh School Corp,8289,Dexter Elementary School,,,106,24,57,6,113,239,67,306
+7995,Evansville Vanderburgh School Corp,8293,Fairlawn Elementary School,4,1,57,26,44,5,175,237,75,312
+7995,Evansville Vanderburgh School Corp,8301,Glenwood Leadership Academy,1,1,141,47,48,22,95,298,57,355
+7995,Evansville Vanderburgh School Corp,8309,Harper Elementary School,,2,51,24,52,8,150,185,102,287
+7995,Evansville Vanderburgh School Corp,8311,William Henry Harrison High School,1,14,201,82,108,12,505,494,429,923
+7995,Evansville Vanderburgh School Corp,8317,Hebron Elementary School,1,6,88,49,92,1,361,302,296,598
+7995,Evansville Vanderburgh School Corp,8318,Helfrich Park STEM Academy,,,21,20,29,,402,240,232,472
+7995,Evansville Vanderburgh School Corp,8321,Stockwell Elementary School,1,14,91,54,65,7,228,318,142,460
+7995,Evansville Vanderburgh School Corp,8323,Thompkins Middle School,1,3,16,14,31,3,489,255,302,557
+7995,Evansville Vanderburgh School Corp,8325,Highland Elementary School,4,3,25,15,57,4,677,328,457,785
+7995,Evansville Vanderburgh School Corp,8326,New Tech Institute,,8,16,8,13,,194,92,147,239
+7995,Evansville Vanderburgh School Corp,8327,Culver Family Learning Center,1,2,62,23,16,,225,196,133,329
+7995,Evansville Vanderburgh School Corp,8329,Lodge Community School,1,,88,44,35,31,84,235,48,283
+7995,Evansville Vanderburgh School Corp,8339,McGary Middle School,,1,84,22,35,4,111,200,57,257
+7995,Evansville Vanderburgh School Corp,8345,Perry Heights Middle School,,2,18,5,24,2,391,171,271,442
+7995,Evansville Vanderburgh School Corp,8349,Plaza Park International Prep Acad,1,14,102,68,80,6,288,322,237,559
+7995,Evansville Vanderburgh School Corp,8353,Evans School,1,2,71,27,52,9,224,320,66,386
+7995,Evansville Vanderburgh School Corp,8357,Stringtown Elementary School,,4,14,19,26,,219,169,113,282
+7995,Evansville Vanderburgh School Corp,8361,Tekoppel Elementary School,1,,34,19,31,,298,274,109,383
+7995,Evansville Vanderburgh School Corp,8365,Vogel Elementary School,,9,38,36,49,3,374,314,195,509
+7995,Evansville Vanderburgh School Corp,8369,Washington Middle School,,1,92,30,51,8,115,224,73,297
+7995,Evansville Vanderburgh School Corp,8376,Daniel Wertz Elementary School,,3,12,4,26,1,210,172,84,256
+7995,Evansville Vanderburgh School Corp,8381,West Terrace Elementary School,3,4,14,4,23,,538,133,453,586
+8010,North Vermillion Com Sch Corp,8394,North Vermillion High School,2,,2,8,9,,334,164,191,355
+8010,North Vermillion Com Sch Corp,8403,North Vermillion Elementary School,,2,,8,10,1,354,188,187,375
+8020,South Vermillion Com Sch Corp,8409,Central Elementary School,,2,1,8,4,,291,194,112,306
+8020,South Vermillion Com Sch Corp,8431,Ernie Pyle Elementary School,,,1,1,4,,205,128,83,211
+8020,South Vermillion Com Sch Corp,8432,South Vermillion High School,,,4,12,12,1,506,257,278,535
+8020,South Vermillion Com Sch Corp,8434,South Vermillion Middle School,,,2,8,11,,341,202,160,362
+8020,South Vermillion Com Sch Corp,8435,Van Duyn Elementary School,,,,2,1,,235,120,118,238
+8030,Vigo County School Corp,8441,Terre Haute North Vigo High School,1,8,61,51,103,,1208,651,781,1432
+8030,Vigo County School Corp,8445,Honey Creek Middle School,,29,11,30,41,,585,261,435,696
+8030,Vigo County School Corp,8453,West Vigo High School,,2,1,10,20,,485,245,273,518
+8030,Vigo County School Corp,8457,Terre Haute South Vigo High School,4,62,106,45,121,,1125,628,835,1463
+8030,Vigo County School Corp,8461,West Vigo Middle School,,,2,11,9,,382,218,186,404
+8030,Vigo County School Corp,8477,Otter Creek Middle School,1,2,24,26,61,,661,461,314,775
+8030,Vigo County School Corp,8481,Sarah Scott Middle School,,1,59,32,64,,263,348,71,419
+8030,Vigo County School Corp,8483,Vigo Virtual School Academy,1,8,41,32,48,2,460,375,217,592
+8030,Vigo County School Corp,8485,Woodrow Wilson Middle School,1,1,56,52,85,1,609,470,335,805
+8030,Vigo County School Corp,8497,Sugar Creek Consolidated Elem Sch,,,,,12,,323,172,163,335
+8030,Vigo County School Corp,8505,Davis Park Elementary School,,1,28,18,49,,181,247,30,277
+8030,Vigo County School Corp,8509,Deming Elementary School,,,27,6,26,,168,215,12,227
+8030,Vigo County School Corp,8510,Adelaide De Vaney Elementary Sch,2,3,32,17,60,,286,229,171,400
+8030,Vigo County School Corp,8511,Dixie Bee Elementary School,,43,29,34,34,2,452,212,382,594
+8030,Vigo County School Corp,8517,Farrington Grove Elementary School,,,47,12,39,,271,303,66,369
+8030,Vigo County School Corp,8521,Fayette Elementary School,,,,2,7,,191,87,113,200
+8030,Vigo County School Corp,8525,Rio Grande Elementary School,,2,4,5,25,1,413,227,223,450
+8030,Vigo County School Corp,8533,Benjamin Franklin Elem School,1,,43,28,54,1,204,305,26,331
+8030,Vigo County School Corp,8537,Blanche E Fuqua Elementary School,,3,34,24,48,,211,258,62,320
+8030,Vigo County School Corp,8543,Hoosier Prairie Elementary School,,,,10,12,4,311,166,171,337
+8030,Vigo County School Corp,8549,Lost Creek Elementary School,1,3,8,20,32,1,608,285,388,673
+8030,Vigo County School Corp,8561,Meadows Elementary School,2,1,18,9,19,,172,167,54,221
+8030,Vigo County School Corp,8575,Ouabache Elementary School,,,12,13,28,,223,202,74,276
+8030,Vigo County School Corp,8593,Riley Elementary School,2,5,3,12,17,,333,108,264,372
+8030,Vigo County School Corp,8605,Sugar Grove Elementary School,,1,43,25,46,,220,221,114,335
+8030,Vigo County School Corp,8607,Terre Town Elementary School,2,1,16,13,44,,467,427,116,543
+8030,Vigo County School Corp,8609,West Vigo Elementary School,,,1,7,7,,205,184,36,220
+8030,Vigo County School Corp,8611,Booker T Washington Alt Sch,,,12,2,5,,71,74,16,90
+8045,Manchester Community Schools,8625,Manchester Jr-Sr High School,8,8,5,54,25,,596,270,426,696
+8045,Manchester Community Schools,8633,Manchester Elementary School,1,3,,23,6,,365,165,233,398
+8045,Manchester Community Schools,8645,Manchester Intermediate School,2,,3,26,8,,264,158,145,303
+8050,MSD Wabash County Schools,8651,Northfield Jr-Sr High School,2,1,3,5,7,,400,178,240,418
+8050,MSD Wabash County Schools,8655,Southwood Jr-Sr High School,,2,2,16,10,,361,154,237,391
+8050,MSD Wabash County Schools,8656,Southwood Elementary School,,3,5,8,13,,407,184,252,436
+8050,MSD Wabash County Schools,8657,Sharp Creek Elementary School,1,1,,5,8,,202,114,103,217
+8050,MSD Wabash County Schools,8673,White's Jr-Sr High School,3,1,14,15,11,,289,230,103,333
+8050,MSD Wabash County Schools,8677,Metro North Elementary School,1,,,6,6,,288,157,144,301
+8060,Wabash City Schools,8693,Wabash High School,2,3,4,10,15,,431,233,232,465
+8060,Wabash City Schools,8694,Wabash Middle School,4,4,4,16,10,,433,276,195,471
+8060,Wabash City Schools,8706,O J Neighbours Elementary School,4,2,4,30,33,,542,342,273,615
+8115,MSD Warren County,8729,Williamsport Elementary School,,,2,4,4,,187,105,92,197
+8115,MSD Warren County,8733,Pine Village Elementary School,,,,8,1,,153,64,98,162
+8115,MSD Warren County,8737,Seeger Memorial Jr-Sr High School,,1,1,28,10,2,540,232,350,582
+8115,MSD Warren County,8744,Warren Central Elementary School,,,1,6,4,,358,178,191,369
+8130,Warrick County School Corp,8760,Castle South Middle School,,17,22,40,56,1,592,241,487,728
+8130,Warrick County School Corp,8761,Yankeetown Elementary School,,,,13,12,,256,100,181,281
+8130,Warrick County School Corp,8764,John H Castle Elementary School,3,92,12,45,35,,759,144,802,946
+8130,Warrick County School Corp,8769,Elberfeld Elementary School,,,1,2,5,,163,52,119,171
+8130,Warrick County School Corp,8771,Tecumseh Middle School,1,,,3,3,,215,62,160,222
+8130,Warrick County School Corp,8772,Tecumseh High School,1,1,,3,8,,287,78,222,300
+8130,Warrick County School Corp,8773,Lynnville Elementary School,1,,,1,3,,184,67,122,189
+8130,Warrick County School Corp,8775,Castle North Middle School,,69,20,32,44,,682,161,686,847
+8130,Warrick County School Corp,8777,Loge Elementary School,,2,2,6,11,,364,173,212,385
+8130,Warrick County School Corp,8779,Warrick County Preschool,,3,3,1,6,,80,27,66,93
+8130,Warrick County School Corp,8785,Tennyson Elementary School,,,1,,,,76,54,23,77
+8130,Warrick County School Corp,8789,Boonville High School,3,5,3,21,29,,868,396,533,929
+8130,Warrick County School Corp,8793,Boonville Middle School,1,5,3,22,20,,624,298,377,675
+8130,Warrick County School Corp,8801,Oakdale Elementary School,1,,1,1,19,,446,273,195,468
+8130,Warrick County School Corp,8809,Castle High School,3,61,45,67,106,,1612,385,1509,1894
+8130,Warrick County School Corp,8813,Chandler Elementary School,2,21,5,16,36,2,475,252,305,557
+8130,Warrick County School Corp,8817,Newburgh Elementary School,2,22,8,23,28,,493,166,410,576
+8130,Warrick County School Corp,8819,Sharon Elementary School,1,9,35,33,53,,549,305,375,680
+8205,Salem Community Schools,8857,Salem High School,,5,1,8,7,,521,229,313,542
+8205,Salem Community Schools,8861,Salem Middle School,1,3,2,8,10,1,386,224,187,411
+8205,Salem Community Schools,8864,Bradie Shrum Elementary,1,5,3,20,24,2,754,476,333,809
+8215,East Washington School Corp,8904,East Washington Elementary School,,1,4,19,11,,573,271,337,608
+8215,East Washington School Corp,8905,Eastern High School,1,,,11,8,,394,154,260,414
+8215,East Washington School Corp,8906,East Washington Middle School,1,1,5,13,12,1,423,212,244,456
+8220,West Washington School Corp,8869,West Washington Jr-Sr High School,,,1,16,8,,415,180,260,440
+8220,West Washington School Corp,8894,West Washington Elementary School,,,,8,13,1,449,243,228,471
+8305,Nettle Creek School Corporation,8985,Hagerstown Jr-Sr High School,1,4,2,4,22,,481,209,305,514
+8305,Nettle Creek School Corporation,8989,Hagerstown Elementary School,,3,2,14,18,1,544,261,321,582
+8355,Western Wayne Schools,8961,Lincoln Sr High School,,,,6,3,,275,144,140,284
+8355,Western Wayne Schools,8965,Lincoln Middle School,,,1,6,4,,181,114,78,192
+8355,Western Wayne Schools,8971,Western Wayne Elementary School,,,1,10,16,,342,255,114,369
+8360,Centerville-Abington Com Schs,8981,Centerville Sr High School,,7,1,13,26,1,467,167,348,515
+8360,Centerville-Abington Com Schs,8982,Centerville-Abington Jr High Sch,1,,4,7,17,1,237,114,153,267
+8360,Centerville-Abington Com Schs,8983,Centerville-Abington Elem School,,4,2,17,36,,515,266,308,574
+8360,Centerville-Abington Com Schs,8984,Rose Hamilton Elementary School,,4,6,9,26,1,379,179,246,425
+8375,Northeastern Wayne Schools,8927,Northeastern High School,1,,4,6,19,,380,157,253,410
+8375,Northeastern Wayne Schools,8928,Northeastern Elementary School,2,1,10,11,22,1,542,269,320,589
+8375,Northeastern Wayne Schools,8929,Northeastern Middle School,,,3,1,19,,310,162,171,333
+8385,Richmond Community Schools,8993,Richmond High School,3,24,87,153,162,1,840,804,466,1270
+8385,Richmond Community Schools,8997,Test Intermediate School,6,11,79,105,120,,466,568,219,787
+8385,Richmond Community Schools,9001,Dennis Intermediate School,2,8,39,62,81,1,411,479,125,604
+8385,Richmond Community Schools,9013,Charles Elementary School,1,15,28,20,40,,248,193,159,352
+8385,Richmond Community Schools,9014,Crestdale Elementary School,,4,30,22,64,1,247,270,98,368
+8385,Richmond Community Schools,9017,Fairview Elementary School,3,,22,27,44,,210,266,40,306
+8385,Richmond Community Schools,9038,Starr Elementary School,1,,22,44,36,,121,215,9,224
+8385,Richmond Community Schools,9045,Vaile Elementary School,1,1,37,66,53,,172,308,22,330
+8385,Richmond Community Schools,9053,Westview Elementary School,,4,13,11,29,,182,170,69,239
+8385,Richmond Community Schools,9056,Community Youth Services,,,12,6,14,,62,67,27,94
+8425,Southern Wells Com Schools,9057,Southern Wells Elementary School,2,,1,12,4,,404,174,249,423
+8425,Southern Wells Com Schools,9058,Southern Wells Jr-Sr High School,1,3,2,5,1,,395,150,257,407
+8435,Northern Wells Community Schools,9081,Ossian Elementary,2,2,5,17,19,,489,155,379,534
+8435,Northern Wells Community Schools,9085,Lancaster Central School,1,8,3,23,19,,482,163,373,536
+8435,Northern Wells Community Schools,9087,Norwell High School,,9,6,31,17,,766,187,642,829
+8435,Northern Wells Community Schools,9088,Norwell Middle School,,8,1,34,15,,489,157,390,547
+8445,MSD Bluffton-Harrison,9089,Bluffton High School,,6,10,34,7,3,417,197,280,477
+8445,MSD Bluffton-Harrison,9093,Bluffton-Harrison Middle School,,3,17,32,9,1,435,216,281,497
+8445,MSD Bluffton-Harrison,9098,Bluffton-Harrison Elementary Sch,,2,12,62,19,1,572,318,350,668
+8515,North White School Corp,9119,North White Elementary School,,,,207,9,,193,328,81,409
+8515,North White School Corp,9122,North White Middle School,,,2,88,4,,92,145,41,186
+8515,North White School Corp,9135,North White High School,,,,105,10,,132,182,65,247
+8525,Frontier School Corporation,9113,Frontier Elementary,,,3,11,10,,317,95,246,341
+8525,Frontier School Corporation,9137,Frontier Jr-Sr High School,1,,1,6,5,,282,86,209,295
+8535,Tri-County School Corporation,3170,Tri-County Primary School,,,1,18,8,,169,80,116,196
+8535,Tri-County School Corporation,9141,Tri-County Jr/Sr High School,1,2,3,31,5,,297,119,220,339
+8535,Tri-County School Corporation,9143,Tri-County Intermediate School,1,,2,20,7,1,183,96,118,214
+8565,Twin Lakes School Corp,9129,Eastlawn Elementary School,,,1,19,4,,180,124,80,204
+8565,Twin Lakes School Corp,9149,Twin Lakes Senior High School,3,2,7,84,29,,578,366,337,703
+8565,Twin Lakes School Corp,9153,Roosevelt Middle School,1,2,,68,20,,434,318,207,525
+8565,Twin Lakes School Corp,9157,Oaklawn Elementary School,1,,2,33,15,,249,204,96,300
+8565,Twin Lakes School Corp,9163,Meadowlawn Elementary School,1,,2,89,24,,400,338,178,516
+8625,Smith-Green Community Schools,9193,Churubusco Jr-Sr High School,3,4,,14,18,,648,176,511,687
+8625,Smith-Green Community Schools,9197,Churubusco Elementary School,1,1,,15,20,,462,137,362,499
+8635,Purdue Polytechnic High Sch North,7782,Purdue Polytechnic High Sch North,,1,49,8,8,,69,57,78,135
+8655,Excel Center - Bloomington,4209,Excel Center - Bloomington,2,,26,5,6,,124,120,43,163
+8665,Whitley County Con Schools,9178,Little Turtle Elementary School,2,4,3,22,13,,499,164,379,543
+8665,Whitley County Con Schools,9179,Coesse School,3,1,,22,9,,246,66,215,281
+8665,Whitley County Con Schools,9180,Indian Springs Middle School,3,4,10,49,27,,775,243,625,868
+8665,Whitley County Con Schools,9186,Northern Heights Elementary School,,2,1,15,18,1,451,134,354,488
+8665,Whitley County Con Schools,9187,Columbia City High School,4,7,9,39,37,,986,219,863,1082
+8665,Whitley County Con Schools,9196,Mary Raber Elementary School,2,1,2,12,10,,249,125,151,276
+8675,Invent Learning Hub,9532,Invent Learning Hub,,,67,26,9,,53,142,13,155
+8685,PLA at George H Fisher School 93,5593,PLA at George H Fisher School 93,,,322,80,19,,35,356,100,456
+8690,Dynamic Minds Academy,8692,Dynamic Minds Academy,,2,16,7,7,,76,24,84,108
+8940,James and Rosemary Phalen Leadersh,9961,James and Rosemary Phalen Leadersh,,,238,74,8,,11,245,86,331
+8950,Phalen Leadership Academy at Franc,5603,Phalen at Francis Scott Key 103,,,306,122,13,5,5,380,71,451
+8960,Purdue Polytechnic High School Sou,9963,Purdue Polytechnic High School Sou,2,1,3,5,3,,13,11,16,27
+8970,GEO Next Generation Academy,9966,GEO Next Generation Academy,,,67,22,6,,3,77,21,98
+8980,The PATH School,9971,The PATH School,,,121,307,20,,64,413,99,512
+8990,HIM By HER Collegiate School for t,9991,HIM By HER Collegiate School for t,,1,60,1,1,,,55,8,63
+9000,Phalen Virtual Leadership Academy,9992,Phalen Virtual Leadership Academy,,,17,4,1,,12,15,19,34
+9010,Ignite Achievement Academy,1806,Ignite Achievement Academy,,,319,39,24,3,12,382,15,397
+9015,Purdue Polytechnic High School Ind,4271,Purdue Polytechnic High School Ind,,10,209,130,33,,161,345,198,543
+9030,Otwell Miller Academy,2019,Otwell Miller Academy,,,,1,3,,105,78,31,109
+9035,Indiana Connections Career Academy,7947,Indiana Connections Career Academy,1,3,40,63,39,2,463,246,365,611
+9040,Avondale Meadows Middle School,7094,Avondale Meadows Middle School,,,153,5,6,,2,130,36,166
+9045,James & Rosemary Phalen Leadership,4894,James & Rosemary Phalen Leadership,,,208,46,12,,12,235,43,278
+9050,Excel Center - Clarksville,2006,Excel Center - Clarksville,1,1,53,78,17,1,177,116,212,328
+9055,Excel Center - Hammond,2018,Excel Center - Hammond,,1,85,97,11,,41,196,39,235
+9060,Paramount Cottage Home,139,Paramount Cottage Home,,1,140,36,11,,42,179,51,230
+9065,Allegiant Preparatory Academy,1002,Allegiant Preparatory Academy,,,91,9,4,,3,69,38,107
+9070,Gary Middle College West,1003,Gary Middle College West,,,95,17,4,,2,61,57,118
+9080,Vanguard Collegiate of Indy,1004,Vanguard Collegiate of Indy,,,69,13,2,,3,85,2,87
+9085,pilotED Schools,1006,pilotED Schools Bethel Park,3,,87,34,33,,28,153,32,185
+9090,Matchbook Learning,1041,Matchbook Learning,,1,255,331,25,,32,624,20,644
+9095,Urban ACT Academy,9094,Urban ACT Academy,1,1,227,31,19,,42,283,38,321
+9100,Indiana Department of Correction,732,Logansport Juvenile Correctional,,,29,12,3,,55,99,,99
+9100,Indiana Department of Correction,5055,Pendleton Juvenile Correctional,1,,62,9,14,,72,158,,158
+9100,Indiana Department of Correction,5452,LaPorte Juvenile Correctional,,,7,1,2,,16,26,,26
+9100,Indiana Department of Correction,5616,Dept of Correction Adult Schools,2,,33,4,8,,26,73,,73
+9115,Kindezi Academy,1118,Kindezi Academy,1,,326,69,22,1,11,335,95,430
+9120,Insight School of Indiana,2528,Insight School of Indiana,2,4,111,56,43,1,459,399,277,676
+9130,Adelante Schools,9993,Emma Donnan Elementary and Middle,2,4,132,87,22,,100,298,49,347
+9135,KIPP Indy Legacy High,9138,KIPP Indy Legacy High,,,212,27,13,,9,248,13,261
+9140,BELIEVE Circle City High School,9994,BELIEVE Circle City High School,,,34,16,3,,1,51,3,54
+9145,Riverside High School,1122,Riverside High School,,6,256,74,21,1,79,289,148,437
+9150,Circle City Prep Charter School,1126,Circle City Prep Charter School,,,187,19,9,,10,208,17,225
+9160,Excel Center - Muncie,1016,Excel Center - Muncie,1,1,46,17,16,,205,204,82,286
+9165,Paramount Englewood,7861,Paramount Englewood,,1,97,41,14,1,33,139,48,187
+9170,Rooted School Indianapolis,9997,Rooted School Indianapolis,,,54,,3,,1,49,9,58
+9190,Excel Center - Gary,1024,Excel Center - Gary,,,83,14,6,,18,75,46,121
+9195,Timothy L. Johnson Academy Middle,1039,Timothy L. Johnson Academy Middle,,67,41,6,5,,,98,21,119
+9305,Excel Center - Richmond,9012,Excel Center - Richmond,1,1,17,12,31,,175,101,136,237
+9310,Charter School of the Dunes,1535,Charter School of the Dunes,2,1,589,38,36,,18,643,41,684
+9315,Signature School Inc,8295,Signature School Inc,1,78,14,21,26,,249,63,326,389
+9320,Community Montessori Inc,1536,Community Montessori,1,4,12,11,39,5,462,126,408,534
+9325,Options Charter Schools,2524,Options Charter School - Carmel,,1,20,7,13,,102,25,118,143
+9325,Options Charter Schools,2551,Options Charter School Noblesville,,4,29,14,16,,138,38,163,201
+9325,Options Charter Schools,9329,Options Indiana,1,4,26,28,18,,223,52,248,300
+9330,Irvington Community School,1537,Irvington Community School,,3,157,121,86,1,669,678,359,1037
+9335,Excel Center - Lafayette Square,5912,Excel Center - Lafayette Square,,6,218,85,11,,28,340,8,348
+9345,Excel Center - Lafayette,8094,Excel Center - Lafayette,,1,60,35,26,,190,120,192,312
+9350,Timothy L Johnson Academy,1539,Timothy L Johnson Academy,,190,143,29,11,,2,313,62,375
+9355,Excel Center - Kokomo,2976,Excel Center - Kokomo,2,,53,17,28,,266,237,129,366
+9365,Enlace Academy,5667,Enlace Academy,,2,114,464,5,1,18,487,117,604
+9380,Christel House Academy South,5874,Christel House Academy South,,4,75,350,51,,194,552,122,674
+9385,Christel House DORS,5532,Christel House DORS,,23,241,262,10,,64,422,178,600
+9395,Christel House Academy West,5871,Christel House Academy West,,2,192,243,17,,34,403,85,488
+9400,KIPP Indy College Prep Middle,5860,KIPP Indy College Prep Middle,,1,315,28,16,,14,349,25,374
+9410,KIPP Indy Unite Elementary,5741,KIPP Indy Unite Elementary,,1,559,44,25,,9,612,26,638
+9425,Tindley Genesis Academy,5621,Tindley Genesis Academy,1,,360,55,27,,3,377,69,446
+9430,Tindley Summit Academy,5629,Tindley Summit Academy,,1,219,31,10,,6,230,37,267
+9445,Charles A Tindley Accelerated Sch,6208,Charles A Tindley Accelerated Sch,,,342,19,10,,3,274,100,374
+9460,Thea Bowman Leadership Academy,4022,Thea Bowman Leadership Academy,,,820,33,12,,1,866,,866
+9465,Rural Community Schools Inc,7951,Rural Community Academy,,,,3,,,92,95,,95
+9485,SE Neighborhood Sch of Excellence,5868,SE Neighborhood Sch of Excellence,1,,89,187,73,,297,620,27,647
+9495,Joshua Academy,8203,Joshua Academy,,1,183,4,39,,15,203,39,242
+9505,Indiana Agriculture and Technology,5472,Indiana Agriculture and Technology,,,5,18,4,,226,59,194,253
+9535,Gary Lighthouse Charter School,4130,Gary Lighthouse Charter School,4,,1200,95,30,,5,1333,1,1334
+9545,21st Century Charter Sch of Gary,4164,21st Century Charter Sch of Gary,,,1185,48,29,,2,1077,187,1264
+9555,East Chicago Urban Enterprise Acad,3935,East Chicago Urban Enterprise Acad,,,178,218,15,,1,399,13,412
+9575,Victory College Prep Academy,5523,Victory College Prep Academy,,,608,175,64,,116,848,115,963
+9595,East Chicago Lighthouse Charter,3971,East Chicago Lighthouse,1,,212,288,11,,3,514,1,515
+9605,IN Sch for the Blind & Vis Imprd,C460,IN Sch for the Blind & Vis Imprd,,2,23,17,7,,65,112,2,114
+9610,Indiana School For The Deaf,C695,Indiana School For The Deaf,,14,37,39,25,1,186,301,1,302
+9615,Andrew J Brown Academy,5488,Andrew J Brown Academy,,,319,297,32,1,20,648,21,669
+9620,Burris Laboratory School,1441,Burris Laboratory School,2,28,39,31,62,,509,156,515,671
+9625,Indiana Academy for Sci Math Hmn,1443,Indiana Academy for Sci Math Hmn,1,29,15,11,13,,131,35,165,200
+9645,Avondale Meadows Academy,5716,Avondale Meadows Academy,,,363,15,11,,1,331,59,390
+9650,Herron Charter,5724,Herron High School,2,13,249,106,74,1,506,381,570,951
+9651,"The Hope Academy, Inc.",5304,"The Hope Academy, Inc.",,,1,4,1,,14,5,15,20
+9665,Geist Montessori Academy,2572,Geist Montessori Academy,2,7,22,11,30,,198,9,261,270
+9670,Indianapolis Metropolitan High Sch,5664,Indianapolis Metropolitan High Sch,,,157,45,30,,47,208,71,279
+9680,Paramount Brookside,5508,Paramount Brookside,1,2,420,142,88,,189,624,218,842
+9685,Aspire Charter Academy,4043,Aspire Charter Academy,1,,572,33,34,,7,620,27,647
+9690,Renaissance Academy Charter School,4711,Renaissance Academy Charter School,,1,12,9,12,1,218,112,141,253
+9705,Hammond Academy of Science & Tech,4486,Hammond Academy of Science & Tech,,3,98,377,13,1,82,379,195,574
+9725,Canaan Community Academy,3312,Canaan Community Academy,2,,,7,4,,129,138,4,142
+9730,Neighbors' New Vistas High School,6864,Neighbors' New Vistas High School,,,27,41,10,,101,109,70,179
+9735,Inspire Academy - A Sch of Inquiry,1518,Inspire Academy - A Sch of Inquiry,1,,28,7,21,,100,116,41,157
+9750,Excel Center - Anderson,4904,Excel Center - Anderson,3,2,49,46,15,,188,215,88,303
+9760,Smith Academy for Excellence,242,Smith Academy for Excellence,,,33,7,14,,28,67,15,82
+9785,IN Math & Science Academy,5837,IN Math & Science Academy,2,,392,160,19,,4,486,91,577
+9790,Anderson Preparatory Academy,5092,Anderson Preparatory Academy,,,157,139,73,1,479,529,320,849
+9805,Hoosier Academy - Indianapolis,2527,Hoosier Academy - Indianapolis,1,,75,2,9,,54,97,44,141
+9835,The Bloomington Project School,6215,The Bloomington Project School,2,9,10,21,27,,238,92,215,307
+9840,Excel Center - University Heights,5749,Excel Center - University Heights,,131,67,55,9,,125,277,110,387
+9855,Excel Center - Noblesville,5748,Excel Center - Noblesville,,11,27,17,14,1,115,133,52,185
+9870,Discovery Charter School,6824,Discovery Charter School,,21,35,79,34,,329,126,372,498
+9875,Rock Creek Community Academy,771,Rock Creek Community Academy,1,4,65,38,51,1,465,198,427,625
+9880,Career Academy High School,7567,Career Academy High School,1,4,95,37,36,,187,173,187,360
+9885,Gary Middle College,4027,Gary Middle College,,,142,16,3,1,2,96,68,164
+9895,IN Math & Science Academy - North,5444,IN Math & Science Academy - North,4,2,426,210,47,,37,633,93,726
+9900,Excel Center - South Bend,7566,Excel Center - South Bend,,,93,78,13,2,75,144,117,261
+9905,Indiana Connections Academy,7944,Indiana Connections Academy,23,87,486,498,349,4,5240,2754,3933,6687
+9910,Excel Center for Adult Learners,5669,Excel Center For Adult Learners,3,24,763,220,56,3,249,849,469,1318
+9920,Damar Charter Academy,5191,Damar Charter Academy,,1,41,12,12,,128,126,68,194
+9925,Phalen Leadership Academy - IN Inc,5496,Phalen Leadership Academy - IN Inc,,,268,7,19,,3,241,56,297
+9935,Vision Academy,5899,Vision Academy,1,2,331,49,27,,16,372,54,426
+9950,Dugger Union Community School Corp,7952,Dugger Union Community School Corp,,1,3,26,5,,508,312,231,543
+9954,Phalen Leadership Academy at Louis,5548,Louis B Russell Jr School 48,,,163,27,17,,6,189,24,213
+9955,Mays Community Academy,7231,Mays Community Academy,,,,4,5,,184,118,75,193
+9960,Success Academy Primary School,7562,Success Academy Primary School,1,,273,76,72,,189,321,290,611
+9965,Career Academy Middle School,7563,Career Academy Middle School,1,2,141,37,20,,166,225,142,367
+9970,ACE Preparatory Academy,1111,ACE Preparatory Academy,,,119,10,18,,14,91,70,161
+9975,Global Preparatory Academy,1112,Global Preparatory Academy,1,4,223,294,18,,57,435,162,597
+9980,Steel City Academy,1113,Steel City Academy,,,390,10,10,,5,317,98,415
+9985,Seven Oaks Classical School,1114,Seven Oaks Classical School,1,3,1,8,28,,347,85,303,388
+9990,Higher Institute of Arts & Tech,1116,Higher Institute of Arts & Tech,,,187,7,10,,3,168,39,207
+9995,Excel Center - Shelbyville,1117,Excel Center - Shelbyville,,2,4,20,8,,127,99,62,161
