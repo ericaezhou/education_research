@@ -15,11 +15,17 @@ Special thanks to Prof. Arvind Krishna, Prof. Charles Manski, Prof. Joel L. Horo
 Each folder contains replication code `state_cleaning.ipynb` for `<state>_<outcome>.csv`.
 
 Data Source:
+
 Arizona: http://localhost:8888/notebooks/Desktop/Honors%20Thesis/Final%20Project/state/arizona/arizona_cleaning.ipynb#Data:-https://www.azed.gov/accountability-research/data
+
 Colorado: http://localhost:8888/notebooks/Desktop/Honors%20Thesis/Final%20Project/state/arizona/arizona_cleaning.ipynb#Data:-https://www.azed.gov/accountability-research/data
+
 Georgia: http://localhost:8888/notebooks/Desktop/Honors%20Thesis/Final%20Project/state/arizona/arizona_cleaning.ipynb#Data:-https://www.azed.gov/accountability-research/data
+
 Illinois: http://localhost:8888/notebooks/Desktop/Honors%20Thesis/Final%20Project/state/arizona/arizona_cleaning.ipynb#Data:-https://www.azed.gov/accountability-research/data
+
 Indiana: http://localhost:8888/notebooks/Desktop/Honors%20Thesis/Final%20Project/state/arizona/arizona_cleaning.ipynb#Data:-https://www.azed.gov/accountability-research/data
+
 Wisconsin: http://localhost:8888/notebooks/Desktop/Honors%20Thesis/Final%20Project/state/arizona/arizona_cleaning.ipynb#Data:-https://www.azed.gov/accountability-research/data
 
 
