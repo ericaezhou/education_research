@@ -17,3 +17,8 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 
 
 ### influential_analysis: 
+`dfbetas_computation.ipynb` contains replication code used to create DFBETAS values for each parameter of interest in the `after_removal_dfbetas` and `before_removal_dfbetas` folders
+
+`dfbetas_visualization.ipynb` contains replication code used to create DFBETAS plots before and after influential entities removal
+
+`removed_entities` contains influential enitities identified for mathpass, elapass, and dropout, which are removed in the final data sample
