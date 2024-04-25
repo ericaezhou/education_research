@@ -26,7 +26,7 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 
 `dfbetas_visualization.ipynb`: replication code used to create DFBETAS plots
 
-`removed_entities`: influential enitities identified for mathpass, elapass, and dropout that are ultimately removed in the final data sample
+`removed_entities`: influential enitities ultimately removed in the final data sample
 
 ### model_diagnostic:
 
