@@ -11,7 +11,7 @@ Special thanks to Prof. Arvind Krishna, Prof. Charles Manski, Prof. Joel L. Horo
 
 ### data: 
 
-Each `state` folder contains replication code `state_cleaning.ipynb` for `state_outcome.csv` in the `final_csv` folder
+Each `state` folder contains replication code `<state>_cleaning.ipynb` used to create `<state>_<outcome>.csv` in the `final_csv` folder
 
 Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colorado](https://www.cde.state.co.us/cdereval), [Georgia](https://gosa.georgia.gov/dashboards-data-report-card/downloadable-data), [Illinois](https://www.isbe.net/Pages/Data-Analysis.aspx), [Indiana](https://www.in.gov/doe/it/data-center-and-reports/), [Wisconsin](https://dpi.wi.gov/wisedash/download-files/type?field_wisedash_upload_type_value=All), [COVID-19 Instruction Mode](https://www.covidschooldatahub.com/)
 
