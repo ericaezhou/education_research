@@ -20,7 +20,7 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 ### descriptive_analysis:
 
 > [!NOTE]  
-> Descriptive analysis is pivotal for unveiling data patterns and characteristics. This study visualizes test proficiency and dropout rate changes by state, demographics, and instruction modes to effectively communicate complex information in a concise and accessible manner. However, it is crucial to acknowledge that these changes cannot be used to draw significant conclusions about the effect of instruction mode on education outcomes. An identification strategy is essential to disentangle other factors and biases. Attention to statistical significance of weighted point estimates reinforces the need for caution in drawing insights solely from descriptive graphs.
+> Descriptive analysis is pivotal for unveiling data patterns and characteristics. Visualizing test proficiency and dropout rate changes by state, demographics, and instruction modes effectively communicates complex information in a concise and accessible manner. However, it is crucial to acknowledge that these changes cannot be used to draw significant conclusions about the effect of instruction mode on education outcomes. An identification strategy is essential to disentangle other factors and biases. Attention to statistical significance of weighted point estimates reinforces the need for caution in drawing insights solely from descriptive graphs.
 
 `descriptive_analysis.ipynb`: replication code used to create weighted mean csv file in the `figure_csv` folder
 
@@ -46,7 +46,7 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 ### model_diagnostic:
 
 > [!NOTE]
-> Although the choice of model specifications is initiated with domain knowledge, rigorous statistical analysis is conducted to ensure the appropriateness of model selection and that the data sample suffices key model assumptions. Residuals, studentized residuals, and Cook's distance are plotted to assess the adequacy of regression models and to further identify influential data points. 
+> While model specifications begin with domain knowledge, rigorous statistical analysis validates model selection and sample adequacy in satisfying key model assumptions. Plotting residuals, studentized residuals, and Cook's distance evaluates regression model adequacy and identifies influential data points, strengthening the robustness of regression analyses. 
 
 `model_diagnostic.ipynb`: replication code for model selection, model assumption check, and plotting residuals, studentized residuals, and Cook's distance
 
