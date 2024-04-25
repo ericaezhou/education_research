@@ -19,6 +19,8 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 
 ### descriptive_analysis:
 
+In social science research, descriptive analysis plays a pivotal role in elucidating the underlying patterns and characteristics within the data. By visualizing test proficiency and dropout rate changes by state, demographic attributes, and instruction modalities, this study effectively communicate complex information in a concise and accessible manner. However, it is crucial to acknowledge that these changes alone cannot be used to draw significant conclusions about the effect of instruction mode. An identification strategy is essential to disentangle other factors and biases. Additionally, attention to statistical significance, measured by confidence intervals of weighted point estimates, reinforces the need for caution in drawing insights solely from descriptive graphs.
+
 `descriptive_analysis.ipynb`: replication code used to create weighted mean csv file in the `figure_csv` folder
 
 `descriptive_analysis_ci.ipynb`: replication code used to output the 95% confidence interval of weighted mean calculations
@@ -27,9 +29,9 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 
 ### influential_analysis: 
 
-`before_removal_dfbetas`: DFBETAS values for each parameter of interet before influential entities removal
+`before_removal_dfbetas`: DFBETAS values for each parameter of interest before influential entities removal
 
-`after removal_dfbetas`: DFBETAS values for each parameter of interet after influential entities removal
+`after removal_dfbetas`: DFBETAS values for each parameter of interest after influential entities removal
 
 `dfbetas_computation.ipynb`: replication code used to create DFBETAS values
 
