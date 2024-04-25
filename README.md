@@ -3,6 +3,8 @@ Previous research has established that transition from face-to-face instruction 
 
 Special thanks to Prof. Arvind Krishna, Prof. Charles Manski, Prof. Joel L. Horowitz, and Prof. Richard Walker for their guidance and constructive feedback.
 
+Link to full paper: Impacts of Pandemic Instruction Mode on High School Students' Education Outcomes: Evidence from U.S. States
+
 ## Repository Description
 
 >[!TIP]
