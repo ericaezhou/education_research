@@ -21,7 +21,7 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 
 `descriptive_analysis.ipynb`: replication code used to create weighted mean csv file in the `figure_csv` folder
 
-`descriptive_analysis_ci.ipynb`: replication code used to output the 95% confidence interval of each weighted mean calculation
+`descriptive_analysis_ci.ipynb`: replication code used to output the 95% confidence interval of weighted mean calculations
 
 `figure_csv`: csv files used to generate figures in the `figure` folder via Stata
 
