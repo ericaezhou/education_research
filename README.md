@@ -34,5 +34,5 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 
 ### visualization:
 
-Each 'outcome' folder contains visualizations of DFBETAS plots, residual plots, studentized residual plots, and cook's distance plots
+Each `outcome` folder contains visualizations of DFBETAS plots, residual plots, studentized residual plots, and cook's distance plots
 
