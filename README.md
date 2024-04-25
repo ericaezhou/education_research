@@ -30,6 +30,9 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 
 ### influential_analysis: 
 
+> [!NOTE]  
+> Influential point analysis is used to ensure the reliability of statistical results. By identifying and removing observations that exert substantial influences on parameters of interest, this study strengthens the validity and generalizability of regression results. The DFBETAS are statistics that indicate the effect deleting each observation has on the estimates for the regression coefficients. A high DFBETAS value indicates high influence of an observation and should be considered to remove to ensure that the estimated coefficients are not skewed by certain high-influential observations and thus not representative of the total population.
+
 `before_removal_dfbetas`: DFBETAS values for each parameter of interest before influential entities removal
 
 `after removal_dfbetas`: DFBETAS values for each parameter of interest after influential entities removal
@@ -42,7 +45,7 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 
 ### model_diagnostic:
 
-`before_removal_dfbetas`: replication code for model selection, model assumption check, and plotting residuals, studentized residuals, and cook's distance
+`model_diagnostic.ipynb`: replication code for model selection, model assumption check, and plotting residuals, studentized residuals, and cook's distance
 
 ### visualization:
 
