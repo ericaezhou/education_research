@@ -30,6 +30,9 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 
 ### model_diagnostic:
 
+`before_removal_dfbetas`: replication code for model selection, model assumption check, and plotting residuals, studentized residuals, and cook's distance
+
 ### visualization:
 
+Each 'outcome' folder contains visualizations of DFBETAS plots, residual plots, studentized residual plots, and cook's distance plots
 
