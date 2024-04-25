@@ -17,12 +17,19 @@ Each `state` folder contains replication code `<state>_cleaning.ipynb` used to c
 
 Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colorado](https://www.cde.state.co.us/cdereval), [Georgia](https://gosa.georgia.gov/dashboards-data-report-card/downloadable-data), [Illinois](https://www.isbe.net/Pages/Data-Analysis.aspx), [Indiana](https://www.in.gov/doe/it/data-center-and-reports/), [Wisconsin](https://dpi.wi.gov/wisedash/download-files/type?field_wisedash_upload_type_value=All), [COVID-19 Instruction Mode](https://www.covidschooldatahub.com/)
 
+### descriptive_analysis:
+
+`descriptive_analysis.ipynb`: replication code used to create weighted mean csv file in the `figure_csv` folder
+
+`descriptive_analysis_ci.ipynb`: replication code used to output the 95% confidence interval of each weighted mean calculation
+
+`figure_csv`: csv files used to generate figures in the `figure` folder via Stata
 
 ### influential_analysis: 
 
-`before_removal_dfbetas`: DFBETAS values for eaah parameter of interet before influential entities removal
+`before_removal_dfbetas`: DFBETAS values for each parameter of interet before influential entities removal
 
-`after removal_dfbetas`: DFBETAS values for eaah parameter of interet after influential entities removal
+`after removal_dfbetas`: DFBETAS values for each parameter of interet after influential entities removal
 
 `dfbetas_computation.ipynb`: replication code used to create DFBETAS values
 
