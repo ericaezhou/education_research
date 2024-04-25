@@ -45,7 +45,9 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 
 ### model_diagnostic:
 
-`model_diagnostic.ipynb`: replication code for model selection, model assumption check, and plotting residuals, studentized residuals, and cook's distance
+Although the choice of model specifications is initiated with domain knowledge, rigorous statistical analysis is conducted to ensure the appropriateness of model selection and that the data sample suffices key model assumptions. Residuals, studentized residuals, and Cook's distance are plotted to assess the adequacy of regression models and to further identify influential data points. 
+
+`model_diagnostic.ipynb`: replication code for model selection, model assumption check, and plotting residuals, studentized residuals, and Cook's distance
 
 ### visualization:
 
