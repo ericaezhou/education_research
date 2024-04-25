@@ -20,7 +20,7 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 ### descriptive_analysis:
 
 > [!NOTE]  
-> In social science research, descriptive analysis plays a pivotal role in elucidating the underlying patterns and characteristics within the data. By visualizing test proficiency and dropout rate changes by state, demographic attributes, and instruction modalities, this study effectively communicate complex information in a concise and accessible manner. However, it is crucial to acknowledge that these changes alone cannot be used to draw significant conclusions about the effect of instruction mode. An identification strategy is essential to disentangle other factors and biases. Additionally, attention to statistical significance, measured by confidence intervals of weighted point estimates, reinforces the need for caution in drawing insights solely from descriptive graphs.
+> In social science research, descriptive analysis is pivotal for unveiling data patterns and characteristics. This study visualizes test proficiency and dropout rate changes by state, demographics, and instruction modes to effectively communicate complex information in a concise and accessible manner. However, it is crucial to acknowledge that these changes cannot be used to draw significant conclusions about the effect of instruction mode on education outcomes. An identification strategy is essential to disentangle other factors and biases. Attention to statistical significance of weighted point estimates reinforces the need for caution in drawing insights solely from descriptive graphs.
 
 `descriptive_analysis.ipynb`: replication code used to create weighted mean csv file in the `figure_csv` folder
 
