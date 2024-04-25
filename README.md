@@ -6,27 +6,14 @@ Special thanks to Prof. Arvind Krishna, Prof. Charles Manski, Prof. Joel L. Horo
 ## Repository Description
 
 >[!TIP]
->`<outcome>` is either mathpass, elapass, or dropout<br />
->`<state>` is the abbreviation of chosen U.S. states<br />
->`<interaction_variable>` is either year, income, schooltype, black, hispanic, or black_hispanic
+>`<outcome>` is either mathpass, elapass, dropout, or all<br />
+>`<state>` is the name of U.S. states<br />
 
 ### data: 
 
-Each folder contains replication code `state_cleaning.ipynb` for `<state>_<outcome>.csv`.
+Each folder contains replication code `<state>_cleaning.ipynb` for `<state>_<outcome>.csv`.
 
-Data Source:
-
-[Arizona](https://www.azed.gov/accountability-research/data)
-
-Colorado: http://localhost:8888/notebooks/Desktop/Honors%20Thesis/Final%20Project/state/arizona/arizona_cleaning.ipynb#Data:-https://www.azed.gov/accountability-research/data
-
-Georgia: http://localhost:8888/notebooks/Desktop/Honors%20Thesis/Final%20Project/state/arizona/arizona_cleaning.ipynb#Data:-https://www.azed.gov/accountability-research/data
-
-Illinois: http://localhost:8888/notebooks/Desktop/Honors%20Thesis/Final%20Project/state/arizona/arizona_cleaning.ipynb#Data:-https://www.azed.gov/accountability-research/data
-
-Indiana: http://localhost:8888/notebooks/Desktop/Honors%20Thesis/Final%20Project/state/arizona/arizona_cleaning.ipynb#Data:-https://www.azed.gov/accountability-research/data
-
-Wisconsin: http://localhost:8888/notebooks/Desktop/Honors%20Thesis/Final%20Project/state/arizona/arizona_cleaning.ipynb#Data:-https://www.azed.gov/accountability-research/data
+Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colorado](https://www.cde.state.co.us/cdereval), [Georgia](https://gosa.georgia.gov/dashboards-data-report-card/downloadable-data), [Illinois](https://www.isbe.net/Pages/Data-Analysis.aspx), [Indiana](https://www.in.gov/doe/it/data-center-and-reports/), [Wisconsin](https://dpi.wi.gov/wisedash/download-files/type?field_wisedash_upload_type_value=All), [COVID-19 Instruction Mode](https://www.covidschooldatahub.com/)
 
 
 ### influential_analysis: 
