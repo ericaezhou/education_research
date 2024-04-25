@@ -20,7 +20,7 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 ### descriptive_analysis:
 
 > [!NOTE]  
-> In social science research, descriptive analysis is pivotal for unveiling data patterns and characteristics. This study visualizes test proficiency and dropout rate changes by state, demographics, and instruction modes to effectively communicate complex information in a concise and accessible manner. However, it is crucial to acknowledge that these changes cannot be used to draw significant conclusions about the effect of instruction mode on education outcomes. An identification strategy is essential to disentangle other factors and biases. Attention to statistical significance of weighted point estimates reinforces the need for caution in drawing insights solely from descriptive graphs.
+> Descriptive analysis is pivotal for unveiling data patterns and characteristics. This study visualizes test proficiency and dropout rate changes by state, demographics, and instruction modes to effectively communicate complex information in a concise and accessible manner. However, it is crucial to acknowledge that these changes cannot be used to draw significant conclusions about the effect of instruction mode on education outcomes. An identification strategy is essential to disentangle other factors and biases. Attention to statistical significance of weighted point estimates reinforces the need for caution in drawing insights solely from descriptive graphs.
 
 `descriptive_analysis.ipynb`: replication code used to create weighted mean csv file in the `figure_csv` folder
 
@@ -31,7 +31,7 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 ### influential_analysis: 
 
 > [!NOTE]  
-> Influential point analysis is used to ensure the reliability of statistical results. By identifying and removing observations that exert substantial influences on parameters of interest, this study strengthens the validity and generalizability of regression results. The DFBETAS are statistics that indicate the effect deleting each observation has on the estimates for the regression coefficients. A high DFBETAS value indicates high influence of an observation and should be considered to remove to ensure that the estimated coefficients are not skewed by certain high-influential observations and thus not representative of the total population.
+> Influential point analysis safeguards statistical reliability by identifying and removing influential observations, enhancing the validity and generalizability of regression results. DFBETAS, indicating the impact of deleting each observation on regression coefficients, are computed to guide this process. High DFBETAS values signify significant influence and suggest removal to maintain the representativeness of coefficient across the population.
 
 `before_removal_dfbetas`: DFBETAS values for each parameter of interest before influential entities removal
 
