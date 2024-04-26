@@ -50,7 +50,7 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 
 `model_diagnostic.ipynb`: replication code for model selection, model assumption check, and plotting residuals, studentized residuals, and Cook's distance
 
-`pairwise_correlation.ipynb`: replication code to compute pairwise correlation between demographic variables and instruction mode
+`pairwise_correlation.ipynb`: replication code used to compute pairwise correlation between demographic variables and instruction mode
 
 ### visualization:
 
