@@ -46,11 +46,13 @@ Data Source: [Arizona](https://www.azed.gov/accountability-research/data), [Colo
 ### model_diagnostic:
 
 > [!NOTE]
-> While model specifications begin with domain knowledge, rigorous statistical analysis validates model selection and sample adequacy in satisfying key model assumptions. Plotting residuals, studentized residuals, and Cook's distance evaluates regression model adequacy and identifies influential data points, strengthening the robustness of regression analyses. 
+> While model specifications begin with domain knowledge, rigorous statistical analysis validates model selection and sample adequacy in satisfying key model assumptions. Plotting residuals, studentized residuals, and Cook's distance evaluates regression model accuracy and identifies influential data points, strengthening the robustness of regression results. 
 
 `model_diagnostic.ipynb`: replication code for model selection, model assumption check, and plotting residuals, studentized residuals, and Cook's distance
 
+`pairwise_correlation.ipynb`: replication code to compute pairwise correlation between demographic variables and instruction mode
+
 ### visualization:
 
-Each `outcome` folder contains visualizations of DFBETAS plots, residual plots, studentized residual plots, and cook's distance plots
+Each `outcome` folder contains visualizations of DFBETAS plots, residual plots, studentized residual plots, and Cook's distance plots
 
